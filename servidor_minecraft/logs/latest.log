@@ -415,3 +415,98 @@
 [20:24:10] [Async Chat Thread - #44/INFO]: [Not Secure] <Sebas23m> y escogue unamonita o cualquier skin que quieras
 [20:24:12] [Server thread/INFO]: jp7806073 joined the game
 [20:24:12] [Server thread/INFO]: jp7806073[/127.94.121.158:46977] logged in with entity id 27141 at ([world]-172.18052774584498, 71.9375, -457.5313183963663)
+[20:24:23] [Server thread/INFO]: zerox issued server command: /skin
+[20:24:37] [Server thread/INFO]: zerox issued server command: /skin set
+[20:24:41] [Server thread/WARN]: zerox moved too quickly! 7.680109532205961,0.4990033597325265,11.08905156213342
+[20:27:13] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[20:27:13] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -220, 73, -451
+[20:27:13] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[20:27:39] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[20:27:39] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -206, 75, -408
+[20:27:39] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[20:27:43] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[20:27:43] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -199, 73, -404
+[20:27:43] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[20:27:49] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[20:27:49] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -202, 73, -398
+[20:27:49] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[20:27:54] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 4
+[20:27:54] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -202, 73, -391
+[20:27:54] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -205, 73, -391
+[20:27:54] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -205, 73, -383
+[20:27:54] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -211, 76, -378
+[20:27:54] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[20:28:19] [Async Chat Thread - #46/INFO]: [Not Secure] <jp7806073> Home c
+[20:28:25] [Server thread/INFO]: jp7806073 issued server command: /Home c
+[20:28:30] [Async Chat Thread - #46/INFO]: [Not Secure] <jp7806073> Home c
+[20:28:42] [Server thread/INFO]: jp7806073 issued server command: /home c
+[20:28:43] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 2
+[20:28:43] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1964, 93, -1269
+[20:28:43] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1965, 93, -1273
+[20:28:43] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[20:28:52] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 4
+[20:28:52] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1951, 94, -1274
+[20:28:52] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1948, 94, -1273
+[20:28:52] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1945, 95, -1274
+[20:28:52] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1944, 95, -1277
+[20:28:52] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[20:29:38] [User Authenticator #13/INFO]: UUID of player zerox is 14915c85-50a2-37de-8dda-02cb959b7576
+[20:29:38] [Server thread/INFO]: zerox lost connection: You logged in from another location
+[20:29:38] [Server thread/INFO]: zerox left the game
+[20:29:40] [Server thread/INFO]: zerox joined the game
+[20:29:40] [Server thread/INFO]: zerox[/127.69.204.241:33719] logged in with entity id 29923 at ([world]327.3695485766061, 70.0, -191.88607267960802)
+[20:29:58] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[20:29:58] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1942, 96, -1268
+[20:29:58] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[20:30:04] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 7
+[20:30:04] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1952, 94, -1283
+[20:30:04] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1952, 94, -1286
+[20:30:04] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1960, 92, -1287
+[20:30:04] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1963, 92, -1283
+[20:30:04] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1964, 91, -1290
+[20:30:04] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1966, 92, -1280
+[20:30:04] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1965, 91, -1294
+[20:30:04] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[20:30:18] [Server thread/INFO]: jp7806073 issued server command: /tp jp7806073 zerox
+[20:30:18] [Server thread/INFO]: [jp7806073: Teleported jp7806073 to zerox]
+[20:30:29] [Async Chat Thread - #48/INFO]: [Not Secure] <zerox> ahora como volvernos a casa mmñemas
+[20:30:29] [Async Chat Thread - #48/INFO]: [Not Secure] <Sebas23m> zero te quieres vicir con migo
+[20:30:40] [Async Chat Thread - #48/INFO]: [Not Secure] <jp7806073> con el /home
+[20:30:51] [Server thread/INFO]: zerox issued server command: /home
+[20:31:03] [Async Chat Thread - #48/INFO]: [Not Secure] <Sebas23m> pap ero si ono ?
+[20:31:04] [Server thread/INFO]: zerox issued server command: /Home K
+[20:31:10] [Async Chat Thread - #48/INFO]: [Not Secure] <Sebas23m> papa zero
+[20:31:13] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 7
+[20:31:13] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1956, 93, -1293
+[20:31:13] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1953, 93, -1292
+[20:31:13] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1950, 94, -1297
+[20:31:13] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1947, 94, -1296
+[20:31:13] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1944, 95, -1297
+[20:31:13] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1941, 95, -1293
+[20:31:13] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1940, 95, -1298
+[20:31:13] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[20:31:19] [Server thread/INFO]: jp7806073 issued server command: /Home c
+[20:31:21] [Async Chat Thread - #48/INFO]: [Not Secure] <zerox> no me deja el comando
+[20:31:22] [Server thread/INFO]: jp7806073 issued server command: /Home c
+[20:31:27] [Server thread/INFO]: jp7806073 issued server command: /Home c
+[20:31:31] [Async Chat Thread - #48/INFO]: [Not Secure] <zerox> quería q me tepearas cuando encontrará caña
+[20:31:33] [Server thread/INFO]: jp7806073 issued server command: /home C
+[20:31:41] [Async Chat Thread - #48/INFO]: [Not Secure] <jp7806073> Zero a mi
+[20:31:45] [Server thread/WARN]: zerox was kicked for floating too long!
+[20:31:45] [Server thread/INFO]: zerox lost connection: Flying is not enabled on this server
+[20:31:45] [Server thread/INFO]: zerox left the game
+[20:31:56] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 2
+[20:31:56] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1955, 94, -1304
+[20:31:56] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1960, 92, -1301
+[20:31:56] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[20:32:04] [User Authenticator #14/INFO]: UUID of player zerox is 14915c85-50a2-37de-8dda-02cb959b7576
+[20:32:08] [Server thread/INFO]: zerox joined the game
+[20:32:08] [Server thread/INFO]: zerox[/127.206.150.66:48435] logged in with entity id 31492 at ([world]347.66677249963897, 80.84610397459554, -79.20871638920742)
+[20:32:47] [Server thread/INFO]: zerox issued server command: /Home
+[20:32:47] [Async Chat Thread - #50/INFO]: [Not Secure] <jp7806073> tepeate zero
+[20:32:54] [Async Chat Thread - #50/INFO]: [Not Secure] <zerox> y como ajajajajja
+[20:32:59] [Server thread/INFO]: zerox issued server command: /tp home
+[20:33:05] [Server thread/INFO]: jp7806073 issued server command: /tp zerox jp7806073
+[20:33:05] [Server thread/INFO]: [jp7806073: Teleported zerox to jp7806073]
+[20:33:11] [Async Chat Thread - #50/INFO]: [Not Secure] <jp7806073> pon la calla
+[20:34:20] [Async Chat Thread - #52/INFO]: [Not Secure] <jp7806073> pon la caña en la arena
