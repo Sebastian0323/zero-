@@ -1,355 +1,158 @@
-[21:19:34] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[21:19:34] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[21:19:34] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[21:19:35] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
-[21:19:35] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
+[22:52:34] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[22:52:34] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[22:52:34] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[22:52:36] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
+[22:52:36] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
  - LevelledMobs (4.3.2.1 b125), SetHome (2.0), SimpleTimber (2.1.0), SkinsRestorer (15.7.8), ViaVersion (5.4.1)
-[21:19:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:19:41] [ServerMain/INFO]: Loaded 1290 recipes
-[21:19:41] [ServerMain/INFO]: Loaded 1399 advancements
-[21:19:42] [Server thread/INFO]: Starting minecraft server version 1.21
-[21:19:42] [Server thread/INFO]: Loading properties
-[21:19:42] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[21:19:42] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[21:19:42] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:19:42] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:19:43] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[21:19:43] [Server thread/INFO]: Default game type: SURVIVAL
-[21:19:43] [Server thread/INFO]: Generating keypair
-[21:19:43] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:19:44] [Server thread/INFO]: Using epoll channel type
-[21:19:44] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[21:19:44] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[21:19:46] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
-[21:19:46] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
-[21:19:48] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[21:19:48] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[21:19:49] [Server thread/INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.3.2.1 b125
-[21:19:49] [Server thread/INFO]: [LevelledMobs] Loading commands
-[21:19:50] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v2.0
-[21:19:50] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.8
-[21:19:50] [Server thread/INFO]: [SimpleTimber] Loading server plugin SimpleTimber v2.1.0
-[21:19:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:19:50] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.8
-[21:19:52] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[21:19:53] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[21:19:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:19:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:19:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:19:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:19:53] [Server thread/INFO]: Preparing level "world"
-[21:19:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:19:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[21:19:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[21:19:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[21:19:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[21:19:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[21:19:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:19:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.8
-[21:19:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 8c78340
-[21:19:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[21:19:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:19:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[21:19:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[21:19:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:19:55] [Server thread/INFO]: Time elapsed: 1209 ms
-[21:19:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:19:55] [Server thread/INFO]: Time elapsed: 557 ms
-[21:19:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:19:55] [Server thread/INFO]: Time elapsed: 116 ms
-[21:19:55] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
-[21:19:55] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
-[21:19:55] [Server thread/INFO]: [LevelledMobs] Enabling LevelledMobs v4.3.2.1 b125
-[21:19:55] [Server thread/INFO]: [LevelledMobs] Enabling commands
-[21:19:55] [Server thread/INFO]: [LevelledMobs] Building reflection cache, use simple names: true
-[21:19:55] [Server thread/INFO]: [LevelledMobs] Using NMS version 1.21 for nametag support
-[21:19:55] [Server thread/INFO]: [LevelledMobs] File Loader: Loading files...
-[21:19:55] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
-[21:19:55] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
-[21:19:55] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
-[21:19:56] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
-[21:19:56] [Server thread/INFO]: [LevelledMobs] Current rules hash: 9b0f48e3273bb9cc29d2891ad33fb3410fec8cf1e77c2092ff670fd38f6d4ff5
-[21:19:56] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
-[21:19:56] [Server thread/INFO]: [LevelledMobs] Listeners: Registering event listeners...
-[21:19:56] [Server thread/INFO]: [LevelledMobs] Running misc procedures
-[21:19:56] [Server thread/INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
-[21:19:56] [Server thread/INFO]: [LevelledMobs] Start-up complete (took 817ms)
-[21:19:56] [Server thread/INFO]: [SetHome] Enabling SetHome v2.0
-[21:19:56] [Server thread/INFO]: [SimpleTimber] Enabling SimpleTimber v2.1.0
-[21:19:56] [Server thread/INFO]: [SimpleTimber] Plugin is being enabled...
-[21:19:57] [Server thread/INFO]: [SimpleTimber] Using language file: english.yml
-[21:19:57] [Server thread/INFO]: [SimpleTimber] Loaded 3 configs!
-[21:19:57] [Server thread/INFO]: [SimpleTimber] Registered 1 commands!
-[21:19:57] [Server thread/INFO]: [SimpleTimber] Registered 2 listeners!
-[21:19:57] [Server thread/INFO]: [SimpleTimber] Plugin has been enabled!
-[21:19:57] [Server thread/INFO]: [spark] Starting background profiler...
-[21:19:58] [Server thread/INFO]: Done preparing level "world" (5.071s)
-[21:19:58] [Server thread/INFO]: Running delayed init tasks
-[21:19:58] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[21:19:58] [Server thread/INFO]: Done (24.774s)! For help, type "help"
-[21:19:58] [Server thread/INFO]: Timings Reset
-[21:19:58] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.4.1
-[21:20:01] [Craft Scheduler Thread - 7 - SimpleTimber/INFO]: [SimpleTimber] You are using the latest version of SimpleTimber!
-[21:20:09] [User Authenticator #0/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
-[21:20:11] [Server thread/INFO]: Sebas23m joined the game
-[21:20:12] [Server thread/INFO]: Sebas23m[/127.124.233.182:34825] logged in with entity id 38 at ([world]-1744.032226504343, -47.0, -1270.6266493338806)
-[21:20:13] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 1e8b5bb6-7339-4fdf-8bd9-005a01ef2576, mapped to Bat['Bat'/106, uuid='1e8b5bb6-7339-4fdf-8bd9-005a01ef2576', l='ServerLevel[world]', x=-1666.29, y=-16.49, z=-1312.94, cpos=[-105, -83], tl=459, v=true], can't add Bat['Bat'/111, uuid='1e8b5bb6-7339-4fdf-8bd9-005a01ef2576', l='ServerLevel[world]', x=-1662.83, y=-18.22, z=-1310.42, cpos=[-104, -82], tl=520, v=false]
-[21:20:21] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: b1b7452c-55ef-4c12-adaf-15f89461cf60, mapped to Bee['Bee'/154, uuid='b1b7452c-55ef-4c12-adaf-15f89461cf60', l='ServerLevel[world]', x=-1732.48, y=119.89, z=-1400.82, cpos=[-109, -88], tl=7179, v=true], can't add Bee['Bee'/200, uuid='b1b7452c-55ef-4c12-adaf-15f89461cf60', l='ServerLevel[world]', x=-1656.76, y=105.54, z=-1348.66, cpos=[-104, -85], tl=1694, v=false]
-[21:20:21] [User Authenticator #0/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
-[21:20:23] [User Authenticator #0/INFO]: UUID of player zerox is 14915c85-50a2-37de-8dda-02cb959b7576
-[21:20:25] [Server thread/INFO]: jp7806073 joined the game
-[21:20:25] [Server thread/INFO]: jp7806073[/127.94.121.158:35945] logged in with entity id 203 at ([world]-1710.6533613494114, -42.0, -1210.343086669681)
-[21:20:27] [Server thread/INFO]: zerox joined the game
-[21:20:27] [Server thread/INFO]: zerox[/127.117.50.60:38177] logged in with entity id 211 at ([world]-172.79791737508597, 72.0, -470.1872948770435)
-[21:20:40] [Server thread/INFO]: Sebas23m was shot by Lvl 8 | Skeleton
-[21:21:11] [Server thread/INFO]: jp7806073 issued server command: /tp jp7806073 Sebas23m
-[21:21:11] [Server thread/INFO]: [jp7806073: Teleported jp7806073 to Sebas23m]
-[21:21:26] [User Authenticator #1/INFO]: UUID of player zerox is 14915c85-50a2-37de-8dda-02cb959b7576
-[21:21:26] [Server thread/INFO]: zerox lost connection: You logged in from another location
-[21:21:26] [Server thread/INFO]: zerox left the game
-[21:21:26] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
-[21:21:26] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
-[21:21:29] [Server thread/INFO]: zerox joined the game
-[21:21:29] [Server thread/INFO]: zerox[/127.48.95.22:48049] logged in with entity id 912 at ([world]-172.79791737508597, 72.0, -470.1872948770435)
-[21:22:24] [Server thread/INFO]: zerox lost connection: Disconnected
-[21:22:24] [Server thread/INFO]: zerox left the game
-[21:22:50] [Server thread/INFO]: Sebas23m issued server command: /effect give Sebas23m minecraft:night_vision infinite
-[21:22:50] [Server thread/INFO]: [Sebas23m: Applied effect Night Vision to Sebas23m]
-[21:23:18] [Server thread/INFO]: jp7806073 was slain by Lvl 9 | Spawner Zombie
-[21:23:24] [Server thread/INFO]: Sebas23m was slain by Lvl 9 | Spawner Zombie
-[21:23:38] [Server thread/INFO]: jp7806073 issued server command: /tp jp7806073 Sebas23m
-[21:23:38] [Server thread/INFO]: [jp7806073: Teleported jp7806073 to Sebas23m]
-[21:23:52] [Server thread/INFO]: Sebas23m issued server command: /effect give jp7806073 minecraft:night_vision infinite
-[21:23:52] [Server thread/INFO]: [Sebas23m: Applied effect Night Vision to jp7806073]
-[21:24:00] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
-[21:24:00] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
-[21:24:23] [Server thread/INFO]: Sebas23m has made the advancement [Diamonds!]
-[21:25:38] [Server thread/INFO]: Sebas23m issued server command: /effect give Sebas23m minecraft:night_vision infinite
-[21:25:38] [Server thread/INFO]: [Sebas23m: Applied effect Night Vision to Sebas23m]
-[21:28:12] [Server thread/INFO]: jp7806073 issued server command: /Home w
-[21:28:25] [Server thread/INFO]: jp7806073 issued server command: /home w
-[21:28:38] [Server thread/INFO]: jp7806073 issued server command: /home c
-[21:28:49] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[21:29:40] [Server thread/INFO]: jp7806073 issued server command: /home
-[21:30:25] [Server thread/INFO]: jp7806073 issued server command: /tp jp7806073 Sebas23m
-[21:30:25] [Server thread/INFO]: [jp7806073: Teleported jp7806073 to Sebas23m]
-[21:31:49] [Server thread/INFO]: Sebas23m was slain by Lvl 10 | Spawner Spider
-[21:32:13] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1687.5 -40 -1192.5
-[21:32:13] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -1687.500000, -40.000000, -1192.500000]
-[21:32:15] [Server thread/INFO]: Sebas23m was slain by Lvl 8 | Zombie
-[21:33:23] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1687.5 -40 -1192.5
-[21:33:23] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -1687.500000, -40.000000, -1192.500000]
-[21:33:44] [Server thread/INFO]: Sebas23m was slain by Lvl 7 | Zombie
-[21:33:57] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1683.5 -42 -1198.5
-[21:33:57] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -1683.500000, -42.000000, -1198.500000]
-[21:34:02] [Server thread/INFO]: Sebas23m was slain by Lvl 6 | Spawner Spider
-[21:34:13] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1679.5 -40 -1198.5
-[21:34:13] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -1679.500000, -40.000000, -1198.500000]
-[21:34:16] [Server thread/INFO]: Sebas23m was slain by Lvl 13 | Spawner Spider
-[21:34:23] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1683.5 -42 -1198.5
-[21:34:23] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -1683.500000, -42.000000, -1198.500000]
-[21:34:26] [Server thread/INFO]: Sebas23m was slain by Lvl 1 | Zombie
-[21:34:44] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1681.0 63 -1198.0
-[21:34:44] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -1681.000000, 63.000000, -1198.000000]
-[21:34:52] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1678.5 -40 -1196.5
-[21:34:52] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -1678.500000, -40.000000, -1196.500000]
-[21:34:56] [Server thread/INFO]: Sebas23m was slain by Lvl 10 | Zombie
-[21:35:08] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1679.5 -40 -1198.5
-[21:35:08] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -1679.500000, -40.000000, -1198.500000]
-[21:35:21] [Server thread/INFO]: Sebas23m was blown up by Lvl 8 | Creeper
-[21:35:29] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1707.5 -41 -1197.5
-[21:35:29] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -1707.500000, -41.000000, -1197.500000]
-[21:35:34] [Server thread/INFO]: Sebas23m was slain by Lvl 15 | Zombie
-[21:35:43] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1674.5 -41 -1197.5
-[21:35:43] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -1674.500000, -41.000000, -1197.500000]
-[21:36:46] [Server thread/INFO]: Sebas23m was slain by Lvl 7 | Zombie
-[21:36:55] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1687.5 -40 -1213.5
-[21:36:55] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -1687.500000, -40.000000, -1213.500000]
-[21:37:27] [Server thread/INFO]: Sebas23m was slain by Lvl 10 | Zombie
-[21:37:38] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1687.5 -40 -1213.5
-[21:37:38] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -1687.500000, -40.000000, -1213.500000]
-[21:37:54] [Server thread/INFO]: Sebas23m was blown up by Lvl 13 | Creeper
-[21:37:54] [Server thread/INFO]: jp7806073 was blown up by Lvl 13 | Creeper
-[21:38:01] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1687.5 -41 -1208.5
-[21:38:01] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -1687.500000, -41.000000, -1208.500000]
-[21:38:19] [Server thread/INFO]: jp7806073 issued server command: /tp jp7806073 Sebas23m
-[21:38:19] [Server thread/INFO]: [jp7806073: Teleported jp7806073 to Sebas23m]
-[21:40:16] [Server thread/INFO]: Sebas23m issued server command: /effect give jp7806073 minecraft:night_vision infinite
-[21:40:16] [Server thread/INFO]: [Sebas23m: Applied effect Night Vision to jp7806073]
-[21:40:28] [Server thread/INFO]: Sebas23m issued server command: /effect give Sebas23m minecraft:night_vision infinite
-[21:40:28] [Server thread/INFO]: [Sebas23m: Applied effect Night Vision to Sebas23m]
-[21:41:12] [Server thread/INFO]: Sebas23m has made the advancement [Not Today, Thank You]
-[21:41:14] [Server thread/INFO]: Sebas23m was shot by Lvl 13 | Skeleton
-[21:41:25] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1689.0 63 -1205.0
-[21:41:25] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -1689.000000, 63.000000, -1205.000000]
-[21:41:30] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1689.5 -41 -1204.5
-[21:41:30] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -1689.500000, -41.000000, -1204.500000]
-[21:42:40] [Server thread/INFO]: jp7806073 issued server command: /spawn
-[21:42:43] [Server thread/INFO]: jp7806073 issued server command: /spawn
-[21:42:50] [Server thread/INFO]: Sebas23m issued server command: /tp cama
-[21:42:55] [Server thread/INFO]: jp7806073 issued server command: /tp cama
-[21:43:52] [Server thread/INFO]: Sebas23m issued server command: /spawn
-[21:44:46] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1981.0 90 -1256.0
-[21:44:46] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -1981.000000, 90.000000, -1256.000000]
-[21:45:51] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
-[21:45:51] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
-[21:45:59] [Server thread/INFO]: Sebas23m issued server command: /kill jp7806073
-[21:45:59] [Server thread/INFO]: jp7806073 was killed
-[21:45:59] [Server thread/INFO]: [Sebas23m: Killed jp7806073]
-[21:46:38] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
-[21:46:38] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
-[21:46:47] [Server thread/INFO]: jp7806073 issued server command: /kill Sebas23m
-[21:46:47] [Server thread/INFO]: Sebas23m was killed
-[21:46:47] [Server thread/INFO]: [jp7806073: Killed Sebas23m]
-[21:49:31] [Server thread/INFO]: Sebas23m has made the advancement [Cover Me with Diamonds]
-[21:50:01] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 3
-[21:50:01] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1976, 94, -1265
-[21:50:01] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1980, 93, -1269
-[21:50:01] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1983, 93, -1273
-[21:50:02] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
-[21:50:16] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 8
-[21:50:16] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1974, 92, -1275
-[21:50:16] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1971, 92, -1278
-[21:50:16] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1970, 93, -1271
-[21:50:16] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1967, 93, -1276
-[21:50:16] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1969, 92, -1283
-[21:50:16] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1966, 92, -1280
-[21:50:16] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1965, 93, -1273
-[21:50:16] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1964, 93, -1269
-[21:50:16] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
-[21:50:27] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 14
-[21:50:27] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1964, 91, -1290
-[21:50:27] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1965, 91, -1294
-[21:50:27] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1960, 92, -1287
-[21:50:27] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1956, 93, -1285
-[21:50:27] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1952, 94, -1286
-[21:50:27] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1952, 94, -1283
-[21:50:27] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1948, 94, -1290
-[21:50:27] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1948, 94, -1289
-[21:50:27] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1948, 94, -1280
-[21:50:27] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1953, 93, -1292
-[21:50:27] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1944, 94, -1285
-[21:50:27] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1944, 95, -1277
-[21:50:27] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1945, 95, -1274
-[21:50:27] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1950, 94, -1297
-[21:50:27] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
-[21:50:28] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 4
-[21:50:28] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -160, 72, -430
-[21:50:28] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -160, 72, -429
-[21:50:28] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -430
-[21:50:28] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -429
-[21:50:28] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
-[21:50:29] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[21:50:29] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1971, 91, -1292
-[21:50:29] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
-[21:50:42] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 4
-[21:50:42] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -158, 72, -425
-[21:50:42] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -425
-[21:50:42] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -424
-[21:50:42] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -158, 72, -424
-[21:50:42] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
-[21:50:53] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 4
-[21:50:53] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -158, 72, -420
-[21:50:53] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -420
-[21:50:53] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -419
-[21:50:53] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -158, 72, -419
-[21:50:53] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
-[21:51:40] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 2
-[21:51:40] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1944, 95, -1297
-[21:51:40] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1941, 95, -1293
-[21:51:40] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
-[21:52:03] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[21:52:03] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1934, 95, -1295
-[21:52:03] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
-[21:52:15] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[21:52:15] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1951, 94, -1274
-[21:52:15] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
-[21:52:24] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[21:52:24] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1924, 94, -1292
-[21:52:24] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
-[21:52:29] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 2
-[21:52:29] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1922, 97, -1280
-[21:52:29] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1927, 97, -1280
-[21:52:29] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
-[21:52:52] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 3
-[21:52:52] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1938, 95, -1278
-[21:52:52] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1935, 97, -1279
-[21:52:52] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1936, 97, -1274
-[21:52:52] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
-[21:53:18] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[21:53:18] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1980, 90, -1286
-[21:53:18] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
-[21:53:32] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[21:53:32] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1987, 90, -1295
-[21:53:32] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
-[21:53:37] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[21:53:37] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1976, 90, -1297
-[21:53:37] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
-[21:56:56] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 8
-[21:56:56] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -430
-[21:56:56] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -160, 72, -430
-[21:56:56] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -160, 72, -429
-[21:56:56] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -429
-[21:56:56] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -425
-[21:56:56] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -424
-[21:56:56] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -158, 72, -425
-[21:56:56] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -158, 72, -424
-[21:56:56] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
-[21:57:35] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 2
-[21:57:35] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1967, 93, -1276
-[21:57:35] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1965, 93, -1273
-[21:57:35] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
-[21:57:43] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[21:57:43] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1960, 92, -1287
-[21:57:43] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
-[21:57:51] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 2
-[21:57:51] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1948, 94, -1273
-[21:57:51] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1942, 96, -1268
-[21:57:51] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
-[22:05:02] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 4
-[22:05:02] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -160, 72, -430
-[22:05:02] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -160, 72, -429
-[22:05:02] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -430
-[22:05:02] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -429
-[22:05:02] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
-[22:05:05] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 8
-[22:05:05] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -420
-[22:05:05] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -419
-[22:05:05] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -158, 72, -420
-[22:05:05] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -158, 72, -419
-[22:05:05] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -420
-[22:05:05] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -419
-[22:05:05] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -420
-[22:05:05] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -419
-[22:05:05] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
-[22:05:34] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 4
-[22:05:34] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -430
-[22:05:34] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -430
-[22:05:34] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -429
-[22:05:34] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -429
-[22:05:34] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
-[22:06:47] [Server thread/INFO]: jp7806073 has made the advancement [Cover Me with Diamonds]
-[22:19:23] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[22:19:23] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -220, 73, -451
-[22:19:23] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
-[22:20:02] [User Authenticator #2/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
-[22:20:06] [Server thread/INFO]: Cami23m joined the game
-[22:20:06] [Server thread/INFO]: Cami23m[/127.124.233.182:54769] logged in with entity id 18641 at ([world]6.5, 84.0, 34.5)
-[22:22:30] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1982.0 93 -1253.0
-[22:22:30] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -1982.000000, 93.000000, -1253.000000]
-[22:22:39] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
-[22:22:39] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
-[22:22:51] [Server thread/INFO]: Sebas23m issued server command: /sethome 1
-[22:22:54] [Server thread/INFO]: Sebas23m issued server command: /home
-[22:22:57] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[22:23:57] [Server thread/INFO]: Cami23m issued server command: /skin menu
-[22:23:59] [Folia Async Scheduler Thread #3/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:24:30] [Server thread/INFO]: Cami23m issued server command: /skin sonic
-[22:24:50] [Server thread/INFO]: jp7806073 has made the advancement [Ice Bucket Challenge]
-[22:25:20] [Server thread/INFO]: Cami23m has made the advancement [Isn't It Iron Pick]
-[22:25:38] [Server thread/INFO]: Cami23m has made the advancement [Acquire Hardware]
-[22:26:25] [Server thread/INFO]: Cami23m has made the advancement [Stone Age]
-[22:35:13] [Server thread/INFO]: Sebas23m issued server command: /fly
-[22:36:36] [Server thread/INFO]: Sebas23m issued server command: /fly
-[22:39:36] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1981.5 90 -1256.5
-[22:39:36] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -1981.500000, 90.000000, -1256.500000]
+[22:52:41] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:52:43] [ServerMain/INFO]: Loaded 1290 recipes
+[22:52:43] [ServerMain/INFO]: Loaded 1399 advancements
+[22:52:43] [Server thread/INFO]: Starting minecraft server version 1.21
+[22:52:43] [Server thread/INFO]: Loading properties
+[22:52:43] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[22:52:44] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[22:52:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:52:44] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:52:45] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[22:52:45] [Server thread/INFO]: Default game type: SURVIVAL
+[22:52:45] [Server thread/INFO]: Generating keypair
+[22:52:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:52:45] [Server thread/INFO]: Using epoll channel type
+[22:52:45] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:52:45] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[22:52:48] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
+[22:52:48] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
+[22:52:49] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[22:52:50] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[22:52:51] [Server thread/INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.3.2.1 b125
+[22:52:51] [Server thread/INFO]: [LevelledMobs] Loading commands
+[22:52:51] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v2.0
+[22:52:51] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.8
+[22:52:51] [Server thread/INFO]: [SimpleTimber] Loading server plugin SimpleTimber v2.1.0
+[22:52:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:52:51] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.8
+[22:52:53] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[22:52:54] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[22:52:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:52:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:52:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:52:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:52:54] [Server thread/INFO]: Preparing level "world"
+[22:52:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:52:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:52:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[22:52:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[22:52:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[22:52:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:52:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:52:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.8
+[22:52:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 8c78340
+[22:52:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[22:52:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:52:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[22:52:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[22:52:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:52:55] [Server thread/INFO]: Time elapsed: 1043 ms
+[22:52:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:52:56] [Server thread/INFO]: Time elapsed: 703 ms
+[22:52:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:52:56] [Server thread/INFO]: Time elapsed: 206 ms
+[22:52:56] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
+[22:52:56] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[22:52:56] [Server thread/INFO]: [LevelledMobs] Enabling LevelledMobs v4.3.2.1 b125
+[22:52:56] [Server thread/INFO]: [LevelledMobs] Enabling commands
+[22:52:56] [Server thread/INFO]: [LevelledMobs] Building reflection cache, use simple names: true
+[22:52:56] [Server thread/INFO]: [LevelledMobs] Using NMS version 1.21 for nametag support
+[22:52:56] [Server thread/INFO]: [LevelledMobs] File Loader: Loading files...
+[22:52:56] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
+[22:52:56] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
+[22:52:56] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
+[22:52:56] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
+[22:52:57] [Server thread/INFO]: [LevelledMobs] Current rules hash: 9b0f48e3273bb9cc29d2891ad33fb3410fec8cf1e77c2092ff670fd38f6d4ff5
+[22:52:57] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
+[22:52:57] [Server thread/INFO]: [LevelledMobs] Listeners: Registering event listeners...
+[22:52:57] [Server thread/INFO]: [LevelledMobs] Running misc procedures
+[22:52:57] [Server thread/INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
+[22:52:57] [Server thread/INFO]: [LevelledMobs] Start-up complete (took 700ms)
+[22:52:57] [Server thread/INFO]: [SetHome] Enabling SetHome v2.0
+[22:52:57] [Server thread/INFO]: [SimpleTimber] Enabling SimpleTimber v2.1.0
+[22:52:57] [Server thread/INFO]: [SimpleTimber] Plugin is being enabled...
+[22:52:58] [Server thread/INFO]: [SimpleTimber] Using language file: english.yml
+[22:52:58] [Server thread/INFO]: [SimpleTimber] Loaded 3 configs!
+[22:52:58] [Server thread/INFO]: [SimpleTimber] Registered 1 commands!
+[22:52:58] [Server thread/INFO]: [SimpleTimber] Registered 2 listeners!
+[22:52:58] [Server thread/INFO]: [SimpleTimber] Plugin has been enabled!
+[22:52:58] [Server thread/INFO]: [spark] Starting background profiler...
+[22:52:59] [Server thread/INFO]: Done preparing level "world" (5.234s)
+[22:52:59] [Server thread/INFO]: Running delayed init tasks
+[22:52:59] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[22:52:59] [Server thread/INFO]: Done (27.071s)! For help, type "help"
+[22:52:59] [Server thread/INFO]: Timings Reset
+[22:52:59] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.4.1
+[22:52:59] [Craft Scheduler Thread - 2 - SimpleTimber/INFO]: [SimpleTimber] You are using the latest version of SimpleTimber!
+[22:53:13] [User Authenticator #0/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[22:53:14] [Server thread/INFO]: Sebas23m joined the game
+[22:53:15] [Server thread/INFO]: Sebas23m[/127.124.233.182:44759] logged in with entity id 42 at ([world]-1924.3704244520138, 65.0, -1250.130186439421)
+[22:53:18] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 047243ff-0b11-4e77-b825-4b61e440a3a9, mapped to Armadillo['Armadillo'/217, uuid='047243ff-0b11-4e77-b825-4b61e440a3a9', l='ServerLevel[world]', x=-1949.14, y=111.00, z=-1075.04, cpos=[-122, -68], tl=73405, v=true], can't add Armadillo['Armadillo'/221, uuid='047243ff-0b11-4e77-b825-4b61e440a3a9', l='ServerLevel[world]', x=-1945.98, y=111.00, z=-1071.98, cpos=[-122, -67], tl=73518, v=false]
+[22:53:45] [User Authenticator #0/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
+[22:53:49] [Server thread/INFO]: Cami23m joined the game
+[22:53:49] [Server thread/INFO]: Cami23m[/127.124.233.182:49345] logged in with entity id 295 at ([world]-1973.699999988079, 81.0, -1246.699999988079)
+[22:55:05] [User Authenticator #1/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[22:55:09] [Server thread/INFO]: jp7806073 joined the game
+[22:55:09] [Server thread/INFO]: jp7806073[/127.94.121.158:49099] logged in with entity id 493 at ([world]-173.57484961654396, 72.0, -479.3975586448816)
+[22:55:10] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 53ac7d98-c5d7-4ee4-aea3-971bef939a8a, mapped to Bat['Bat'/632, uuid='53ac7d98-c5d7-4ee4-aea3-971bef939a8a', l='ServerLevel[world]', x=-184.35, y=17.33, z=-543.90, cpos=[-12, -34], tl=133, v=true], can't add Bat['Bat'/657, uuid='53ac7d98-c5d7-4ee4-aea3-971bef939a8a', l='ServerLevel[world]', x=-185.38, y=16.11, z=-544.67, cpos=[-12, -35], tl=140, v=false]
+[22:55:10] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: e1b05f8f-49cc-41c6-a085-4a541f547e98, mapped to Bat['Bat'/627, uuid='e1b05f8f-49cc-41c6-a085-4a541f547e98', l='ServerLevel[world]', x=-179.74, y=-6.75, z=-542.41, cpos=[-12, -34], tl=754, v=true], can't add Bat['Bat'/658, uuid='e1b05f8f-49cc-41c6-a085-4a541f547e98', l='ServerLevel[world]', x=-178.15, y=-6.34, z=-544.33, cpos=[-12, -35], tl=761, v=false]
+[22:55:51] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1981.5 90 -1256.5
+[22:55:51] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -1981.500000, 90.000000, -1256.500000]
+[22:55:53] [Server thread/INFO]: Cami23m was slain by Iron Golem ❤
+[22:56:05] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
+[22:56:05] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
+[22:56:54] [Server thread/INFO]: jp7806073 was slain by Lvl 4 | Zombie
+[22:57:49] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -149.0 72 -441.0
+[22:57:49] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -149.000000, 72.000000, -441.000000]
+[22:58:00] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[22:58:00] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[22:58:09] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1981.5 90 -1256.5
+[22:58:09] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -1981.500000, 90.000000, -1256.500000]
+[22:59:33] [Server thread/INFO]: Cami23m has made the advancement [Cover Me with Diamonds]
+[23:00:16] [Server thread/INFO]: Stopping the server
+[23:00:16] [Server thread/INFO]: Stopping server
+[23:00:16] [Server thread/INFO]: [SimpleTimber] Disabling SimpleTimber v2.1.0
+[23:00:16] [Server thread/INFO]: [SimpleTimber] Plugin has been disabled!
+[23:00:16] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.8
+[23:00:16] [Server thread/INFO]: [SetHome] Disabling SetHome v2.0
+[23:00:16] [Server thread/INFO]: [LevelledMobs] Disabling LevelledMobs v4.3.2.1 b125
+[23:00:16] [Server thread/INFO]: [LevelledMobs] Unregistering commands
+[23:00:16] [Server thread/INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
+[23:00:16] [Server thread/INFO]: [LevelledMobs] Shut-down complete (took 2ms)
+[23:00:16] [Craft Scheduler Thread - 0 - LevelledMobs/INFO]: [LevelledMobs] Mob processing queue Manager has exited
+[23:00:16] [Craft Scheduler Thread - 5 - LevelledMobs/INFO]: [LevelledMobs] Nametag update queue Manager has exited
+[23:00:16] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.1
+[23:00:16] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[23:00:16] [Server thread/INFO]: Saving players
+[23:00:16] [Server thread/INFO]: Sebas23m lost connection: Server closed
+[23:00:16] [Server thread/INFO]: Sebas23m left the game
+[23:00:16] [Server thread/INFO]: Cami23m lost connection: Server closed
+[23:00:16] [Server thread/INFO]: Cami23m left the game
+[23:00:16] [Server thread/INFO]: jp7806073 lost connection: Server closed
+[23:00:16] [Server thread/INFO]: jp7806073 left the game
+[23:00:16] [Server thread/INFO]: Saving worlds
+[23:00:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:00:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[23:00:16] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[23:00:16] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[23:00:18] [Server thread/INFO]: [ChunkHolderManager] Saved 1456 block chunks, 1672 entity chunks, 0 poi chunks in world 'world' in 2.08s
+[23:00:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:00:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[23:00:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[23:00:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[23:00:18] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 16 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[23:00:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:00:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[23:00:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[23:00:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[23:00:18] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[23:00:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:00:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:00:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:00:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
