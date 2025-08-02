@@ -335,3 +335,17 @@
 [22:20:02] [User Authenticator #2/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
 [22:20:06] [Server thread/INFO]: Cami23m joined the game
 [22:20:06] [Server thread/INFO]: Cami23m[/127.124.233.182:54769] logged in with entity id 18641 at ([world]6.5, 84.0, 34.5)
+[22:22:30] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1982.0 93 -1253.0
+[22:22:30] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -1982.000000, 93.000000, -1253.000000]
+[22:22:39] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
+[22:22:39] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
+[22:22:51] [Server thread/INFO]: Sebas23m issued server command: /sethome 1
+[22:22:54] [Server thread/INFO]: Sebas23m issued server command: /home
+[22:22:57] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[22:23:57] [Server thread/INFO]: Cami23m issued server command: /skin menu
+[22:23:59] [Folia Async Scheduler Thread #3/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:24:30] [Server thread/INFO]: Cami23m issued server command: /skin sonic
+[22:24:50] [Server thread/INFO]: jp7806073 has made the advancement [Ice Bucket Challenge]
+[22:25:20] [Server thread/INFO]: Cami23m has made the advancement [Isn't It Iron Pick]
+[22:25:38] [Server thread/INFO]: Cami23m has made the advancement [Acquire Hardware]
+[22:26:25] [Server thread/INFO]: Cami23m has made the advancement [Stone Age]
