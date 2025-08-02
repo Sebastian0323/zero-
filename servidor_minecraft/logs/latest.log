@@ -367,3 +367,51 @@
 [20:09:21] [Async Chat Thread - #42/INFO]: [Not Secure] <jp7806073> para q la obsidiana
 [20:09:36] [Server thread/INFO]: zerox has made the advancement [Ice Bucket Challenge]
 [20:13:57] [Server thread/INFO]: jp7806073 has made the advancement [We Need to Go Deeper]
+[20:14:47] [User Authenticator #9/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[20:14:53] [Server thread/INFO]: Sebas23m joined the game
+[20:14:53] [Server thread/INFO]: Sebas23m[/127.124.233.182:58173] logged in with entity id 22852 at ([world]-1883.2781013396573, 93.0, -1319.881602630388)
+[20:16:01] [Server thread/INFO]: jp7806073 lost connection: Timed out
+[20:16:01] [Server thread/INFO]: jp7806073 left the game
+[20:16:12] [User Authenticator #10/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[20:16:13] [Server thread/INFO]: jp7806073 joined the game
+[20:16:13] [Server thread/INFO]: jp7806073[/127.94.121.158:46541] logged in with entity id 23620 at ([world]-227.5, 73.0, -436.50248556104236)
+[20:16:27] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[20:16:27] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -220, 73, -451
+[20:16:27] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[20:16:42] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[20:16:42] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -233, 78, -423
+[20:16:42] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[20:16:44] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 3
+[20:16:44] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -235, 80, -418
+[20:16:44] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -238, 80, -419
+[20:16:44] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -230, 79, -415
+[20:16:44] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[20:17:02] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[20:17:02] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -236, 80, -412
+[20:17:02] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[20:17:22] [Server thread/INFO]: zerox lost connection: Timed out
+[20:17:22] [Server thread/INFO]: zerox left the game
+[20:17:48] [User Authenticator #11/INFO]: UUID of player zerox is 14915c85-50a2-37de-8dda-02cb959b7576
+[20:17:50] [Server thread/INFO]: zerox joined the game
+[20:17:50] [Server thread/INFO]: zerox[/127.123.160.186:43537] logged in with entity id 24211 at ([world]-292.0577225894605, 72.0, -552.0857036959019)
+[20:20:54] [Server thread/INFO]: jp7806073 issued server command: /tp jp7806073 zerox
+[20:20:54] [Server thread/INFO]: [jp7806073: Teleported jp7806073 to zerox]
+[20:21:13] [Server thread/INFO]: Sebas23m issued server command: /skin menu
+[20:21:15] [Folia Async Scheduler Thread #3/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:21:49] [Server thread/INFO]: jp7806073 issued server command: /home c
+[20:22:16] [Server thread/WARN]: zerox moved too quickly! 13.501847333389549,0.0625,-0.9265901691435943
+[20:22:40] [Server thread/INFO]: Sebas23m was slain by Iron Golem ❤
+[20:23:21] [User Authenticator #12/INFO]: UUID of player zerox is 14915c85-50a2-37de-8dda-02cb959b7576
+[20:23:21] [Server thread/INFO]: zerox lost connection: You logged in from another location
+[20:23:21] [Server thread/INFO]: zerox left the game
+[20:23:23] [Server thread/INFO]: zerox joined the game
+[20:23:23] [Server thread/INFO]: zerox[/127.50.187.139:51581] logged in with entity id 26958 at ([world]-183.79597190988494, 73.9375, -479.4498934423928)
+[20:23:39] [Async Chat Thread - #44/INFO]: [Not Secure] <Sebas23m> zero coloca /skin menu
+[20:23:50] [Async Chat Thread - #44/INFO]: [Not Secure] <Sebas23m> de hay dale en la libreria
+[20:23:59] [Server thread/INFO]: zerox issued server command: /skin menu
+[20:24:08] [User Authenticator #12/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[20:24:08] [Server thread/INFO]: jp7806073 lost connection: You logged in from another location
+[20:24:08] [Server thread/INFO]: jp7806073 left the game
+[20:24:10] [Async Chat Thread - #44/INFO]: [Not Secure] <Sebas23m> y escogue unamonita o cualquier skin que quieras
+[20:24:12] [Server thread/INFO]: jp7806073 joined the game
+[20:24:12] [Server thread/INFO]: jp7806073[/127.94.121.158:46977] logged in with entity id 27141 at ([world]-172.18052774584498, 71.9375, -457.5313183963663)
