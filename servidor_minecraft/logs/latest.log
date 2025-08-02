@@ -279,3 +279,8 @@
 [19:24:57] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -239, 82, -403
 [19:24:57] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
 [19:25:56] [Server thread/INFO]: jp7806073 has made the advancement [Sweet Dreams]
+[19:39:39] [Async Chat Thread - #24/INFO]: [Not Secure] <jp7806073> sethome C
+[19:39:45] [Server thread/INFO]: jp7806073 issued server command: /sethome C
+[19:40:18] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[19:40:18] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -182, 68, -383
+[19:40:18] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: BIRCH_LOG
