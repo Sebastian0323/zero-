@@ -332,3 +332,38 @@
 [20:02:33] [Async Chat Thread - #39/INFO]: [Not Secure] <jp7806073> madera
 [20:02:37] [Async Chat Thread - #39/INFO]: [Not Secure] <jp7806073> zero
 [20:04:01] [Async Chat Thread - #40/INFO]: [Not Secure] <zerox> ???
+[20:04:07] [User Authenticator #8/INFO]: UUID of player zerox is 14915c85-50a2-37de-8dda-02cb959b7576
+[20:04:07] [Server thread/INFO]: zerox lost connection: You logged in from another location
+[20:04:07] [Server thread/INFO]: zerox left the game
+[20:04:08] [Async Chat Thread - #40/INFO]: [Not Secure] <jp7806073> madera mucha
+[20:04:10] [Server thread/INFO]: zerox joined the game
+[20:04:10] [Server thread/INFO]: zerox[/127.223.226.102:57733] logged in with entity id 20561 at ([world]-180.45639224122937, 74.0, -479.5455050861909)
+[20:04:25] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 5
+[20:04:25] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -183, 74, -475
+[20:04:25] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -183, 74, -472
+[20:04:25] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -183, 74, -469
+[20:04:25] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -191, 74, -469
+[20:04:25] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -191, 74, -472
+[20:04:25] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[20:06:15] [Server thread/INFO]: Villager Villager['Villager'/11109, uuid='bff61b7d-e321-4776-a43a-2e2b2cae9a2d', l='ServerLevel[world]', x=-184.09, y=68.00, z=-457.67, cpos=[-12, -29], tl=60252, v=true] died, message: 'Villager was slain by Zombie'
+[20:06:17] [Server thread/INFO]: Villager Villager['Villager'/11219, uuid='28a45232-852e-4e35-b283-9fe50a9fc409', l='ServerLevel[world]', x=-181.39, y=65.54, z=-454.40, cpos=[-12, -29], tl=59823, v=true] died, message: 'Villager was slain by Zombie'
+[20:06:28] [Server thread/INFO]: Villager Villager['Villager'/11217, uuid='95181854-6b1d-4a56-9f4e-14fb420698bf', l='ServerLevel[world]', x=-172.34, y=65.00, z=-457.89, cpos=[-11, -29], tl=60283, v=true] died, message: 'Villager was slain by Zombie Villager'
+[20:06:29] [Server thread/INFO]: Villager Villager['Villager'/11105, uuid='90ec58e0-44e8-4a35-8e14-36654521ae74', l='ServerLevel[world]', x=-172.50, y=65.00, z=-458.45, cpos=[-11, -29], tl=60536, v=true] died, message: 'Villager was slain by Zombie'
+[20:07:32] [Server thread/INFO]: jp7806073 issued server command: /tp jp7806073 zerox
+[20:07:32] [Server thread/INFO]: [jp7806073: Teleported jp7806073 to zerox]
+[20:07:53] [Async Chat Thread - #42/INFO]: [Not Secure] <jp7806073> a haces??
+[20:08:05] [Async Chat Thread - #42/INFO]: [Not Secure] <zerox> había visto laba aquí
+[20:08:12] [Server thread/INFO]: jp7806073 issued server command: /home c
+[20:08:15] [Async Chat Thread - #42/INFO]: [Not Secure] <zerox> tenés coordenadas de la base ?
+[20:08:42] [Server thread/WARN]: zerox moved too quickly! 15.123338499431611,-1.0,-0.5721985819896531
+[20:08:42] [Server thread/INFO]: jp7806073 issued server command: /tp zerox jp7806073
+[20:08:42] [Server thread/INFO]: [jp7806073: Teleported zerox to jp7806073]
+[20:08:56] [Async Chat Thread - #42/INFO]: [Not Secure] <jp7806073> nooo
+[20:09:00] [Async Chat Thread - #42/INFO]: [Not Secure] <jp7806073> quieto
+[20:09:03] [Async Chat Thread - #42/INFO]: [Not Secure] <jp7806073> a haces
+[20:09:10] [Async Chat Thread - #42/INFO]: [Not Secure] <jp7806073> pasa el cubo
+[20:09:13] [Async Chat Thread - #42/INFO]: [Not Secure] <zerox> almenos será para la mesa de encantamientos
+[20:09:19] [Async Chat Thread - #42/INFO]: [Not Secure] <zerox> ponte pilas we
+[20:09:21] [Async Chat Thread - #42/INFO]: [Not Secure] <jp7806073> para q la obsidiana
+[20:09:36] [Server thread/INFO]: zerox has made the advancement [Ice Bucket Challenge]
+[20:13:57] [Server thread/INFO]: jp7806073 has made the advancement [We Need to Go Deeper]
