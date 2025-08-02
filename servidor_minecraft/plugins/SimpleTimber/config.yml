@@ -1,0 +1,57 @@
+# This plugin utilizes MiniMessage for messages.
+# For more information, visit https://docs.adventure.kyori.net/minimessage.html
+
+file-version: 2
+
+# The prefix before every message
+prefix: <#DB9438><b>STimber</b> <dark_gray>⚡ <gray>
+
+# The messages file to use
+langFile: english
+
+# Settings for the update checker
+updateChecker:
+  # Send a message to the console when a new version is available
+  consoleMessage: true
+  # Send a message to the player when a new version is available
+  # This requires the permission 'simpletimber.admin.update' or to be an OP
+  playerMessage: true
+
+# Should timber be enabled?
+enabled: true
+
+# Maximum amount of blocks to break at once (Values greater than 1000 may cause lag)
+maxChopLimit: 1000
+
+# Should SimpleTimber reduce the durability of the axe used by the player?
+reduceDurability: true
+
+# Should SimpleTimber respect the Unbreaking enchantment when reducing durability?
+respectUnbreaking: true
+
+# Should SimpleTimber only work if the player is NOT sneaking?
+sneakPrevent: true
+
+# Wich tools should be allowed to use timber?
+validTools:
+- WOODEN_AXE
+- STONE_AXE
+- IRON_AXE
+- GOLDEN_AXE
+- DIAMOND_AXE
+- NETHERITE_AXE
+
+# Allow timber in creative mode
+allowCreativeMode: false
+
+# Should leaves be broken too? (No durability cost)
+breakLeaves: true
+
+# Should saplings be replanted after cutting a tree?
+autoReplantSaplings: true
+
+# Should the tree break with delay animation?
+animatedBreak: true
+
+# Delay in ticks between block breaks when animation is enabled (20 ticks = 1 second)
+animationDelay: 2

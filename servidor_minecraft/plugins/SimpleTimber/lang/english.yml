@@ -1,0 +1,33 @@
+# This plugin utilizes MiniMessage for messages.
+# For more information, visit https://docs.adventure.kyori.net/minimessage.html
+
+file-version: 1
+
+# General messages
+general:
+  noPlayer: "<gray>You <red>must be a player<gray> to execute this command!"
+  noPerms: "<gray>You <red>do not have permission<gray> to execute this command!"
+
+# Other messages
+other:
+  updateChecker: "<gray>An <yellow>update <gray>is available! You are using version <red>v%current-version%<gray>, the latest version is <green>%latest-version%<gray>!"
+
+# Command messages
+commands:
+  # Messages for the /simpletimber command (main plugin command)
+  simpletimber:
+    usage: "<gray>Please use <red>/stimber <about/reload/toggle><gray>!"
+    about: "<gray>SimpleTimber v%version% <dark_gray>- <gray>%author%"
+    reload:
+      reloading: "<yellow>Reloading <gray>SimpleTimber..."
+      reloaded: "<green>Successfully reloaded <gray>SimpleTimber! <dark_gray>(%time%ms)"
+      error: "<gray>An <red>error occurred <gray>while reloading SimpleTimber! Check the console for details."
+    toggle:
+      enabled: "<gray>SimpleTimber has been <green>enabled<gray>!"
+      disabled: "<gray>SimpleTimber has been <red>disabled<gray>!"
+
+# Listener messages
+listeners:
+  # Messages for the tree cutting listener
+  treeCutting:
+    axeTooWeak: "<gray>Your axe <red>doesn't have enough durability <gray>for that tree!"

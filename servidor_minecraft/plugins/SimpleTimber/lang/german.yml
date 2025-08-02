@@ -1,0 +1,33 @@
+# Dieses Plugin verwendet MiniMessage für Nachrichten.
+# Weitere Informationen findest du unter https://docs.adventure.kyori.net/minimessage.html
+
+file-version: 1
+
+# Generelle Nachrichten
+general:
+  noPlayer: "<gray>Dies können <red>nur Spieler<gray> ausführen!"
+  noPerms: "<gray>Du hast <red>keine Berechtigung<gray> für diesen Befehl!"
+
+# Other messages
+other:
+  updateChecker: "<gray>Es ist ein <yellow>Update verfügbar<gray>! Die momentane Version ist die <red>v%current-version%<gray>, die neuste Version ist die <green>%latest-version%<gray>!"
+
+# Befehlsnachrichten
+commands:
+  # Nachrichten für den /simpletimber Befehl (Hauptbefehl des Plugins)
+  simpletimber:
+    usage: "<gray>Bitte nutze <red>/stimber <about/reload/toggle><gray>!"
+    about: "<gray>SimpleTimber v%version% <dark_gray>- <gray>%author%"
+    reload:
+      reloading: "<yellow>SimpleTimber <gray>wird neugeladen<gray>..."
+      reloaded: "<green>SimpleTimber wurde <gray>erfolgreich neugeladen! <dark_gray>(%time%ms)"
+      error: "<gray>Ein <red>Fehler ist aufgetreten<gray> beim Neuladen von SimpleTimber! Überprüfe die Konsole für Details."
+    toggle:
+      enabled: "<gray>SimpleTimber wurde <green>aktiviert<gray>!"
+      disabled: "<gray>SimpleTimber wurde <red>deaktiviert<gray>!"
+
+# Listener Nachrichten
+listeners:
+  # Nachrichten für den Baumfällungs-Listener
+  treeCutting:
+    axeTooWeak: "<gray>Deine Axt <red>hat nicht genügend Haltbarkeit<gray> für diesen Baum!"
