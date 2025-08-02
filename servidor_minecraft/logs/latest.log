@@ -227,3 +227,33 @@
 [19:02:46] [Server thread/INFO]: jp7806073 joined the game
 [19:02:46] [Server thread/INFO]: jp7806073[/127.32.28.115:44441] logged in with entity id 8106 at ([world]-137.61129463644656, -13.0, -136.69991363108764)
 [19:02:53] [Async Chat Thread - #14/INFO]: [Not Secure] <jp7806073> hola
+[19:05:00] [Server thread/INFO]: zerox was shot by Lvl 4 | Skeleton
+[19:05:09] [Async Chat Thread - #16/INFO]: [Not Secure] <zerox> el tpo manito
+[19:05:14] [Async Chat Thread - #16/INFO]: [Not Secure] <jp7806073> voy
+[19:05:27] [Server thread/INFO]: jp7806073 issued server command: /tp zerox jp7806073
+[19:05:27] [Server thread/INFO]: [jp7806073: Teleported zerox to jp7806073]
+[19:05:32] [Async Chat Thread - #16/INFO]: [Not Secure] <jp7806073> cuidado
+[19:05:40] [Server thread/INFO]: zerox lost connection: Timed out
+[19:05:40] [Server thread/INFO]: zerox left the game
+[19:06:36] [User Authenticator #5/INFO]: UUID of player zerox is 14915c85-50a2-37de-8dda-02cb959b7576
+[19:06:39] [Server thread/INFO]: zerox joined the game
+[19:06:39] [Server thread/INFO]: zerox[/127.14.221.184:60397] logged in with entity id 9036 at ([world]-108.69999998807907, -16.0, -118.41400893545348)
+[19:08:14] [Async Chat Thread - #18/INFO]: [Not Secure] <zerox> tenemos q tener camas
+[19:08:32] [Server thread/WARN]: zerox moved too quickly! 0.017586447714904807,7.0,-7.3468761967517935
+[19:08:38] [Async Chat Thread - #18/INFO]: [Not Secure] <jp7806073> pon /sethome
+[19:08:42] [Async Chat Thread - #19/INFO]: [Not Secure] <jp7806073> y una letra
+[19:08:52] [Async Chat Thread - #19/INFO]: [Not Secure] <jp7806073> por ejemplo/srthome c
+[19:09:02] [Server thread/INFO]: zerox issued server command: /sethome
+[19:09:09] [Server thread/INFO]: zerox issued server command: /sethome j
+[19:09:10] [Async Chat Thread - #19/INFO]: [Not Secure] <jp7806073> y cada vez q pongas home c te tpa
+[19:10:08] [Async Chat Thread - #19/INFO]: [Not Secure] <zerox> che manito en 1 entro al server iré a hacer algo
+[19:10:21] [Async Chat Thread - #19/INFO]: [Not Secure] <jp7806073> vale
+[19:10:27] [Async Chat Thread - #19/INFO]: [Not Secure] <zerox> en un cofre pondré los digamos asme una armadura
+[19:10:55] [Async Chat Thread - #19/INFO]: [Not Secure] <jp7806073> comida
+[19:11:11] [Async Chat Thread - #19/INFO]: [Not Secure] <jp7806073> voy a buscar
+[19:11:13] [Async Chat Thread - #19/INFO]: [Not Secure] <jp7806073> una aldea
+[19:11:20] [Async Chat Thread - #19/INFO]: [Not Secure] <zerox> se me perdió la comida cuando me mataron
+[19:11:22] [Async Chat Thread - #19/INFO]: [Not Secure] <jp7806073> me avisas cuando estes
+[19:11:25] [Server thread/INFO]: zerox lost connection: Disconnected
+[19:11:25] [Server thread/INFO]: zerox left the game
+[19:11:46] [Server thread/INFO]: Villager Villager['Cleric'/323, uuid='805bacd7-2772-4923-a210-998f598de1c8', l='ServerLevel[world]', x=-2007.74, y=96.25, z=-1277.53, cpos=[-126, -80], tl=80835, v=true] died, message: 'Cleric was slain by Zombie'
