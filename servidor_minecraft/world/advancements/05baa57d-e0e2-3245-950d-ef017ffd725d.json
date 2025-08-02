@@ -471,7 +471,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-02 02:35:44 +0000",
       "minecraft:spider": "2025-08-02 18:26:00 +0000",
-      "minecraft:zombie": "2025-08-02 02:37:34 +0000"
+      "minecraft:zombie": "2025-08-02 02:37:34 +0000",
+      "minecraft:zombie_villager": "2025-08-02 19:15:59 +0000"
     },
     "done": false
   },
@@ -948,6 +949,18 @@
       "has_gravel": "2025-08-02 18:35:55 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-02 19:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:woods": "2025-08-02 19:18:05 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
