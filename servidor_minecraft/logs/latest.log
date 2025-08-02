@@ -117,3 +117,24 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [02:14:10] [Server thread/INFO]: jp7806073 joined the game
 [02:14:10] [Server thread/INFO]: jp7806073[/127.202.16.6:59225] logged in with entity id 1142 at ([world]2.5, 85.0, 34.5)
 [02:14:29] [Server thread/INFO]: jp7806073 was slain by Lvl 7 | Zombie
+[02:16:16] [Server thread/INFO]: Sebas23m was slain by jp7806073
+[02:16:40] [Server thread/INFO]: jp7806073 was slain by Lvl 5 | Spider
+[02:18:03] [Server thread/INFO]: jp7806073 has made the advancement [Stone Age]
+[02:18:04] [Server thread/INFO]: STARTGAME has made the advancement [Monster Hunter]
+[02:18:47] [Server thread/INFO]: jp7806073 has made the advancement [Getting an Upgrade]
+[02:19:07] [Server thread/INFO]: Sebas23m has made the advancement [Stone Age]
+[02:19:12] [Server thread/INFO]: jp7806073 was slain by Lvl 10 | Zombie
+[02:20:47] [Server thread/INFO]: Sebas23m issued server command: /op STARTGAME
+[02:20:47] [Server thread/INFO]: [Sebas23m: Made STARTGAME a server operator]
+[02:20:52] [Server thread/INFO]: STARTGAME lost connection: Timed out
+[02:20:52] [Server thread/INFO]: STARTGAME left the game
+[02:20:53] [Server thread/INFO]: Sebas23m issued server command: /op jp7806073
+[02:20:53] [Server thread/INFO]: [Sebas23m: Made jp7806073 a server operator]
+[02:21:10] [Server thread/INFO]: Sebas23m has made the advancement [Getting an Upgrade]
+[02:24:20] [Server thread/INFO]: Sebas23m issued server command: /plugins
+[02:24:59] [User Authenticator #4/INFO]: UUID of player STARTGAME is fa4da132-c81a-3b38-820a-f18b9a409675
+[02:25:01] [Server thread/INFO]: STARTGAME joined the game
+[02:25:01] [Server thread/INFO]: STARTGAME[/127.219.81.95:51337] logged in with entity id 3524 at ([world]47.62253810122427, 79.0, 84.7970330271572)
+[02:25:32] [Server thread/INFO]: Sebas23m issued server command: /tp STARTGAME Sebas23m
+[02:25:32] [Server thread/INFO]: [Sebas23m: Teleported STARTGAME to Sebas23m]
+[02:25:36] [Server thread/INFO]: STARTGAME issued server command: /te sebas23M
