@@ -138,3 +138,16 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [02:25:32] [Server thread/INFO]: Sebas23m issued server command: /tp STARTGAME Sebas23m
 [02:25:32] [Server thread/INFO]: [Sebas23m: Teleported STARTGAME to Sebas23m]
 [02:25:36] [Server thread/INFO]: STARTGAME issued server command: /te sebas23M
+[02:26:48] [Server thread/INFO]: STARTGAME burned to death
+[02:27:06] [Server thread/INFO]: Sebas23m issued server command: /tp STARTGAME Sebas23m
+[02:27:06] [Server thread/INFO]: [Sebas23m: Teleported STARTGAME to Sebas23m]
+[02:27:33] [Server thread/INFO]: jp7806073 has made the advancement [Monster Hunter]
+[02:27:42] [Server thread/INFO]: jp7806073 was shot by Lvl 9 | Skeleton
+[02:27:44] [Server thread/INFO]: STARTGAME burned to death
+[02:27:58] [Server thread/INFO]: STARTGAME was blown up by Lvl 3 | Creeper
+[02:28:14] [Server thread/INFO]: Sebas23m issued server command: /tp STARTGAME Sebas23m
+[02:28:14] [Server thread/INFO]: [Sebas23m: Teleported STARTGAME to Sebas23m]
+[02:30:08] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m STARTGAME
+[02:30:08] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to STARTGAME]
+[02:30:32] [Server thread/INFO]: STARTGAME has made the advancement [Stone Age]
+[02:35:44] [Server thread/INFO]: Sebas23m has made the advancement [Monster Hunter]
