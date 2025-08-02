@@ -201,3 +201,69 @@ sed<--[HERE]
 [18:03:24] [Server thread/INFO]: [Sebas23m: Gamerule playersSleepingPercentage is now set to: 0]
 [18:03:28] [Server thread/INFO]: Sebas23m has made the advancement [Sweet Dreams]
 [18:03:49] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> dale la ruedita de arriba q tiene en el centro
+[18:03:54] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> hay lo puede modificar
+[18:05:40] [Async Chat Thread - #6/INFO]: [Not Secure] <zerox> el tp
+[18:06:01] [Server thread/INFO]: jp7806073 issued server command: /tp zerox jp7806073
+[18:06:01] [Server thread/INFO]: [jp7806073: Teleported zerox to jp7806073]
+[18:06:06] [Server thread/INFO]: zerox has made the advancement [Diamonds!]
+[18:06:12] [Async Chat Thread - #6/INFO]: [Not Secure] <jp7806073> toma
+[18:06:42] [Server thread/INFO]: zerox has made the advancement [Monster Hunter]
+[18:07:33] [Server thread/INFO]: Sebas23m issued server command: /effect give zerox minecraft:night_vision infinite
+[18:07:33] [Server thread/INFO]: [Sebas23m: Applied effect Night Vision to zerox]
+[18:07:38] [Async Chat Thread - #8/INFO]: [Not Secure] <zerox> mrd un agolote mano
+[18:07:49] [Async Chat Thread - #8/INFO]: [Not Secure] <zerox> tenés hierro para el cubo??
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 40
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1965, 93, -1273
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1964, 93, -1269
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1958, 94, -1264
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1955, 95, -1267
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1955, 95, -1266
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1955, 95, -1265
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1955, 95, -1264
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1955, 95, -1263
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1955, 95, -1262
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1954, 95, -1267
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1954, 95, -1269
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1955, 95, -1261
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1954, 95, -1261
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1953, 95, -1267
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1953, 95, -1261
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1952, 95, -1267
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1952, 95, -1261
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1951, 95, -1267
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1951, 95, -1261
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1950, 95, -1267
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1950, 95, -1261
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1949, 95, -1267
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1949, 95, -1261
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1948, 95, -1267
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1948, 95, -1261
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1951, 94, -1274
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1948, 94, -1273
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1947, 95, -1268
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1947, 95, -1267
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1947, 95, -1266
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1947, 95, -1262
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1947, 95, -1261
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1947, 95, -1265
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1947, 95, -1263
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1947, 95, -1264
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1945, 95, -1274
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1944, 95, -1277
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1944, 94, -1281
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1939, 94, -1285
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1944, 94, -1285
+[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[18:08:40] [Async Chat Thread - #8/INFO]: [Not Secure] <jp7806073> toma
+[18:08:43] [Async Chat Thread - #9/INFO]: [Not Secure] <jp7806073> llevatelo
+[18:08:55] [Async Chat Thread - #9/INFO]: [Not Secure] <jp7806073> llévate el azolote
+[18:09:18] [Server thread/INFO]: zerox has made the advancement [The Cutest Predator]
+[18:10:00] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[18:10:00] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1955, 94, -1256
+[18:10:00] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[18:10:41] [Async Chat Thread - #10/INFO]: [Not Secure] <zerox> oro
+[18:10:48] [Async Chat Thread - #10/INFO]: [Not Secure] <jp7806073> tima
+[18:10:52] [Async Chat Thread - #10/INFO]: [Not Secure] <jp7806073> toma
+[18:11:39] [Server thread/INFO]: jp7806073 has made the advancement [Hot Stuff]
+[18:12:13] [Server thread/INFO]: jp7806073 has made the advancement [The Cutest Predator]
+[18:13:55] [Server thread/INFO]: zerox was slain by Lvl 9 | Spider
