@@ -1,304 +1,121 @@
-[17:43:53] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[17:43:53] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[17:43:53] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[17:43:54] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/SimpleTimber-2.1.0.jar'...
-[17:43:56] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SimpleTimber-2.1.0.jar' in 2076ms.
-[17:43:57] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
-[17:43:57] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
+[18:33:23] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[18:33:23] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[18:33:23] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[18:33:25] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
+[18:33:25] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
  - LevelledMobs (4.3.2.1 b125), SetHome (2.0), SimpleTimber (2.1.0), SkinsRestorer (15.7.8), ViaVersion (5.4.1)
-[17:44:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:44:04] [ServerMain/INFO]: Loaded 1290 recipes
-[17:44:04] [ServerMain/INFO]: Loaded 1399 advancements
-[17:44:04] [Server thread/INFO]: Starting minecraft server version 1.21
-[17:44:04] [Server thread/INFO]: Loading properties
-[17:44:04] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[17:44:05] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[17:44:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:44:05] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:44:06] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[17:44:06] [Server thread/INFO]: Default game type: SURVIVAL
-[17:44:06] [Server thread/INFO]: Generating keypair
-[17:44:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:44:06] [Server thread/INFO]: Using epoll channel type
-[17:44:06] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[17:44:06] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[17:44:10] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
-[17:44:10] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
-[17:44:11] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[17:44:11] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[17:44:12] [Server thread/INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.3.2.1 b125
-[17:44:12] [Server thread/INFO]: [LevelledMobs] Loading commands
-[17:44:13] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v2.0
-[17:44:13] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.8
-[17:44:13] [Server thread/INFO]: [SimpleTimber] Loading server plugin SimpleTimber v2.1.0
-[17:44:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:44:13] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.8
-[17:44:14] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[17:44:15] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[17:44:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:44:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:44:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:44:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:44:16] [Server thread/INFO]: Preparing level "world"
-[17:44:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:44:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[17:44:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[17:44:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[17:44:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[17:44:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[17:44:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:44:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.8
-[17:44:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 8c78340
-[17:44:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[17:44:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:44:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[17:44:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[17:44:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:44:17] [Server thread/INFO]: Time elapsed: 1153 ms
-[17:44:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:44:18] [Server thread/INFO]: Time elapsed: 471 ms
-[17:44:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:44:18] [Server thread/INFO]: Time elapsed: 235 ms
-[17:44:18] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
-[17:44:18] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
-[17:44:18] [Server thread/INFO]: [LevelledMobs] Enabling LevelledMobs v4.3.2.1 b125
-[17:44:18] [Server thread/INFO]: [LevelledMobs] Enabling commands
-[17:44:18] [Server thread/INFO]: [LevelledMobs] Building reflection cache, use simple names: true
-[17:44:18] [Server thread/INFO]: [LevelledMobs] Using NMS version 1.21 for nametag support
-[17:44:18] [Server thread/INFO]: [LevelledMobs] File Loader: Loading files...
-[17:44:18] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
-[17:44:18] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
-[17:44:18] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
-[17:44:18] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
-[17:44:19] [Server thread/INFO]: [LevelledMobs] Current rules hash: 9b0f48e3273bb9cc29d2891ad33fb3410fec8cf1e77c2092ff670fd38f6d4ff5
-[17:44:19] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
-[17:44:19] [Server thread/INFO]: [LevelledMobs] Listeners: Registering event listeners...
-[17:44:19] [Server thread/INFO]: [LevelledMobs] Running misc procedures
-[17:44:19] [Server thread/INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
-[17:44:19] [Server thread/INFO]: [LevelledMobs] Start-up complete (took 784ms)
-[17:44:19] [Server thread/INFO]: [SetHome] Enabling SetHome v2.0
-[17:44:19] [Server thread/INFO]: [SimpleTimber] Enabling SimpleTimber v2.1.0
-[17:44:19] [Server thread/INFO]: [SimpleTimber] Plugin is being enabled...
-[17:44:20] [Server thread/INFO]: [SimpleTimber] Using language file: english.yml
-[17:44:20] [Server thread/INFO]: [SimpleTimber] Loaded 3 configs!
-[17:44:20] [Server thread/INFO]: [SimpleTimber] Updated config.yml to version 2! Regenerate file to see new comments.
-[17:44:20] [Server thread/INFO]: [SimpleTimber] Registered 1 commands!
-[17:44:20] [Server thread/INFO]: [SimpleTimber] Registered 2 listeners!
-[17:44:20] [Server thread/INFO]: [SimpleTimber] Plugin has been enabled!
-[17:44:20] [Server thread/INFO]: [spark] Starting background profiler...
-[17:44:21] [Server thread/INFO]: Done preparing level "world" (5.603s)
-[17:44:21] [Server thread/INFO]: Running delayed init tasks
-[17:44:21] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[17:44:21] [Server thread/INFO]: Done (30.276s)! For help, type "help"
-[17:44:21] [Server thread/INFO]: Timings Reset
-[17:44:21] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.4.1
-[17:44:22] [Craft Scheduler Thread - 6 - SimpleTimber/INFO]: [SimpleTimber] You are using the latest version of SimpleTimber!
-[17:44:22] [User Authenticator #0/INFO]: UUID of player zerox is 14915c85-50a2-37de-8dda-02cb959b7576
-[17:44:26] [Server thread/INFO]: zerox joined the game
-[17:44:26] [Server thread/INFO]: zerox[/127.217.156.247:42527] logged in with entity id 27 at ([world]-6.5, 88.0, 37.5)
-[17:44:31] [User Authenticator #0/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
-[17:44:34] [Server thread/INFO]: jp7806073 joined the game
-[17:44:34] [Server thread/INFO]: jp7806073[/127.141.176.46:49983] logged in with entity id 189 at ([world]-138.2866789165528, -17.0, -30.959809209596628)
-[17:45:05] [Async Chat Thread - #0/INFO]: [Not Secure] <zerox> mamaguevos me pude unir
-[17:45:31] [Async Chat Thread - #0/INFO]: [Not Secure] <jp7806073> bien
-[17:45:34] [Server thread/INFO]: Made zerox a server operator
-[17:45:50] [Server thread/INFO]: Teleported zerox to jp7806073
-[17:46:14] [Async Chat Thread - #0/INFO]: [Not Secure] <zerox> no me mires q me meo
-[17:46:17] [Server thread/INFO]: zerox lost connection: Timed out
-[17:46:17] [Server thread/INFO]: zerox left the game
-[17:46:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
-sed<--[HERE]
-[17:46:23] [Server thread/INFO]: Unknown or incomplete command, see below for error
-/sed<--[HERE]
-[17:46:27] [Server thread/INFO]: Seed: [-4021730316778693393]
-[17:46:47] [User Authenticator #1/INFO]: UUID of player zerox is 14915c85-50a2-37de-8dda-02cb959b7576
-[17:46:50] [Server thread/INFO]: zerox joined the game
-[17:46:50] [Server thread/INFO]: zerox[/127.99.72.100:44559] logged in with entity id 735 at ([world]-138.2866789165528, -17.0, -30.959809209596628)
-[17:47:34] [Async Chat Thread - #2/INFO]: [Not Secure] <jp7806073> hola ya
-[17:47:38] [Async Chat Thread - #2/INFO]: [Not Secure] <jp7806073> estoy
-[17:47:42] [Async Chat Thread - #2/INFO]: [Not Secure] <jp7806073> ves algo ??
-[17:47:57] [Async Chat Thread - #2/INFO]: [Not Secure] <jp7806073> tenés pantalla dividida
-[17:47:59] [Async Chat Thread - #3/INFO]: [Not Secure] <zerox> nomás oscuro como el fundillo de mex
-[17:48:00] [Async Chat Thread - #3/INFO]: [Not Secure] <jp7806073> ??
-[17:48:19] [Async Chat Thread - #3/INFO]: [Not Secure] <zerox> la sensibilidad es muy duro q mmdas xd
-[17:48:47] [Async Chat Thread - #3/INFO]: [Not Secure] <zerox> ando checando los controles
-[17:49:12] [Async Chat Thread - #3/INFO]: [Not Secure] <zerox> dame un poco
-[17:49:12] [Async Chat Thread - #3/INFO]: [Not Secure] <jp7806073> ok
-[17:49:44] [Server thread/INFO]: jp7806073 has made the advancement [Not Today, Thank You]
-[17:50:20] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> zero?
-[17:50:30] [Server thread/INFO]: jp7806073 issued server command: /kill zerox
-[17:50:30] [Server thread/INFO]: zerox was killed
-[17:50:30] [Server thread/INFO]: [jp7806073: Killed zerox]
-[17:50:37] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> trae comida
-[17:50:43] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> yo te tepeo
-[17:50:45] [Async Chat Thread - #4/INFO]: [Not Secure] <zerox> WTF , como me morí
-[17:50:46] [Server thread/INFO]: jp7806073 issued server command: /skin
-[17:50:54] [Async Chat Thread - #4/INFO]: [Not Secure] <zerox> espera!!!
-[17:51:00] [Async Chat Thread - #4/INFO]: [Not Secure] <zerox> tomaré madera
-[17:51:06] [Server thread/INFO]: jp7806073 issued server command: /skin menu
-[17:51:08] [Folia Async Scheduler Thread #3/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:51:35] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> zerooo me mueroo
-[17:52:07] [Async Chat Thread - #4/INFO]: [Not Secure] <zerox> me giolaaa!!
-[17:52:18] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> tenés comida zero
-[17:52:22] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> matate una baca
-[17:52:30] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> o algo por hay te tpo
-[17:53:07] [Async Chat Thread - #4/INFO]: [Not Secure] <zerox> haber busco
-[17:53:20] [User Authenticator #2/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
-[17:53:22] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> dale
-[17:53:26] [Server thread/INFO]: Sebas23m joined the game
-[17:53:26] [Server thread/INFO]: Sebas23m[/127.124.233.182:56099] logged in with entity id 1826 at ([world]117.68692111101667, 48.0, -493.0372008797536)
-[17:53:48] [Async Chat Thread - #4/INFO]: [Not Secure] <zerox> encontré un huevo de mex me faltta el otro
-[17:54:17] [Server thread/INFO]: Sebas23m lost connection: Disconnected
-[17:54:17] [Server thread/INFO]: Sebas23m left the game
-[17:54:23] [User Authenticator #3/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
-[17:54:24] [Server thread/INFO]: Sebas23m joined the game
-[17:54:24] [Server thread/INFO]: Sebas23m[/127.124.233.182:47547] logged in with entity id 2455 at ([world]116.30000001192093, 48.0, -495.69999998807907)
-[17:54:26] [Async Chat Thread - #4/INFO]: [Not Secure] <zerox> ya le estoy agarrando la honda a los controles
-[17:54:32] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> vale
-[17:55:18] [Async Chat Thread - #4/INFO]: [Not Secure] <Sebas23m> hola
-[17:56:00] [Server thread/INFO]: Sebas23m issued server command: /tp -1984 ~ -1264
-[17:56:00] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -1983.500000, 48.000000, -1263.500000]
-[17:56:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3360ms or 67 ticks behind
-[17:56:11] [Server thread/WARN]: Sebas23m moved wrongly!
-[17:56:11] [Server thread/INFO]: Sebas23m suffocated in a wall
-[17:56:13] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> ya tenés comida zeroo
-[17:56:41] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> zeroo
-[17:56:50] [Server thread/INFO]: Sebas23m issued server command: /tp -1984 100 -1264
-[17:56:50] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -1983.500000, 100.000000, -1263.500000]
-[17:57:09] [Async Chat Thread - #4/INFO]: [Not Secure] <zerox> cómo me costó hacer una espada xd
-[17:57:15] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> aajajja
-[17:57:22] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> a puño
-[17:57:28] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> y mejor hacerte una hacha
-[17:57:32] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> salta y le pegas
-[17:57:57] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> ya zeroo
-[17:58:12] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> tú cel tiene pantalla dividida??
-[17:58:17] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> tiene la opción
-[17:58:19] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> ??
-[17:58:48] [Async Chat Thread - #4/INFO]: [Not Secure] <zerox> ni idea
-[17:58:55] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> jajaj comida tenés ya??
-[17:59:14] [Async Chat Thread - #4/INFO]: [Not Secure] <zerox> tengo 5 polaas
-[17:59:18] [Async Chat Thread - #4/INFO]: [Not Secure] <zerox> pollos*
-[17:59:33] [Async Chat Thread - #4/INFO]: [Not Secure] <zerox> encontré a mex , carbon
-[17:59:40] [Server thread/INFO]: jp7806073 issued server command: /tp zerox jp7806073
-[17:59:40] [Server thread/INFO]: [jp7806073: Teleported zerox to jp7806073]
-[17:59:48] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> vota la comida
-[17:59:49] [Async Chat Thread - #4/INFO]: [Not Secure] <zerox> pendejo mi carboo!!
-[17:59:59] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> dame
-[18:00:21] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> metete a la llamada zero
-[18:00:41] [Server thread/INFO]: zerox has made the advancement [Isn't It Iron Pick]
-[18:00:48] [Server thread/INFO]: zerox has made the advancement [Getting an Upgrade]
-[18:00:55] [Server thread/INFO]: zerox has made the advancement [Acquire Hardware]
-[18:01:01] [Server thread/INFO]: zerox has made the advancement [Stone Age]
-[18:01:06] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> con el de hierol
-[18:01:11] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> noo
-[18:01:17] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> espera q la mina está aqui
-[18:02:09] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> ven
-[18:02:46] [Server thread/INFO]: zerox was shot by Lvl 1 | Skeleton
-[18:02:55] [Async Chat Thread - #4/INFO]: [Not Secure] <zerox> me mato un veneno pipipi
-[18:03:17] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> haber
-[18:03:22] [Async Chat Thread - #4/INFO]: [Not Secure] <zerox> mrd saliendo , me arreglo los controles
-[18:03:24] [Server thread/INFO]: Sebas23m issued server command: /gamerule playersSleepingPercentage 0
-[18:03:24] [Server thread/INFO]: [Sebas23m: Gamerule playersSleepingPercentage is now set to: 0]
-[18:03:28] [Server thread/INFO]: Sebas23m has made the advancement [Sweet Dreams]
-[18:03:49] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> dale la ruedita de arriba q tiene en el centro
-[18:03:54] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> hay lo puede modificar
-[18:05:40] [Async Chat Thread - #6/INFO]: [Not Secure] <zerox> el tp
-[18:06:01] [Server thread/INFO]: jp7806073 issued server command: /tp zerox jp7806073
-[18:06:01] [Server thread/INFO]: [jp7806073: Teleported zerox to jp7806073]
-[18:06:06] [Server thread/INFO]: zerox has made the advancement [Diamonds!]
-[18:06:12] [Async Chat Thread - #6/INFO]: [Not Secure] <jp7806073> toma
-[18:06:42] [Server thread/INFO]: zerox has made the advancement [Monster Hunter]
-[18:07:33] [Server thread/INFO]: Sebas23m issued server command: /effect give zerox minecraft:night_vision infinite
-[18:07:33] [Server thread/INFO]: [Sebas23m: Applied effect Night Vision to zerox]
-[18:07:38] [Async Chat Thread - #8/INFO]: [Not Secure] <zerox> mrd un agolote mano
-[18:07:49] [Async Chat Thread - #8/INFO]: [Not Secure] <zerox> tenés hierro para el cubo??
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 40
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1965, 93, -1273
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1964, 93, -1269
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1958, 94, -1264
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1955, 95, -1267
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1955, 95, -1266
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1955, 95, -1265
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1955, 95, -1264
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1955, 95, -1263
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1955, 95, -1262
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1954, 95, -1267
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1954, 95, -1269
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1955, 95, -1261
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1954, 95, -1261
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1953, 95, -1267
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1953, 95, -1261
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1952, 95, -1267
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1952, 95, -1261
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1951, 95, -1267
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1951, 95, -1261
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1950, 95, -1267
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1950, 95, -1261
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1949, 95, -1267
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1949, 95, -1261
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1948, 95, -1267
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1948, 95, -1261
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1951, 94, -1274
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1948, 94, -1273
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1947, 95, -1268
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1947, 95, -1267
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1947, 95, -1266
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1947, 95, -1262
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1947, 95, -1261
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1947, 95, -1265
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1947, 95, -1263
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1947, 95, -1264
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1945, 95, -1274
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1944, 95, -1277
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1944, 94, -1281
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1939, 94, -1285
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1944, 94, -1285
-[18:08:17] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
-[18:08:40] [Async Chat Thread - #8/INFO]: [Not Secure] <jp7806073> toma
-[18:08:43] [Async Chat Thread - #9/INFO]: [Not Secure] <jp7806073> llevatelo
-[18:08:55] [Async Chat Thread - #9/INFO]: [Not Secure] <jp7806073> llévate el azolote
-[18:09:18] [Server thread/INFO]: zerox has made the advancement [The Cutest Predator]
-[18:10:00] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[18:10:00] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1955, 94, -1256
-[18:10:00] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
-[18:10:41] [Async Chat Thread - #10/INFO]: [Not Secure] <zerox> oro
-[18:10:48] [Async Chat Thread - #10/INFO]: [Not Secure] <jp7806073> tima
-[18:10:52] [Async Chat Thread - #10/INFO]: [Not Secure] <jp7806073> toma
-[18:11:39] [Server thread/INFO]: jp7806073 has made the advancement [Hot Stuff]
-[18:12:13] [Server thread/INFO]: jp7806073 has made the advancement [The Cutest Predator]
-[18:13:55] [Server thread/INFO]: zerox was slain by Lvl 9 | Spider
-[18:14:07] [Async Chat Thread - #12/INFO]: [Not Secure] <zerox> mrd mano jajaja , mmxd
-[18:14:23] [Async Chat Thread - #12/INFO]: [Not Secure] <Sebas23m> los mods estan re dificiles ten cuidado
-[18:14:35] [Async Chat Thread - #12/INFO]: [Not Secure] <Sebas23m> pero a su vez dan buena xp
-[18:14:47] [Async Chat Thread - #12/INFO]: [Not Secure] <zerox> me di cuenta. no es como el bedrock
-[18:15:06] [Async Chat Thread - #12/INFO]: [Not Secure] <zerox> el tp mano haber si mis cosas están ahi
-[18:15:27] [Async Chat Thread - #12/INFO]: [Not Secure] <Sebas23m> te puedo tp a jhon
-[18:15:42] [Async Chat Thread - #12/INFO]: [Not Secure] <Sebas23m> pero la verdad no tengo las codrs donde moris
-[18:15:50] [Server thread/INFO]: Sebas23m issued server command: /tp zerox jp7806073
-[18:15:50] [Server thread/INFO]: [Sebas23m: Teleported zerox to jp7806073]
-[18:16:23] [Async Chat Thread - #12/INFO]: [Not Secure] <zerox> un diamante en tu cara
-[18:16:28] [Async Chat Thread - #12/INFO]: [Not Secure] <zerox> vez q tengo suerte
-[18:17:46] [Async Chat Thread - #14/INFO]: [Not Secure] <zerox> mrd un enanoo
-[18:17:54] [Server thread/INFO]: zerox was slain by Zombie ❤
-[18:18:03] [Async Chat Thread - #14/INFO]: [Not Secure] <zerox> jajajajaj , otra vez el tp mano plis
-[18:18:12] [Server thread/INFO]: Sebas23m issued server command: /tp zerox jp7806073
-[18:18:12] [Server thread/INFO]: [Sebas23m: Teleported zerox to jp7806073]
-[18:18:16] [Async Chat Thread - #14/INFO]: [Not Secure] <Sebas23m> jajaja
-[18:18:55] [Server thread/INFO]: zerox lost connection: Timed out
-[18:18:55] [Server thread/INFO]: zerox left the game
-[18:18:57] [Async Chat Thread - #14/INFO]: [Not Secure] <jp7806073> ya estoy
-[18:19:33] [User Authenticator #4/INFO]: UUID of player zerox is 14915c85-50a2-37de-8dda-02cb959b7576
-[18:19:36] [Server thread/INFO]: zerox joined the game
-[18:19:36] [Server thread/INFO]: zerox[/127.163.6.49:45333] logged in with entity id 10574 at ([world]-116.69999998807907, -20.0, -108.30119496640962)
-[18:19:52] [Async Chat Thread - #14/INFO]: [Not Secure] <jp7806073> ven sígueme tienes el efecto de visión nocturna
-[18:19:55] [Async Chat Thread - #14/INFO]: [Not Secure] <jp7806073> .
-[18:20:22] [Async Chat Thread - #14/INFO]: [Not Secure] <zerox> un enano beneco
-[18:20:44] [Server thread/INFO]: Villager Villager['Villager'/3493, uuid='cd36ace2-78b0-4bf9-acdc-e892a4a93567', l='ServerLevel[world]', x=-2075.30, y=138.00, z=-1304.50, cpos=[-130, -82], tl=28662, v=true] died, message: 'Villager was slain by Zombie'
-[18:20:57] [Async Chat Thread - #14/INFO]: [Not Secure] <zerox> tenés el pico ??
-[18:21:08] [Async Chat Thread - #14/INFO]: [Not Secure] <jp7806073> el de piedra
-[18:21:41] [Async Chat Thread - #14/INFO]: [Not Secure] <zerox> che y Sebas y mex dónde están??
-[18:21:51] [Async Chat Thread - #14/INFO]: [Not Secure] <jp7806073> son equipos diferentes
-[18:22:43] [Async Chat Thread - #14/INFO]: [Not Secure] <zerox> y si dinamitamos su casa ?
-[18:22:48] [Async Chat Thread - #14/INFO]: [Not Secure] <jp7806073> por eso
-[18:22:52] [Async Chat Thread - #14/INFO]: [Not Secure] <jp7806073> somos equipos
-[18:23:53] [Server thread/INFO]: Sebas23m issued server command: /sethome 1
+[18:33:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:33:32] [ServerMain/INFO]: Loaded 1290 recipes
+[18:33:32] [ServerMain/INFO]: Loaded 1399 advancements
+[18:33:32] [Server thread/INFO]: Starting minecraft server version 1.21
+[18:33:32] [Server thread/INFO]: Loading properties
+[18:33:32] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[18:33:33] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[18:33:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:33:33] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:33:34] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[18:33:34] [Server thread/INFO]: Default game type: SURVIVAL
+[18:33:34] [Server thread/INFO]: Generating keypair
+[18:33:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:33:34] [Server thread/INFO]: Using epoll channel type
+[18:33:34] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[18:33:34] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[18:33:37] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
+[18:33:37] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
+[18:33:38] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[18:33:39] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[18:33:40] [Server thread/INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.3.2.1 b125
+[18:33:40] [Server thread/INFO]: [LevelledMobs] Loading commands
+[18:33:40] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v2.0
+[18:33:40] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.8
+[18:33:40] [Server thread/INFO]: [SimpleTimber] Loading server plugin SimpleTimber v2.1.0
+[18:33:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:33:40] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.8
+[18:33:42] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[18:33:43] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[18:33:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:33:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:33:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:33:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:33:43] [Server thread/INFO]: Preparing level "world"
+[18:33:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:33:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[18:33:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[18:33:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[18:33:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[18:33:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[18:33:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:33:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.8
+[18:33:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 8c78340
+[18:33:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[18:33:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:33:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[18:33:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[18:33:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:33:45] [Server thread/INFO]: Time elapsed: 1209 ms
+[18:33:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:33:45] [Server thread/INFO]: Time elapsed: 344 ms
+[18:33:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:33:45] [Server thread/INFO]: Time elapsed: 258 ms
+[18:33:45] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
+[18:33:45] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[18:33:45] [Server thread/INFO]: [LevelledMobs] Enabling LevelledMobs v4.3.2.1 b125
+[18:33:45] [Server thread/INFO]: [LevelledMobs] Enabling commands
+[18:33:45] [Server thread/INFO]: [LevelledMobs] Building reflection cache, use simple names: true
+[18:33:45] [Server thread/INFO]: [LevelledMobs] Using NMS version 1.21 for nametag support
+[18:33:45] [Server thread/INFO]: [LevelledMobs] File Loader: Loading files...
+[18:33:45] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
+[18:33:45] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
+[18:33:45] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
+[18:33:46] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
+[18:33:46] [Server thread/INFO]: [LevelledMobs] Current rules hash: 9b0f48e3273bb9cc29d2891ad33fb3410fec8cf1e77c2092ff670fd38f6d4ff5
+[18:33:46] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
+[18:33:46] [Server thread/INFO]: [LevelledMobs] Listeners: Registering event listeners...
+[18:33:46] [Server thread/INFO]: [LevelledMobs] Running misc procedures
+[18:33:46] [Server thread/INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
+[18:33:46] [Server thread/INFO]: [LevelledMobs] Start-up complete (took 724ms)
+[18:33:46] [Server thread/INFO]: [SetHome] Enabling SetHome v2.0
+[18:33:46] [Server thread/INFO]: [SimpleTimber] Enabling SimpleTimber v2.1.0
+[18:33:46] [Server thread/INFO]: [SimpleTimber] Plugin is being enabled...
+[18:33:47] [Server thread/INFO]: [SimpleTimber] Using language file: english.yml
+[18:33:47] [Server thread/INFO]: [SimpleTimber] Loaded 3 configs!
+[18:33:47] [Server thread/INFO]: [SimpleTimber] Registered 1 commands!
+[18:33:47] [Server thread/INFO]: [SimpleTimber] Registered 2 listeners!
+[18:33:47] [Server thread/INFO]: [SimpleTimber] Plugin has been enabled!
+[18:33:47] [Server thread/INFO]: [spark] Starting background profiler...
+[18:33:48] [Server thread/INFO]: Done preparing level "world" (5.312s)
+[18:33:48] [Server thread/INFO]: Running delayed init tasks
+[18:33:48] [Craft Scheduler Thread - 3 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[18:33:48] [Server thread/INFO]: Done (27.477s)! For help, type "help"
+[18:33:48] [Server thread/INFO]: Timings Reset
+[18:33:48] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.4.1
+[18:33:49] [Craft Scheduler Thread - 7 - SimpleTimber/INFO]: [SimpleTimber] You are using the latest version of SimpleTimber!
+[18:34:02] [User Authenticator #0/INFO]: UUID of player zerox is 14915c85-50a2-37de-8dda-02cb959b7576
+[18:34:06] [Server thread/INFO]: zerox joined the game
+[18:34:06] [Server thread/INFO]: zerox[/127.167.226.58:51739] logged in with entity id 51 at ([world]-142.5951978840013, -16.0, -123.58343557767374)
+[18:34:06] [User Authenticator #0/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[18:34:06] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 550761cd-ef75-4d3a-945d-593cfd952ca2, mapped to Zombie['Zombie'/57, uuid='550761cd-ef75-4d3a-945d-593cfd952ca2', l='ServerLevel[world]', x=-158.71, y=-11.00, z=-129.75, cpos=[-10, -9], tl=1005, v=true], can't add Zombie['Zombie'/60, uuid='550761cd-ef75-4d3a-945d-593cfd952ca2', l='ServerLevel[world]', x=-160.51, y=-13.00, z=-135.79, cpos=[-11, -9], tl=873, v=false]
+[18:34:07] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: b21a5d2e-643c-4251-bed5-314e2d207df3, mapped to Creeper['Creeper'/113, uuid='b21a5d2e-643c-4251-bed5-314e2d207df3', l='ServerLevel[world]', x=-182.50, y=-14.00, z=-159.32, cpos=[-12, -10], tl=61, v=true], can't add Creeper['Creeper'/124, uuid='b21a5d2e-643c-4251-bed5-314e2d207df3', l='ServerLevel[world]', x=-182.50, y=-15.00, z=-165.17, cpos=[-12, -11], tl=197, v=false]
+[18:34:07] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 5e9adf61-1314-4615-b594-5cef1973b0cd, mapped to Bat['Bat'/118, uuid='5e9adf61-1314-4615-b594-5cef1973b0cd', l='ServerLevel[world]', x=-169.88, y=-16.60, z=-167.29, cpos=[-11, -11], tl=167, v=true], can't add Bat['Bat'/125, uuid='5e9adf61-1314-4615-b594-5cef1973b0cd', l='ServerLevel[world]', x=-176.01, y=-16.00, z=-171.39, cpos=[-12, -11], tl=40, v=false]
+[18:34:09] [Server thread/INFO]: Sebas23m joined the game
+[18:34:09] [Server thread/INFO]: Sebas23m[/127.124.233.182:42303] logged in with entity id 83 at ([world]-2017.5348958914376, 97.7531999805212, -1193.3812369557616)
+[18:34:18] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 956ab408-5224-4798-b57b-524d81545547, mapped to EnderMan['Enderman'/26, uuid='956ab408-5224-4798-b57b-524d81545547', l='ServerLevel[world]', x=61.73, y=69.00, z=64.58, cpos=[3, 4], tl=7109, v=true], can't add EnderMan['Enderman'/518, uuid='956ab408-5224-4798-b57b-524d81545547', l='ServerLevel[world]', x=66.39, y=66.00, z=71.40, cpos=[4, 4], tl=7711, v=false]
+[18:35:07] [Async Chat Thread - #0/INFO]: [Not Secure] <zerox> che recolectemos los diamantes y salgamos de esta monda
+[18:35:15] [Server thread/INFO]: Sebas23m issued server command: /effect give zerox minecraft:night_vision infinite
+[18:35:25] [Async Chat Thread - #0/INFO]: [Not Secure] <zerox> acá hay diamond
+[18:35:32] [Async Chat Thread - #0/INFO]: [Not Secure] <Sebas23m> jhon no esta se fu a comer
+[18:35:41] [Async Chat Thread - #0/INFO]: [Not Secure] <zerox> ese mamamhuevo
+[18:35:47] [Server thread/INFO]: Sebas23m issued server command: /effect give Sebas23m minecraft:night_vision infinite
+[18:35:47] [Server thread/INFO]: [Sebas23m: Applied effect Night Vision to Sebas23m]
+[18:35:51] [Async Chat Thread - #0/INFO]: [Not Secure] <Sebas23m> desile que se meta
+[18:36:12] [Async Chat Thread - #0/INFO]: [Not Secure] <zerox> relax , are algo lu gole digo q se salga de aqui
+[18:36:21] [Async Chat Thread - #0/INFO]: [Not Secure] <Sebas23m> bueno
+[18:36:39] [Async Chat Thread - #0/INFO]: [Not Secure] <zerox> cuantos diamantes para q mates a mex ?
+[18:39:39] [Async Chat Thread - #2/INFO]: [Not Secure] <Sebas23m> ninguno bro somos aliados
+[18:40:04] [Async Chat Thread - #3/INFO]: [Not Secure] <zerox> si somos aliados dónde están ? :3 , t
+[18:40:15] [Async Chat Thread - #3/INFO]: [Not Secure] <zerox> yo no muerdo
+[18:40:21] [Async Chat Thread - #3/INFO]: [Not Secure] <Sebas23m> no tu con jho son aliados
+[18:40:27] [Async Chat Thread - #3/INFO]: [Not Secure] <Sebas23m> y yo con mex
+[18:41:11] [Async Chat Thread - #3/INFO]: [Not Secure] <Sebas23m> ya sabes lo de las skin
+[18:41:19] [Async Chat Thread - #3/INFO]: [Not Secure] <zerox> che se puede instalar el Jenny mods ??
+[18:41:40] [Async Chat Thread - #3/INFO]: [Not Secure] <Sebas23m> noppor que esto es solo plugins y en cel no corre
