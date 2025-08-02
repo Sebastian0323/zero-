@@ -89,6 +89,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-08-02 20:15:12 +0000",
+      "rotten_flesh": "2025-08-02 21:13:13 +0000",
       "glow_berries": "2025-08-02 17:50:09 +0000",
       "cooked_beef": "2025-08-02 20:02:26 +0000"
     },
@@ -1562,6 +1563,18 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-08-02 21:08:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-08-02 21:10:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-02 21:10:47 +0000"
     },
     "done": true
   },
