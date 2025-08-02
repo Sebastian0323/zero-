@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:dark_forest": "2025-08-02 22:20:07 +0000",
+      "minecraft:forest": "2025-08-02 23:13:08 +0000",
       "minecraft:savanna": "2025-08-02 22:22:44 +0000",
       "minecraft:plains": "2025-08-02 22:22:40 +0000"
     },
@@ -652,6 +653,49 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-08-02 22:59:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-08-02 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-08-02 23:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-08-02 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-02 23:11:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-08-02 23:42:34 +0000",
+      "cooked_beef": "2025-08-02 23:42:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-02 23:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-02 23:11:53 +0000"
     },
     "done": true
   },
