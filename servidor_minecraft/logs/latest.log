@@ -269,3 +269,35 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [19:40:47] [Server thread/INFO]: Sebas23m issued server command: /kill Cami23m
 [19:40:47] [Server thread/INFO]: Cami23m was killed
 [19:40:47] [Server thread/INFO]: [[Backyardigans] Sebas23m: Killed Cami23m]
+[19:55:00] [Server thread/INFO]: jp7806073 was slain by Lvl 1 | Zombie
+[19:55:06] [User Authenticator #4/INFO]: UUID of player zerox is 14915c85-50a2-37de-8dda-02cb959b7576
+[19:55:09] [Server thread/INFO]: zerox joined the game
+[19:55:09] [TAB Processing Thread/INFO]: [TAB] [WARN] Player zerox's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[19:55:09] [Server thread/INFO]: zerox[/127.238.47.172:50137] logged in with entity id 23656 at ([world]-168.09391306724345, 72.0, -463.4073805341435)
+[19:55:25] [Async Chat Thread - #1/INFO]: [Not Secure] <zerox> me extrañaron o me desaparezco otro rato
+[19:55:27] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
+[19:55:27] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to jp7806073]
+[19:55:39] [Async Chat Thread - #1/INFO]: [Not Secure] Backyardigans - Sebas23m > como quieras ?
+[19:55:46] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[19:55:46] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported jp7806073 to [Backyardigans] Sebas23m]
+[19:55:56] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[19:56:00] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1981.5 90 -1256.5
+[19:56:00] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -1981.500000, 90.000000, -1256.500000]
+[19:56:16] [Async Chat Thread - #1/INFO]: [Not Secure] <jp7806073> zero
+[19:56:24] [Async Chat Thread - #1/INFO]: [Not Secure] <jp7806073> mira el cofre chiquito
+[19:56:35] [Async Chat Thread - #1/INFO]: [Not Secure] Backyardigans - Sebas23m > zero colocate un skin
+[19:56:37] [Async Chat Thread - #1/INFO]: [Not Secure] <jp7806073> hay esmeraldas clmprAte comida y la armor de diamante
+[19:56:47] [Async Chat Thread - #1/INFO]: [Not Secure] <zerox> q me das el chikito? , no bro no soy homo
+[19:59:34] [Server thread/INFO]: zerox lost connection: Timed out
+[19:59:34] [Server thread/INFO]: zerox left the game
+[19:59:51] [User Authenticator #5/INFO]: UUID of player zerox is 14915c85-50a2-37de-8dda-02cb959b7576
+[19:59:54] [TAB Processing Thread/INFO]: [TAB] [WARN] Player zerox's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[19:59:54] [Server thread/INFO]: zerox joined the game
+[19:59:54] [Server thread/INFO]: zerox[/127.6.48.50:34013] logged in with entity id 25699 at ([world]-130.68203085130975, 47.0, -445.7519433566701)
+[20:01:02] [Server thread/INFO]: jp7806073 issued server command: /home c
+[20:01:07] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[20:01:07] [Server thread/INFO]: jp7806073 left the game
+[20:02:29] [User Authenticator #6/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[20:02:33] [Server thread/INFO]: jp7806073 joined the game
+[20:02:33] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jp7806073's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:02:33] [Server thread/INFO]: jp7806073[/127.55.162.79:34845] logged in with entity id 26613 at ([world]-153.7803383358778, 72.0, -434.2516929977672)
