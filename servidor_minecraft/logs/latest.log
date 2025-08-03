@@ -132,3 +132,25 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [18:25:10] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: ccc69d50-dd20-405d-94b3-51bc101c99ce, mapped to Chicken['Chicken'/557, uuid='ccc69d50-dd20-405d-94b3-51bc101c99ce', l='ServerLevel[world]', x=-366.17, y=73.00, z=-403.25, cpos=[-23, -26], tl=64930, v=true], can't add Chicken['Chicken'/1050, uuid='ccc69d50-dd20-405d-94b3-51bc101c99ce', l='ServerLevel[world]', x=-374.88, y=74.00, z=-408.78, cpos=[-24, -26], tl=63615, v=false]
 [18:27:51] [Server thread/INFO]: jp7806073 lost connection: Disconnected
 [18:27:51] [Server thread/INFO]: jp7806073 left the game
+[18:33:32] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 12
+[18:33:32] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1964, 94, -1270
+[18:33:32] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1965, 94, -1270
+[18:33:32] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1965, 94, -1269
+[18:33:32] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1964, 94, -1269
+[18:33:32] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1973, 94, -1270
+[18:33:32] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1972, 94, -1270
+[18:33:32] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1973, 94, -1269
+[18:33:32] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1972, 94, -1269
+[18:33:32] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1969, 94, -1270
+[18:33:32] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1969, 94, -1269
+[18:33:32] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1968, 94, -1270
+[18:33:32] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1968, 94, -1269
+[18:33:32] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
+[18:33:43] [User Authenticator #1/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[18:33:45] [Server thread/INFO]: jp7806073 joined the game
+[18:33:45] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jp7806073's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:33:45] [Server thread/INFO]: jp7806073[/127.55.162.79:44925] logged in with entity id 2638 at ([world]-166.2793732696095, 72.5625, -464.2600410152855)
+[18:34:10] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 0
+[18:34:10] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
+[18:35:40] [Server thread/INFO]: Sebas23m issued server command: /exp
+[18:35:44] [Server thread/INFO]: Sebas23m issued server command: /experience
