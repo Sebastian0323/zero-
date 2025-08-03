@@ -1708,13 +1708,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/flower_banner_pattern": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "has_oxeye_daisy": "2025-08-03 21:22:12 +0000"
+      "has_bone_meal": "2025-08-03 21:08:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-08-03 21:08:48 +0000"
     },
@@ -1726,15 +1726,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-08-03 21:22:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-08-03 21:22:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
-      "has_bone_meal": "2025-08-03 21:08:48 +0000"
+      "has_logs": "2025-08-03 21:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-03 21:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-08-03 21:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-08-03 21:30:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-03 21:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-08-03 21:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-03 21:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-08-03 21:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-03 21:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-08-03 21:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-03 21:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-08-03 21:30:04 +0000"
     },
     "done": true
   },

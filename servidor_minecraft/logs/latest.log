@@ -452,3 +452,10 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [21:15:08] [Async Chat Thread - #20/INFO]: [Not Secure] masturboys - jp7806073 > hola
 [21:19:20] [Server thread/INFO]: jp7806073 was slain by Iron Golem ❤
 [21:19:32] [Server thread/INFO]: jp7806073 issued server command: /home C
+[21:24:58] [Server thread/INFO]: zerox lost connection: Disconnected
+[21:24:58] [Server thread/INFO]: [masturboys] zerox left the game
+[21:26:07] [User Authenticator #14/INFO]: UUID of player zerox is 14915c85-50a2-37de-8dda-02cb959b7576
+[21:26:10] [Server thread/INFO]: masturboys - zerox has joined the game
+[21:26:10] [TAB Processing Thread/INFO]: [TAB] [WARN] Player zerox's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[21:26:10] [Server thread/INFO]: zerox[/127.161.91.200:50815] logged in with entity id 24329 at ([world]-256.28107606416955, 72.0, -476.3203817555377)
+[21:30:25] [Server thread/INFO]: [masturboys] zerox has made the advancement [Hot Stuff]
