@@ -154,3 +154,30 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [18:34:10] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
 [18:35:40] [Server thread/INFO]: Sebas23m issued server command: /exp
 [18:35:44] [Server thread/INFO]: Sebas23m issued server command: /experience
+[18:44:35] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 12
+[18:44:35] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1965, 94, -1269
+[18:44:35] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1965, 94, -1270
+[18:44:35] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1964, 94, -1270
+[18:44:35] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1964, 94, -1269
+[18:44:35] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1969, 94, -1270
+[18:44:35] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1969, 94, -1269
+[18:44:35] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1968, 94, -1270
+[18:44:35] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1968, 94, -1269
+[18:44:35] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1973, 94, -1270
+[18:44:35] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1973, 94, -1269
+[18:44:35] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1972, 94, -1270
+[18:44:35] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1972, 94, -1269
+[18:44:35] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
+[18:45:32] [User Authenticator #2/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[18:45:32] [Server thread/INFO]: jp7806073 lost connection: You logged in from another location
+[18:45:32] [Server thread/INFO]: jp7806073 left the game
+[18:45:33] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jp7806073's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:45:33] [Server thread/INFO]: jp7806073 joined the game
+[18:45:33] [Server thread/INFO]: jp7806073[/127.7.159.204:57531] logged in with entity id 6629 at ([world]32.30000001192093, 11.0, -612.3000000119209)
+[18:52:16] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[18:52:16] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1956, 93, -1285
+[18:52:16] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[18:52:29] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 2
+[18:52:29] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1960, 92, -1301
+[18:52:29] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1955, 94, -1304
+[18:52:29] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
