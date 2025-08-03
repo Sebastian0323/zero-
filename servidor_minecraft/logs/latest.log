@@ -341,3 +341,109 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [20:42:47] [Async Chat Thread - #10/INFO]: [Not Secure] masturboys - jp7806073 > no duermas zero
 [20:42:55] [Async Chat Thread - #10/INFO]: [Not Secure] masturboys - jp7806073 > voy a terminar la granja de hierro
 [20:43:12] [Async Chat Thread - #10/INFO]: [Not Secure] masturboys - zerox > relax
+[20:43:26] [Server thread/WARN]: zerox was kicked for floating too long!
+[20:43:26] [Server thread/INFO]: zerox lost connection: Flying is not enabled on this server
+[20:43:26] [Server thread/INFO]: [masturboys] zerox left the game
+[20:43:47] [User Authenticator #9/INFO]: UUID of player zerox is 14915c85-50a2-37de-8dda-02cb959b7576
+[20:43:51] [Server thread/INFO]: masturboys - zerox has joined the game
+[20:43:51] [TAB Processing Thread/INFO]: [TAB] [WARN] Player zerox's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:43:51] [Server thread/INFO]: zerox[/127.35.172.170:41929] logged in with entity id 11890 at ([world]-250.37076480249044, 74.84610397459554, -446.79327803390635)
+[20:43:54] [Async Chat Thread - #10/INFO]: [Not Secure] masturboys - jp7806073 > noo
+[20:44:10] [Async Chat Thread - #10/INFO]: [Not Secure] masturboys - zerox > no dormí
+[20:44:14] [Async Chat Thread - #10/INFO]: [Not Secure] masturboys - jp7806073 > fue cami
+[20:44:26] [Async Chat Thread - #10/INFO]: [Not Secure] masturboys - zerox > es mex ?
+[20:44:34] [Async Chat Thread - #10/INFO]: [Not Secure] masturboys - jp7806073 > no es el sobrino de sebas
+[20:44:38] [Async Chat Thread - #10/INFO]: [Not Secure] masturboys - zerox > aa
+[20:44:53] [Async Chat Thread - #10/INFO]: [Not Secure] masturboys - zerox > WTF Juan está en el infierno ajajjajaa
+[20:44:58] [Async Chat Thread - #10/INFO]: [Not Secure] masturboys - zerox > cómo llego ahí
+[20:45:14] [Async Chat Thread - #11/INFO]: [Not Secure] masturboys - jp7806073 > cómo??
+[20:45:31] [Async Chat Thread - #11/INFO]: [Not Secure] masturboys - zerox > Juan el meme de el caballo
+[20:48:33] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 12
+[20:48:33] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1973, 94, -1269
+[20:48:33] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1973, 94, -1270
+[20:48:33] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1972, 94, -1270
+[20:48:33] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1972, 94, -1269
+[20:48:33] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1969, 94, -1270
+[20:48:33] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1969, 94, -1269
+[20:48:33] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1968, 94, -1270
+[20:48:33] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1968, 94, -1269
+[20:48:33] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1965, 94, -1270
+[20:48:33] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1965, 94, -1269
+[20:48:33] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1964, 94, -1270
+[20:48:33] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1964, 94, -1269
+[20:48:33] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
+[20:50:09] [Server thread/INFO]: [masturboys] zerox burned to death
+[20:50:25] [Async Chat Thread - #12/INFO]: [Not Secure] masturboys - jp7806073 > zero??
+[20:50:32] [Async Chat Thread - #12/INFO]: [Not Secure] masturboys - zerox > ?
+[20:50:37] [Async Chat Thread - #12/INFO]: [Not Secure] masturboys - jp7806073 > estás bien??
+[20:50:44] [Async Chat Thread - #12/INFO]: [Not Secure] Backyardigans - Sebas23m > jajja
+[20:51:26] [Async Chat Thread - #12/INFO]: [Not Secure] masturboys - zerox > chi
+[20:51:56] [Server thread/INFO]: jp7806073 issued server command: /tp jp7806073 zerox
+[20:51:56] [Server thread/INFO]: [[masturboys] jp7806073: Teleported [masturboys] jp7806073 to [masturboys] zerox]
+[20:52:01] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[20:52:01] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [masturboys] jp7806073 to [Backyardigans] Sebas23m]
+[20:52:01] [Server thread/WARN]: zerox moved too quickly! 1.166236194978012,-1.0,-10.024995325488192
+[20:52:37] [Server thread/INFO]: jp7806073 issued server command: /tp jp7806073 zerox
+[20:52:37] [Server thread/INFO]: [[masturboys] jp7806073: Teleported [masturboys] jp7806073 to [masturboys] zerox]
+[20:52:42] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 zerox
+[20:52:42] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [masturboys] jp7806073 to [masturboys] zerox]
+[20:52:56] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
+[20:52:56] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to [masturboys] jp7806073]
+[20:53:35] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1981.5 90 -1256.5
+[20:53:35] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -1981.500000, 90.000000, -1256.500000]
+[20:53:45] [Server thread/INFO]: jp7806073 issued server command: /tp jp7806073 Sebas23m
+[20:53:45] [Server thread/INFO]: [[masturboys] jp7806073: Teleported [masturboys] jp7806073 to [Backyardigans] Sebas23m]
+[20:53:54] [Server thread/INFO]: jp7806073 issued server command: /tp jp7806073 zerox
+[20:53:54] [Server thread/INFO]: [[masturboys] jp7806073: Teleported [masturboys] jp7806073 to [masturboys] zerox]
+[20:54:03] [Async Chat Thread - #14/INFO]: [Not Secure] masturboys - jp7806073 > a haces
+[20:54:07] [Async Chat Thread - #14/INFO]: [Not Secure] masturboys - jp7806073 > q haces
+[20:54:18] [Async Chat Thread - #14/INFO]: [Not Secure] masturboys - jp7806073 > no duerman
+[20:54:33] [User Authenticator #10/INFO]: UUID of player zerox is 14915c85-50a2-37de-8dda-02cb959b7576
+[20:54:33] [Server thread/INFO]: zerox lost connection: You logged in from another location
+[20:54:33] [Server thread/INFO]: [masturboys] zerox left the game
+[20:54:36] [TAB Processing Thread/INFO]: [TAB] [WARN] Player zerox's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:54:36] [Server thread/INFO]: masturboys - zerox has joined the game
+[20:54:36] [Server thread/INFO]: zerox[/127.242.163.72:37667] logged in with entity id 15631 at ([world]-156.28650379034795, 72.0, -475.08117581441)
+[20:56:04] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[20:56:04] [Server thread/INFO]: [Backyardigans] Sebas23m left the game
+[20:56:39] [Async Chat Thread - #16/INFO]: [Not Secure] masturboys - jp7806073 > Home c
+[20:56:47] [Server thread/INFO]: jp7806073 issued server command: /Home c
+[20:56:56] [Server thread/INFO]: jp7806073 issued server command: /home c
+[20:57:10] [Server thread/INFO]: jp7806073 issued server command: /Ho
+[20:58:13] [Server thread/INFO]: jp7806073 issued server command: /tp jp7806073 zerox
+[20:58:13] [Server thread/INFO]: [[masturboys] jp7806073: Teleported [masturboys] jp7806073 to [masturboys] zerox]
+[20:59:35] [Server thread/INFO]: zerox lost connection: Timed out
+[20:59:35] [Server thread/INFO]: [masturboys] zerox left the game
+[20:59:55] [User Authenticator #11/INFO]: UUID of player zerox is 14915c85-50a2-37de-8dda-02cb959b7576
+[20:59:57] [TAB Processing Thread/INFO]: [TAB] [WARN] Player zerox's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:59:57] [Server thread/INFO]: masturboys - zerox has joined the game
+[20:59:57] [Server thread/INFO]: zerox[/127.20.234.202:49319] logged in with entity id 17079 at ([world]-116.40199266376672, 24.0, -463.69999998807907)
+[20:59:57] [Server thread/INFO]: jp7806073 issued server command: /sethome C
+[21:00:23] [Server thread/INFO]: jp7806073 issued server command: /home C
+[21:01:37] [Server thread/INFO]: jp7806073 issued server command: /home C
+[21:02:06] [Server thread/INFO]: jp7806073 was slain by Iron Golem ❤
+[21:02:16] [Server thread/INFO]: jp7806073 issued server command: /home C
+[21:04:34] [Server thread/WARN]: zerox was kicked for floating too long!
+[21:04:34] [Server thread/INFO]: zerox lost connection: Flying is not enabled on this server
+[21:04:34] [Server thread/INFO]: [masturboys] zerox left the game
+[21:05:50] [User Authenticator #12/INFO]: UUID of player zerox is 14915c85-50a2-37de-8dda-02cb959b7576
+[21:05:52] [Server thread/INFO]: masturboys - zerox has joined the game
+[21:05:52] [TAB Processing Thread/INFO]: [TAB] [WARN] Player zerox's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[21:05:52] [Server thread/INFO]: zerox[/127.188.87.228:38933] logged in with entity id 18494 at ([world]-216.4482102749009, 72.0, -463.57944726387524)
+[21:06:00] [Server thread/INFO]: jp7806073 issued server command: /home C
+[21:07:35] [Server thread/WARN]: zerox moved too quickly! 22.53036191238408,-1.9425391385729398,-22.919534502358886
+[21:07:44] [Async Chat Thread - #18/INFO]: [Not Secure] masturboys - jp7806073 > ya viste
+[21:07:56] [Async Chat Thread - #18/INFO]: [Not Secure] masturboys - jp7806073 > si ves
+[21:08:14] [Async Chat Thread - #18/INFO]: [Not Secure] masturboys - jp7806073 > en una hora nos dará 200
+[21:08:15] [User Authenticator #13/INFO]: UUID of player zerox is 14915c85-50a2-37de-8dda-02cb959b7576
+[21:08:15] [Server thread/INFO]: zerox lost connection: You logged in from another location
+[21:08:15] [Server thread/INFO]: [masturboys] zerox left the game
+[21:08:17] [Async Chat Thread - #18/INFO]: [Not Secure] masturboys - jp7806073 > de hierro
+[21:08:18] [TAB Processing Thread/INFO]: [TAB] [WARN] Player zerox's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[21:08:18] [Server thread/INFO]: masturboys - zerox has joined the game
+[21:08:18] [Server thread/INFO]: zerox[/127.161.91.200:50859] logged in with entity id 19220 at ([world]-167.69999998807907, 72.27746887248932, -485.3565720610539)
+[21:08:31] [Async Chat Thread - #18/INFO]: [Not Secure] masturboys - jp7806073 > mira el cofre
+[21:08:56] [Async Chat Thread - #18/INFO]: [Not Secure] masturboys - jp7806073 > quieres armadura de diamante??
+[21:09:15] [Async Chat Thread - #18/INFO]: [Not Secure] masturboys - zerox > relax no ando en pvp , además no hay monstruos
+[21:09:27] [Async Chat Thread - #19/INFO]: [Not Secure] masturboys - zerox > si muero es por pndjo xd
+[21:13:00] [Server thread/WARN]: zerox moved too quickly! 0.5114560307207512,-4.0,9.339476773696163
