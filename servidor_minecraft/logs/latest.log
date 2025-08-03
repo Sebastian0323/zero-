@@ -252,3 +252,20 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [19:32:11] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1935, 97, -1279
 [19:32:11] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1936, 97, -1274
 [19:32:11] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[19:35:41] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 2
+[19:35:41] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1927, 95, -1315
+[19:35:41] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1932, 95, -1319
+[19:35:41] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[19:36:48] [Server thread/INFO]: Cami23m was blown up by Lvl 6 | Creeper
+[19:37:03] [Server thread/INFO]: Cami23m was slain by Lvl 21 | Zombie
+[19:37:22] [Server thread/INFO]: Cami23m was slain by Lvl 7 | Zombie
+[19:40:11] [Server thread/INFO]: Sebas23m issued server command: /graves reload 20
+[19:40:20] [Server thread/INFO]: Sebas23m issued server command: /kill Cami23m
+[19:40:20] [Server thread/INFO]: Cami23m was killed
+[19:40:20] [Server thread/INFO]: [[Backyardigans] Sebas23m: Killed Cami23m]
+[19:40:29] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
+[19:40:29] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported Cami23m to [Backyardigans] Sebas23m]
+[19:40:41] [Server thread/INFO]: Sebas23m issued server command: /grave reload 240
+[19:40:47] [Server thread/INFO]: Sebas23m issued server command: /kill Cami23m
+[19:40:47] [Server thread/INFO]: Cami23m was killed
+[19:40:47] [Server thread/INFO]: [[Backyardigans] Sebas23m: Killed Cami23m]
