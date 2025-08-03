@@ -448,8 +448,10 @@
     "criteria": {
       "bread": "2025-08-02 18:10:18 +0000",
       "rotten_flesh": "2025-08-02 02:43:14 +0000",
+      "cookie": "2025-08-03 17:49:09 +0000",
       "cooked_mutton": "2025-08-02 02:41:40 +0000",
-      "cooked_beef": "2025-08-02 02:24:38 +0000"
+      "cooked_beef": "2025-08-02 02:24:38 +0000",
+      "golden_carrot": "2025-08-03 17:55:51 +0000"
     },
     "done": false
   },
@@ -1974,15 +1976,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/chest_minecart": {
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
-      "has_minecart": "2025-08-02 23:33:39 +0000"
+      "has_mossy_cobblestone": "2025-08-02 23:02:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
-      "has_gold_block": "2025-08-02 23:26:02 +0000"
+      "has_mossy_cobblestone": "2025-08-02 23:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-02 23:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-02 23:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-02 23:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-02 23:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-08-02 23:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-08-02 23:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-08-02 23:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-08-02 23:06:52 +0000"
     },
     "done": true
   },
@@ -1998,39 +2048,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2025-08-02 23:06:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/furnace_minecart": {
-    "criteria": {
-      "has_minecart": "2025-08-02 23:33:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/hopper_minecart": {
-    "criteria": {
-      "has_minecart": "2025-08-02 23:33:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-08-02 23:15:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-08-02 23:02:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_glazed_terracotta": {
-    "criteria": {
-      "has_white_terracotta": "2025-08-02 23:53:36 +0000"
     },
     "done": true
   },
@@ -2064,33 +2084,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-08-02 23:02:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-08-02 23:02:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-08-02 23:15:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_banner": {
-    "criteria": {
-      "has_yellow_wool": "2025-08-02 23:03:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_bed": {
-    "criteria": {
-      "has_yellow_wool": "2025-08-02 23:03:58 +0000"
     },
     "done": true
   },
@@ -2100,27 +2096,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_carpet": {
-    "criteria": {
-      "has_yellow_wool": "2025-08-02 23:03:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2025-08-02 23:33:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-08-02 23:15:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-08-02 23:02:28 +0000"
     },
     "done": true
   },
@@ -2130,9 +2108,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+  "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-08-02 23:02:28 +0000"
+      "has_gold_ingot": "2025-08-02 23:15:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-08-02 23:26:02 +0000"
     },
     "done": true
   },
@@ -2142,9 +2126,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_leggings": {
+  "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
-      "has_gold_ingot": "2025-08-02 23:15:54 +0000"
+      "has_minecart": "2025-08-02 23:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-08-02 23:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-08-02 23:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-08-02 23:33:39 +0000"
     },
     "done": true
   },
@@ -2154,9 +2156,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-08-02 23:02:28 +0000"
+      "has_white_terracotta": "2025-08-02 23:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-03 17:20:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-08-03 17:20:42 +0000"
     },
     "done": true
   },

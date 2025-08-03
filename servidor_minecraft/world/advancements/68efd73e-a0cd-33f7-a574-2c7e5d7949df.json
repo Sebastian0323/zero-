@@ -759,6 +759,7 @@
       "rotten_flesh": "2025-08-02 18:57:27 +0000",
       "suspicious_stew": "2025-08-02 20:57:18 +0000",
       "cooked_mutton": "2025-08-02 02:47:46 +0000",
+      "potato": "2025-08-03 17:39:53 +0000",
       "glow_berries": "2025-08-02 02:39:24 +0000",
       "salmon": "2025-08-02 02:37:10 +0000",
       "tropical_fish": "2025-08-02 02:32:55 +0000",
@@ -2404,15 +2405,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_glazed_terracotta": {
-    "criteria": {
-      "has_white_terracotta": "2025-08-02 23:47:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-08-02 23:20:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-02 23:20:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-08-02 23:47:57 +0000"
     },
     "done": true
   },
@@ -2422,9 +2429,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
-      "has_log": "2025-08-02 23:20:06 +0000"
+      "has_beetroot": "2025-08-03 17:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-08-03 17:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-08-03 17:41:27 +0000"
     },
     "done": true
   },

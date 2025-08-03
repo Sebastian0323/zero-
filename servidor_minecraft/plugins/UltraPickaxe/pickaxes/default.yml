@@ -1,0 +1,10 @@
+pickaxe:
+  material: WOODEN_PICKAXE          # Item material
+  radius: 2                         # Mining radius
+  weight: 1                         # mining depth
+  effect: DEFAULT                   # Only DEFAULT is available at this time
+  itemconfig:                       # Item customization
+    displayname: Default pickaxe    # item display name
+    lore:                           # item lore
+      - "Line 1"
+      - "Line 2"
