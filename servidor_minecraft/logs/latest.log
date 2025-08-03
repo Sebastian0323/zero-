@@ -181,3 +181,14 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [18:52:29] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1960, 92, -1301
 [18:52:29] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1955, 94, -1304
 [18:52:29] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[18:52:46] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:52:46] [Server thread/INFO]: Cami23m was blown up by Lvl 8 | Creeper
+[18:52:58] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 5
+[18:52:58] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1949, 94, -1318
+[18:52:58] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1954, 94, -1317
+[18:52:58] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1946, 94, -1317
+[18:52:58] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1944, 94, -1322
+[18:52:58] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1940, 95, -1320
+[18:52:58] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[19:00:46] [Server thread/INFO]: jp7806073 issued server command: /sethome A
+[19:00:55] [Server thread/INFO]: jp7806073 issued server command: /home c
