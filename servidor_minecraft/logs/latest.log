@@ -519,3 +519,5 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [23:44:49] [Server thread/INFO]: Sebas23m was slain by Lvl 8 | Zombie
 [23:45:01] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
 [23:45:01] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to [masturboys] jp7806073]
+[23:46:07] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1981.5 90 -1256.5
+[23:46:07] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -1981.500000, 90.000000, -1256.500000]
