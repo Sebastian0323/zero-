@@ -503,3 +503,19 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [23:29:13] [Async Chat Thread - #40/INFO]: [Not Secure] masturboys - jp7806073 > hola
 [23:33:25] [Server thread/INFO]: jp7806073 issued server command: /home C
 [23:34:23] [Server thread/INFO]: jp7806073 was slain by Iron Golem ❤
+[23:38:34] [Server thread/INFO]: jp7806073 issued server command: /home C
+[23:42:23] [User Authenticator #18/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[23:42:24] [Server thread/INFO]: Backyardigans - Sebas23m has joined the game
+[23:42:24] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Sebas23m's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:42:24] [Server thread/INFO]: Sebas23m[/127.124.233.182:49779] logged in with entity id 46387 at ([world]-1980.4805920311635, 90.0, -1255.5075275716736)
+[23:42:38] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[23:42:38] [Server thread/INFO]: [Backyardigans] Sebas23m left the game
+[23:42:43] [User Authenticator #18/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[23:42:45] [Server thread/INFO]: Backyardigans - Sebas23m has joined the game
+[23:42:45] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Sebas23m's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:42:45] [Server thread/INFO]: Sebas23m[/127.124.233.182:44195] logged in with entity id 46661 at ([world]-1980.4805920311635, 90.0, -1255.5075275716736)
+[23:43:05] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
+[23:43:05] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to [masturboys] jp7806073]
+[23:44:49] [Server thread/INFO]: Sebas23m was slain by Lvl 8 | Zombie
+[23:45:01] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
+[23:45:01] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to [masturboys] jp7806073]
