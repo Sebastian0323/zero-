@@ -192,3 +192,5 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [18:52:58] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
 [19:00:46] [Server thread/INFO]: jp7806073 issued server command: /sethome A
 [19:00:55] [Server thread/INFO]: jp7806073 issued server command: /home c
+[19:07:00] [Server thread/INFO]: Sebas23m was slain by Lvl 5 | Spider
+[19:07:06] [Async Chat Thread - #0/INFO]: [Not Secure] <jp7806073> Sebas???
