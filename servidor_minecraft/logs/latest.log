@@ -297,3 +297,47 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [20:30:25] [Async Chat Thread - #8/INFO]: [Not Secure] masturboys - zerox > si ya me acepto
 [20:30:25] [Server thread/INFO]: jp7806073 issued server command: /clan
 [20:31:48] [Server thread/INFO]: jp7806073 issued server command: /clan
+[20:34:52] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 4
+[20:34:52] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -160, 72, -430
+[20:34:52] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -160, 72, -429
+[20:34:52] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -430
+[20:34:52] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -429
+[20:34:52] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
+[20:35:17] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 5
+[20:35:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -158, 72, -420
+[20:35:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -419
+[20:35:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -158, 72, -419
+[20:35:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -425
+[20:35:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -424
+[20:35:17] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
+[20:35:19] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 4
+[20:35:19] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -420
+[20:35:19] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -420
+[20:35:19] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -419
+[20:35:19] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -419
+[20:35:19] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
+[20:35:59] [Server thread/INFO]: zerox lost connection: Timed out
+[20:35:59] [Server thread/INFO]: zerox left the game
+[20:36:07] [User Authenticator #7/INFO]: UUID of player zerox is 14915c85-50a2-37de-8dda-02cb959b7576
+[20:36:09] [TAB Processing Thread/INFO]: [TAB] [WARN] Player zerox's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:36:09] [Server thread/INFO]: masturboys - zerox has joined the game
+[20:36:09] [Server thread/INFO]: zerox[/127.225.91.11:46545] logged in with entity id 9021 at ([world]-283.4531446833866, 73.0, -500.3744341218101)
+[20:37:07] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 0
+[20:37:07] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
+[20:37:26] [Server thread/INFO]: zerox lost connection: Timed out
+[20:37:26] [Server thread/INFO]: [masturboys] zerox left the game
+[20:37:34] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 0
+[20:37:34] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
+[20:37:45] [User Authenticator #8/INFO]: UUID of player zerox is 14915c85-50a2-37de-8dda-02cb959b7576
+[20:37:48] [TAB Processing Thread/INFO]: [TAB] [WARN] Player zerox's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:37:48] [Server thread/INFO]: masturboys - zerox has joined the game
+[20:37:48] [Server thread/INFO]: zerox[/127.138.81.39:33637] logged in with entity id 9597 at ([world]-290.6873167332535, 73.0, -494.1431687359858)
+[20:38:21] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 4
+[20:38:21] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -420
+[20:38:21] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -420
+[20:38:21] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -419
+[20:38:21] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -419
+[20:38:21] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
+[20:42:47] [Async Chat Thread - #10/INFO]: [Not Secure] masturboys - jp7806073 > no duermas zero
+[20:42:55] [Async Chat Thread - #10/INFO]: [Not Secure] masturboys - jp7806073 > voy a terminar la granja de hierro
+[20:43:12] [Async Chat Thread - #10/INFO]: [Not Secure] masturboys - zerox > relax
