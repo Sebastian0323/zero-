@@ -224,3 +224,76 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [20:22:39] [Async Chat Thread - #2/INFO]: [Not Secure] <jp7806073> zeeo
 [20:22:44] [Async Chat Thread - #2/INFO]: [Not Secure] <jp7806073> voy a hacer el clan
 [20:22:47] [User Authenticator #4/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
+[20:22:51] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Cami23m's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:22:51] [Server thread/INFO]: Cami23m joined the game
+[20:22:51] [Server thread/INFO]: Cami23m[/127.124.233.182:46035] logged in with entity id 4198 at ([world]-1974.5249677766158, 93.0, -1254.4915470864757)
+[20:23:03] [Async Chat Thread - #2/INFO]: [Not Secure] <jp7806073> q nombre quieres??
+[20:23:10] [Async Chat Thread - #2/INFO]: [Not Secure] <jp7806073> pará el clan
+[20:23:17] [Async Chat Thread - #2/INFO]: [Not Secure] <jp7806073> así no no podemos pegar
+[20:23:34] [Async Chat Thread - #2/INFO]: [Not Secure] <jp7806073> zero??
+[20:23:38] [Async Chat Thread - #2/INFO]: [Not Secure] <zerox> masturboys
+[20:23:42] [Async Chat Thread - #2/INFO]: [Not Secure] <jp7806073> vale
+[20:23:46] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[20:23:46] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -220, 73, -451
+[20:23:46] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[20:23:55] [Server thread/INFO]: jp7806073 issued server command: /clan create masturboys
+[20:24:01] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[20:24:01] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -233, 78, -423
+[20:24:01] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[20:24:10] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 3
+[20:24:10] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -238, 80, -419
+[20:24:10] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -235, 80, -418
+[20:24:10] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -230, 79, -415
+[20:24:10] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[20:24:15] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[20:24:15] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -236, 80, -412
+[20:24:15] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[20:24:20] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 9
+[20:24:20] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -254, 80, -415
+[20:24:20] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -256, 79, -418
+[20:24:20] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -257, 80, -414
+[20:24:20] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -260, 79, -419
+[20:24:20] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -257, 78, -421
+[20:24:20] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -261, 79, -416
+[20:24:20] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -258, 81, -409
+[20:24:20] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -265, 79, -421
+[20:24:20] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -266, 79, -424
+[20:24:20] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[20:24:56] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 3
+[20:24:56] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -251, 83, -403
+[20:24:56] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -254, 83, -404
+[20:24:56] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -257, 82, -401
+[20:24:56] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[20:25:02] [Server thread/INFO]: jp7806073 issued server command: /makeclan masturboys
+[20:25:08] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[20:25:08] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -245, 82, -399
+[20:25:08] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[20:25:26] [Server thread/INFO]: jp7806073 issued server command: /inviteclan zerox
+[20:25:33] [Async Chat Thread - #4/INFO]: [Not Secure] masturboys - jp7806073 > pon /accept
+[20:25:48] [Server thread/INFO]: zerox issued server command: /acept
+[20:25:57] [Server thread/INFO]: zerox issued server command: /accept
+[20:26:12] [Server thread/INFO]: zerox issued server command: /accept
+[20:27:08] [Server thread/INFO]: zerox lost connection: Timed out
+[20:27:08] [Server thread/INFO]: zerox left the game
+[20:27:27] [User Authenticator #5/INFO]: UUID of player zerox is 14915c85-50a2-37de-8dda-02cb959b7576
+[20:27:30] [TAB Processing Thread/INFO]: [TAB] [WARN] Player zerox's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:27:30] [Server thread/INFO]: zerox joined the game
+[20:27:30] [Server thread/INFO]: zerox[/127.225.91.11:41745] logged in with entity id 5706 at ([world]-263.0301206862061, 71.9375, -485.57512672375026)
+[20:27:37] [Async Chat Thread - #6/INFO]: [Not Secure] masturboys - jp7806073 > zero
+[20:27:47] [Async Chat Thread - #6/INFO]: [Not Secure] masturboys - jp7806073 > pon /accept clan
+[20:28:17] [Server thread/INFO]: jp7806073 issued server command: /inviteclan zerox
+[20:28:26] [Server thread/INFO]: zerox issued server command: /accept clan
+[20:28:28] [Async Chat Thread - #6/INFO]: [Not Secure] masturboys - jp7806073 > pon /acceptclan
+[20:28:32] [Async Chat Thread - #6/INFO]: [Not Secure] masturboys - jp7806073 > así
+[20:28:42] [Async Chat Thread - #6/INFO]: [Not Secure] <zerox> chucha ma.n pero dilo bien xd
+[20:28:51] [Server thread/INFO]: zerox issued server command: /acceptclan
+[20:28:57] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[20:28:57] [Server thread/INFO]: jp7806073 left the game
+[20:30:01] [User Authenticator #6/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[20:30:04] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jp7806073's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:30:04] [Server thread/INFO]: masturboys - jp7806073 has joined the game
+[20:30:04] [Server thread/INFO]: jp7806073[/127.55.162.79:33965] logged in with entity id 6446 at ([world]-165.90040547636337, 71.9375, -458.42911112771685)
+[20:30:17] [Async Chat Thread - #8/INFO]: [Not Secure] masturboys - jp7806073 > zero ya pudiste??
+[20:30:25] [Async Chat Thread - #8/INFO]: [Not Secure] masturboys - zerox > si ya me acepto
+[20:30:25] [Server thread/INFO]: jp7806073 issued server command: /clan
+[20:31:48] [Server thread/INFO]: jp7806073 issued server command: /clan
