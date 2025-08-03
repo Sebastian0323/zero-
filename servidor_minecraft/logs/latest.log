@@ -490,3 +490,11 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [22:44:38] [Server thread/INFO]: jp7806073[/127.55.162.79:56373] logged in with entity id 37736 at ([world_nether]-16.705561615330808, 49.0, -69.02576565654635)
 [22:45:12] [Server thread/INFO]: jp7806073 was shot by Lvl 11 | Skeleton
 [22:54:26] [Async Chat Thread - #36/INFO]: [Not Secure] masturboys - jp7806073 > hola
+[22:58:55] [Server thread/INFO]: jp7806073 issued server command: /home C
+[23:01:23] [User Authenticator #17/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[23:01:25] [Server thread/INFO]: Backyardigans - Sebas23m has joined the game
+[23:01:25] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Sebas23m's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:01:25] [Server thread/INFO]: Sebas23m[/127.124.233.182:44225] logged in with entity id 40198 at ([world]-1982.7232563779498, 90.0, -1254.3675620711385)
+[23:01:32] [Async Chat Thread - #38/INFO]: [Not Secure] masturboys - jp7806073 > hola
+[23:01:44] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[23:01:44] [Server thread/INFO]: [Backyardigans] Sebas23m left the game
