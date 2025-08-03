@@ -459,3 +459,16 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [21:26:10] [TAB Processing Thread/INFO]: [TAB] [WARN] Player zerox's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
 [21:26:10] [Server thread/INFO]: zerox[/127.161.91.200:50815] logged in with entity id 24329 at ([world]-256.28107606416955, 72.0, -476.3203817555377)
 [21:30:25] [Server thread/INFO]: [masturboys] zerox has made the advancement [Hot Stuff]
+[21:34:48] [User Authenticator #15/INFO]: UUID of player zerox is 14915c85-50a2-37de-8dda-02cb959b7576
+[21:34:48] [Server thread/INFO]: zerox lost connection: You logged in from another location
+[21:34:48] [Server thread/INFO]: [masturboys] zerox left the game
+[21:34:51] [Server thread/INFO]: masturboys - zerox has joined the game
+[21:34:51] [TAB Processing Thread/INFO]: [TAB] [WARN] Player zerox's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[21:34:51] [Server thread/INFO]: zerox[/127.246.217.176:44337] logged in with entity id 26636 at ([world]-330.9301428877125, 112.3415999853611, -481.58760203159306)
+[21:38:16] [Server thread/WARN]: zerox moved too quickly! 9.8731579327127,0.9169221821935309,4.94881358349636
+[21:38:42] [Server thread/WARN]: zerox moved too quickly! -14.333292159700676,0.07242780368044066,-2.7924031927315696
+[21:38:53] [Server thread/WARN]: zerox was kicked for floating too long!
+[21:38:53] [Server thread/INFO]: zerox lost connection: Flying is not enabled on this server
+[21:38:53] [Server thread/INFO]: [masturboys] zerox left the game
+[21:41:40] [Async Chat Thread - #22/INFO]: [Not Secure] masturboys - jp7806073 > ,erl
+[21:43:37] [Async Chat Thread - #24/INFO]: [Not Secure] masturboys - jp7806073 > zero
