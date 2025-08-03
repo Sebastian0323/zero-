@@ -476,3 +476,5 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [21:50:02] [Async Chat Thread - #26/INFO]: [Not Secure] masturboys - jp7806073 > hola
 [22:06:29] [Async Chat Thread - #28/INFO]: [Not Secure] masturboys - jp7806073 > hola
 [22:10:06] [Async Chat Thread - #30/INFO]: [Not Secure] masturboys - jp7806073 > gola
+[22:16:47] [Server thread/INFO]: jp7806073 issued server command: /home c
+[22:21:36] [Server thread/INFO]: jp7806073 issued server command: /home C
