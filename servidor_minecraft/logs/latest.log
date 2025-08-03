@@ -482,3 +482,11 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [22:38:38] [Async Chat Thread - #34/INFO]: [Not Secure] masturboys - jp7806073 > hola
 [22:41:08] [Server thread/INFO]: jp7806073 issued server command: /home C
 [22:42:33] [Server thread/INFO]: jp7806073 issued server command: /home C
+[22:44:35] [User Authenticator #16/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[22:44:35] [Server thread/INFO]: jp7806073 lost connection: You logged in from another location
+[22:44:35] [Server thread/INFO]: [masturboys] jp7806073 left the game
+[22:44:38] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jp7806073's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:44:38] [Server thread/INFO]: masturboys - jp7806073 has joined the game
+[22:44:38] [Server thread/INFO]: jp7806073[/127.55.162.79:56373] logged in with entity id 37736 at ([world_nether]-16.705561615330808, 49.0, -69.02576565654635)
+[22:45:12] [Server thread/INFO]: jp7806073 was shot by Lvl 11 | Skeleton
+[22:54:26] [Async Chat Thread - #36/INFO]: [Not Secure] masturboys - jp7806073 > hola
