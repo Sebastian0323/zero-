@@ -194,3 +194,28 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [19:00:55] [Server thread/INFO]: jp7806073 issued server command: /home c
 [19:07:00] [Server thread/INFO]: Sebas23m was slain by Lvl 5 | Spider
 [19:07:06] [Async Chat Thread - #0/INFO]: [Not Secure] <jp7806073> Sebas???
+[19:13:15] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -169.0 72 -477.0
+[19:13:15] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -169.000000, 72.000000, -477.000000]
+[19:13:22] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[19:13:22] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported jp7806073 to [Backyardigans] Sebas23m]
+[19:13:34] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1981.5 90 -1256.5
+[19:13:34] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -1981.500000, 90.000000, -1256.500000]
+[19:13:59] [Server thread/INFO]: Cami23m has made the advancement [Take Aim]
+[19:15:58] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[19:15:58] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1960, 91, -1301
+[19:15:58] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[19:16:19] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 3
+[19:16:19] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1950, 94, -1297
+[19:16:19] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1947, 94, -1296
+[19:16:19] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1948, 94, -1289
+[19:16:19] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[19:16:44] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 3
+[19:16:44] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1948, 94, -1273
+[19:16:44] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1944, 95, -1277
+[19:16:44] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1942, 96, -1273
+[19:16:44] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
+[19:17:17] [Server thread/INFO]: jp7806073 issued server command: /sethome C
+[19:17:22] [Server thread/INFO]: jp7806073 issued server command: /home A
+[19:23:00] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[19:23:00] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1939, 95, -1309
+[19:23:00] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: OAK_LOG
