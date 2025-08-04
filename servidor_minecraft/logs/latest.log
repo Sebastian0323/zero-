@@ -17,3 +17,13 @@
 [00:15:31] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Cami23m's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
 [00:15:31] [Server thread/INFO]: Cami23m joined the game
 [00:15:31] [Server thread/INFO]: Cami23m[/127.124.233.182:54733] logged in with entity id 54596 at ([world]-1975.699999988079, 93.5625, -1254.036439123874)
+[00:19:36] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1981.5 90 -1256.5
+[00:19:36] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -1981.500000, 90.000000, -1256.500000]
+[00:21:35] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
+[00:21:35] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to [masturboys] jp7806073]
+[00:22:25] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m Cami23m
+[00:22:25] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to Cami23m]
+[00:22:54] [Server thread/INFO]: jp7806073 issued server command: /home C
+[00:25:09] [Server thread/INFO]: Sebas23m issued server command: /effect give @a minecraft:night_vision infinite
+[00:25:09] [Server thread/INFO]: [[Backyardigans] Sebas23m: Applied effect Night Vision to 3 targets]
+[00:25:40] [Server thread/INFO]: jp7806073 issued server command: /home C
