@@ -135,3 +135,17 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [00:40:18] [Server thread/INFO]: Cami23m was slain by Lvl 9 | Spider
 [00:41:21] [Server thread/INFO]: Cami23m was slain by Lvl 9 | Spider
 [00:42:28] [Server thread/INFO]: jp7806073 issued server command: /home c
+[00:43:42] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[00:43:42] [Server thread/INFO]: [masturboys] jp7806073 left the game
+[00:43:44] [User Authenticator #1/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[00:43:45] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jp7806073's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:43:45] [Server thread/INFO]: masturboys - jp7806073 has joined the game
+[00:43:45] [Server thread/INFO]: jp7806073[/127.2.79.211:56185] logged in with entity id 1895 at ([world]-165.50931988692372, 75.0, -461.1653356880647)
+[00:48:17] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m jp7806073
+[00:48:17] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported Cami23m to [masturboys] jp7806073]
+[00:50:45] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
+[00:50:45] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported Cami23m to [Backyardigans] Sebas23m]
+[00:51:11] [Server thread/INFO]: jp7806073 issued server command: /tp Cami23m jp7806073
+[00:51:11] [Server thread/INFO]: [[masturboys] jp7806073: Teleported Cami23m to [masturboys] jp7806073]
+[00:51:42] [Server thread/INFO]: jp7806073 issued server command: /tp Cami23m Sebas23m
+[00:51:42] [Server thread/INFO]: [[masturboys] jp7806073: Teleported Cami23m to [Backyardigans] Sebas23m]
