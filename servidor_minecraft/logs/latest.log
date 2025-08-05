@@ -149,3 +149,9 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [00:51:11] [Server thread/INFO]: [[masturboys] jp7806073: Teleported Cami23m to [masturboys] jp7806073]
 [00:51:42] [Server thread/INFO]: jp7806073 issued server command: /tp Cami23m Sebas23m
 [00:51:42] [Server thread/INFO]: [[masturboys] jp7806073: Teleported Cami23m to [Backyardigans] Sebas23m]
+[00:54:32] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[00:54:32] [Server thread/INFO]: [masturboys] jp7806073 left the game
+[01:03:03] [User Authenticator #2/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[01:03:06] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jp7806073's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[01:03:06] [Server thread/INFO]: masturboys - jp7806073 has joined the game
+[01:03:06] [Server thread/INFO]: jp7806073[/127.2.79.211:36561] logged in with entity id 6206 at ([world]-151.49328230890666, 63.0, -415.4573339143883)
