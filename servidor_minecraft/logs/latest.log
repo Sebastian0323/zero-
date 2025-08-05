@@ -155,3 +155,135 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [01:03:06] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jp7806073's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
 [01:03:06] [Server thread/INFO]: masturboys - jp7806073 has joined the game
 [01:03:06] [Server thread/INFO]: jp7806073[/127.2.79.211:36561] logged in with entity id 6206 at ([world]-151.49328230890666, 63.0, -415.4573339143883)
+[01:05:12] [Server thread/INFO]: Cami23m was blown up by Lvl 2 | Creeper
+[01:05:25] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
+[01:05:25] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported Cami23m to [Backyardigans] Sebas23m]
+[01:06:13] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 4
+[01:06:13] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -430
+[01:06:13] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -430
+[01:06:13] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -429
+[01:06:13] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -429
+[01:06:13] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
+[01:06:39] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 4
+[01:06:39] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -420
+[01:06:39] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -420
+[01:06:39] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -419
+[01:06:39] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -419
+[01:06:39] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
+[01:06:49] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 3
+[01:06:49] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -419
+[01:06:49] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -158, 72, -420
+[01:06:49] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -158, 72, -419
+[01:06:49] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
+[01:07:17] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 6
+[01:07:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1983, 90, -1294
+[01:07:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1980, 90, -1296
+[01:07:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1984, 90, -1298
+[01:07:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1988, 90, -1300
+[01:07:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1988, 90, -1293
+[01:07:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1982, 90, -1303
+[01:07:17] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: BIRCH_LOG
+[01:07:57] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 0
+[01:07:57] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
+[01:08:09] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[01:08:09] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1998, 105, -1402
+[01:08:09] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
+[01:08:13] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[01:08:13] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2003, 105, -1406
+[01:08:13] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
+[01:08:23] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[01:08:23] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1997, 103, -1414
+[01:08:23] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
+[01:08:32] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[01:08:32] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1987, 95, -1424
+[01:08:32] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
+[01:08:36] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 2
+[01:08:36] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1980, 94, -1420
+[01:08:36] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1984, 95, -1418
+[01:08:36] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
+[01:08:43] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[01:08:43] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1976, 93, -1433
+[01:08:43] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
+[01:08:50] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 2
+[01:08:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1989, 96, -1441
+[01:08:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1993, 97, -1437
+[01:08:50] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
+[01:09:02] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[01:09:02] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2000, 97, -1440
+[01:09:02] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
+[01:09:16] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 4
+[01:09:16] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -429
+[01:09:16] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -430
+[01:09:16] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -429
+[01:09:16] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -430
+[01:09:16] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
+[01:09:17] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[01:09:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2008, 98, -1460
+[01:09:17] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
+[01:09:27] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[01:09:27] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1993, 98, -1465
+[01:09:27] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
+[01:09:36] [Server thread/INFO]: Villager Villager['Villager'/50, uuid='797fe432-65f7-40d6-8cd9-5a658d98fb76', l='ServerLevel[world]', x=-1972.49, y=81.00, z=-1276.49, cpos=[-124, -80], tl=607686, v=true] died, message: 'Villager was slain by Zombie'
+[01:09:37] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[01:09:37] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2010, 101, -1480
+[01:09:37] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
+[01:09:43] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[01:09:43] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2016, 100, -1494
+[01:09:43] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
+[01:09:51] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[01:09:51] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2040, 96, -1493
+[01:09:51] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
+[01:10:02] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 2
+[01:10:02] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2039, 95, -1501
+[01:10:02] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2036, 94, -1502
+[01:10:02] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
+[01:10:11] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[01:10:11] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2024, 96, -1499
+[01:10:11] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
+[01:10:24] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[01:10:24] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2034, 94, -1509
+[01:10:24] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
+[01:10:31] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[01:10:31] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2038, 96, -1526
+[01:10:31] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
+[01:10:37] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 0
+[01:10:37] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
+[01:11:26] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[01:11:26] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2058, 97, -1537
+[01:11:26] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
+[01:11:37] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[01:11:37] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2074, 95, -1509
+[01:11:37] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
+[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 23
+[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2077, 99, -1541
+[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2077, 99, -1540
+[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2076, 99, -1541
+[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2076, 99, -1540
+[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2079, 99, -1544
+[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2081, 100, -1541
+[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2082, 100, -1538
+[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2078, 99, -1548
+[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2082, 100, -1547
+[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2082, 99, -1536
+[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2085, 101, -1539
+[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2074, 97, -1548
+[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2086, 101, -1536
+[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2084, 101, -1551
+[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2077, 98, -1552
+[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2079, 98, -1533
+[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2089, 102, -1536
+[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2080, 98, -1553
+[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2091, 103, -1538
+[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2089, 101, -1532
+[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2084, 99, -1529
+[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2075, 97, -1556
+[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2091, 103, -1530
+[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
+[01:13:07] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 4
+[01:13:07] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -430
+[01:13:07] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -160, 72, -430
+[01:13:07] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -160, 72, -429
+[01:13:07] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -429
+[01:13:07] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
+[01:13:13] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 0
+[01:13:13] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
