@@ -340,3 +340,13 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [01:22:20] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: BIRCH_LOG
 [01:22:59] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1981.5 90 -1256.5
 [01:22:59] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -1981.500000, 90.000000, -1256.500000]
+[01:27:05] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 4
+[01:27:05] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1980, 90, -1296
+[01:27:05] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1984, 90, -1298
+[01:27:05] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1979, 90, -1301
+[01:27:05] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1988, 90, -1293
+[01:27:05] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: BIRCH_LOG
+[01:28:08] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[01:28:08] [Server thread/INFO]: [masturboys] jp7806073 left the game
+[01:29:22] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[01:29:22] [Server thread/INFO]: [Backyardigans] Sebas23m left the game
