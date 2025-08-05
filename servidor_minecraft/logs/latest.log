@@ -1,7 +1,7 @@
-[00:33:03] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[00:33:03] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[00:33:03] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[00:33:06] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remapped/FallingTree-1.21.8-1.21.8.2.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
+[23:19:00] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[23:19:00] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[23:19:00] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[23:19:03] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remapped/FallingTree-1.21.8-1.21.8.2.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
 java.lang.RuntimeException: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remapped/FallingTree-1.21.8-1.21.8.2.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.registerProviders(FileProviderSource.java:86) ~[paper-1.21.jar:1.21-130-b1b5d4c]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:52) ~[paper-1.21.jar:1.21-130-b1b5d4c]
@@ -15,338 +15,110 @@ java.lang.RuntimeException: java.lang.IllegalArgumentException: Directory 'plugi
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
 Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remapped/FallingTree-1.21.8-1.21.8.2.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
 	... 10 more
-[00:33:06] [ServerMain/INFO]: [PluginInitializerManager] Initialized 10 plugins
-[00:33:06] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (10):
+[23:19:03] [ServerMain/INFO]: [PluginInitializerManager] Initialized 10 plugins
+[23:19:03] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (10):
  - AxGraves (1.22.3), Chunky (1.4.40), ClanMaker (1.0), LevelledMobs (4.3.2.1 b125), SetHome (2.0), SimpleTimber (2.1.0), SkinsRestorer (15.7.8), TAB (5.2.5), UltraPickaxe (1.2.5), ViaVersion (5.4.1)
-[00:33:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:33:13] [ServerMain/INFO]: Loaded 1290 recipes
-[00:33:14] [ServerMain/INFO]: Loaded 1399 advancements
-[00:33:14] [Server thread/INFO]: Starting minecraft server version 1.21
-[00:33:14] [Server thread/INFO]: Loading properties
-[00:33:14] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[00:33:15] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[00:33:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:33:15] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:33:16] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[00:33:16] [Server thread/INFO]: Default game type: SURVIVAL
-[00:33:16] [Server thread/INFO]: Generating keypair
-[00:33:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:33:16] [Server thread/INFO]: Using epoll channel type
-[00:33:16] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[00:33:16] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[00:33:20] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
-[00:33:20] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
-[00:33:21] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[00:33:21] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[00:33:23] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
-[00:33:23] [Server thread/INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.3.2.1 b125
-[00:33:23] [Server thread/INFO]: [LevelledMobs] Loading commands
-[00:33:23] [Server thread/INFO]: [ClanMaker] Loading server plugin ClanMaker v1.0
-[00:33:23] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.5
-[00:33:23] [Server thread/INFO]: [UltraPickaxe] Loading server plugin UltraPickaxe v1.2.5
-[00:33:23] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v2.0
-[00:33:23] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.8
-[00:33:23] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.22.3
-[00:33:23] [Server thread/INFO]: [SimpleTimber] Loading server plugin SimpleTimber v2.1.0
-[00:33:23] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:33:23] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.8
-[00:33:25] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[00:33:26] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[00:33:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:33:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:33:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:33:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:33:26] [Server thread/INFO]: Preparing level "world"
-[00:33:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:33:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:33:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[00:33:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[00:33:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[00:33:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:33:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:33:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.8
-[00:33:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 8c78340
-[00:33:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[00:33:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:33:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[00:33:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[00:33:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:33:28] [Server thread/INFO]: Time elapsed: 1488 ms
-[00:33:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:33:29] [Server thread/INFO]: Time elapsed: 888 ms
-[00:33:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[00:33:29] [Server thread/INFO]: Time elapsed: 277 ms
-[00:33:29] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
-[00:33:29] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
-[00:33:30] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
-[00:33:30] [Server thread/INFO]: [LevelledMobs] Enabling LevelledMobs v4.3.2.1 b125
-[00:33:30] [Server thread/INFO]: [LevelledMobs] Enabling commands
-[00:33:30] [Server thread/INFO]: [LevelledMobs] Building reflection cache, use simple names: true
-[00:33:30] [Server thread/INFO]: [LevelledMobs] Using NMS version 1.21 for nametag support
-[00:33:30] [Server thread/INFO]: [LevelledMobs] File Loader: Loading files...
-[00:33:30] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
-[00:33:30] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
-[00:33:30] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
-[00:33:30] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
-[00:33:30] [Server thread/INFO]: [LevelledMobs] Current rules hash: 9b0f48e3273bb9cc29d2891ad33fb3410fec8cf1e77c2092ff670fd38f6d4ff5
-[00:33:30] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
-[00:33:30] [Server thread/INFO]: [LevelledMobs] Listeners: Registering event listeners...
-[00:33:30] [Server thread/INFO]: [LevelledMobs] Running misc procedures
-[00:33:30] [Server thread/INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
-[00:33:30] [Server thread/INFO]: [LevelledMobs] Start-up complete (took 723ms)
-[00:33:30] [Server thread/INFO]: [ClanMaker] Enabling ClanMaker v1.0
-[00:33:30] [Server thread/INFO]: [TAB] Enabling TAB v5.2.5
-[00:33:31] [Server thread/INFO]: [TAB] Enabled in 722ms
-[00:33:31] [Server thread/INFO]: [UltraPickaxe] Enabling UltraPickaxe v1.2.5
-[00:33:32] [Server thread/INFO]: [SetHome] Enabling SetHome v2.0
-[00:33:32] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.22.3
-[00:33:33] [Server thread/INFO]: [SimpleTimber] Enabling SimpleTimber v2.1.0
-[00:33:33] [Server thread/INFO]: [SimpleTimber] Plugin is being enabled...
-[00:33:34] [Server thread/INFO]: [SimpleTimber] Using language file: english.yml
-[00:33:34] [Server thread/INFO]: [SimpleTimber] Loaded 3 configs!
-[00:33:34] [Server thread/INFO]: [SimpleTimber] Registered 1 commands!
-[00:33:34] [Server thread/INFO]: [SimpleTimber] Registered 2 listeners!
-[00:33:34] [Server thread/INFO]: [SimpleTimber] Plugin has been enabled!
-[00:33:35] [Server thread/INFO]: [spark] Starting background profiler...
-[00:33:36] [Server thread/INFO]: Done preparing level "world" (9.428s)
-[00:33:36] [Server thread/INFO]: Running delayed init tasks
-[00:33:36] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[00:33:36] [Server thread/INFO]: Done (34.725s)! For help, type "help"
-[00:33:36] [Server thread/INFO]: Timings Reset
-[00:33:36] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.4.1
-[00:33:36] [Craft Scheduler Thread - 6 - SimpleTimber/INFO]: [SimpleTimber] You are using the latest version of SimpleTimber!
-[00:37:52] [User Authenticator #0/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
-[00:37:57] [Server thread/INFO]: Backyardigans - Sebas23m has joined the game
-[00:37:58] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Sebas23m's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:37:58] [Server thread/INFO]: Sebas23m[/127.124.233.182:35115] logged in with entity id 44 at ([world]-1987.908243983727, 91.0, -1249.0553679159184)
-[00:38:04] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: ec36dc9d-87bf-4857-bc58-8df4b945c1b4, mapped to Armadillo['Armadillo'/274, uuid='ec36dc9d-87bf-4857-bc58-8df4b945c1b4', l='ServerLevel[world]', x=-1822.40, y=61.95, z=-1093.66, cpos=[-114, -69], tl=94988, v=true], can't add Armadillo['Armadillo'/279, uuid='ec36dc9d-87bf-4857-bc58-8df4b945c1b4', l='ServerLevel[world]', x=-1827.55, y=65.00, z=-1087.98, cpos=[-115, -68], tl=96006, v=false]
-[00:38:42] [User Authenticator #0/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
-[00:38:45] [User Authenticator #0/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
-[00:38:46] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jp7806073's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:38:46] [Server thread/INFO]: masturboys - jp7806073 has joined the game
-[00:38:46] [Server thread/INFO]: jp7806073[/127.2.79.211:42121] logged in with entity id 342 at ([world]-160.5500019913194, 61.0, -463.8830721245452)
-[00:38:48] [Server thread/INFO]: Villager Villager['Fisherman'/370, uuid='5d8ed8bc-744f-4d3b-99d0-cd4c20aa2869', l='ServerLevel[world]', x=-169.50, y=72.56, z=-482.50, cpos=[-11, -31], tl=391447, v=true] died, message: 'Fisherman was slain by Zombie'
-[00:38:48] [Server thread/INFO]: Cami23m joined the game
-[00:38:48] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Cami23m's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:38:48] [Server thread/INFO]: Cami23m[/127.124.233.182:54947] logged in with entity id 352 at ([world]-1942.3079238616538, 95.0, -1305.6753333659706)
-[00:38:50] [Server thread/INFO]: Villager Villager['Fisherman'/368, uuid='56838422-be34-446b-b0c3-e9b0ad7a9dc3', l='ServerLevel[world]', x=-171.68, y=72.56, z=-483.64, cpos=[-11, -31], tl=377461, v=true] died, message: 'Fisherman was slain by Zombie Villager'
-[00:38:51] [Server thread/INFO]: Villager Villager['Fisherman'/369, uuid='8cb74687-3f01-44c8-a219-cf2d0ff27994', l='ServerLevel[world]', x=-171.61, y=72.00, z=-484.49, cpos=[-11, -31], tl=368626, v=true] died, message: 'Fisherman was slain by Zombie Villager'
-[00:40:18] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:40:18] [Server thread/INFO]: Cami23m was slain by Lvl 9 | Spider
-[00:41:21] [Server thread/INFO]: Cami23m was slain by Lvl 9 | Spider
-[00:42:28] [Server thread/INFO]: jp7806073 issued server command: /home c
-[00:43:42] [Server thread/INFO]: jp7806073 lost connection: Disconnected
-[00:43:42] [Server thread/INFO]: [masturboys] jp7806073 left the game
-[00:43:44] [User Authenticator #1/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
-[00:43:45] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jp7806073's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:43:45] [Server thread/INFO]: masturboys - jp7806073 has joined the game
-[00:43:45] [Server thread/INFO]: jp7806073[/127.2.79.211:56185] logged in with entity id 1895 at ([world]-165.50931988692372, 75.0, -461.1653356880647)
-[00:48:17] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m jp7806073
-[00:48:17] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported Cami23m to [masturboys] jp7806073]
-[00:50:45] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
-[00:50:45] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported Cami23m to [Backyardigans] Sebas23m]
-[00:51:11] [Server thread/INFO]: jp7806073 issued server command: /tp Cami23m jp7806073
-[00:51:11] [Server thread/INFO]: [[masturboys] jp7806073: Teleported Cami23m to [masturboys] jp7806073]
-[00:51:42] [Server thread/INFO]: jp7806073 issued server command: /tp Cami23m Sebas23m
-[00:51:42] [Server thread/INFO]: [[masturboys] jp7806073: Teleported Cami23m to [Backyardigans] Sebas23m]
-[00:54:32] [Server thread/INFO]: jp7806073 lost connection: Disconnected
-[00:54:32] [Server thread/INFO]: [masturboys] jp7806073 left the game
-[01:03:03] [User Authenticator #2/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
-[01:03:06] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jp7806073's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:03:06] [Server thread/INFO]: masturboys - jp7806073 has joined the game
-[01:03:06] [Server thread/INFO]: jp7806073[/127.2.79.211:36561] logged in with entity id 6206 at ([world]-151.49328230890666, 63.0, -415.4573339143883)
-[01:05:12] [Server thread/INFO]: Cami23m was blown up by Lvl 2 | Creeper
-[01:05:25] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
-[01:05:25] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported Cami23m to [Backyardigans] Sebas23m]
-[01:06:13] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 4
-[01:06:13] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -430
-[01:06:13] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -430
-[01:06:13] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -429
-[01:06:13] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -429
-[01:06:13] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
-[01:06:39] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 4
-[01:06:39] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -420
-[01:06:39] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -420
-[01:06:39] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -419
-[01:06:39] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -419
-[01:06:39] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
-[01:06:49] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 3
-[01:06:49] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -419
-[01:06:49] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -158, 72, -420
-[01:06:49] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -158, 72, -419
-[01:06:49] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
-[01:07:17] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 6
-[01:07:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1983, 90, -1294
-[01:07:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1980, 90, -1296
-[01:07:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1984, 90, -1298
-[01:07:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1988, 90, -1300
-[01:07:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1988, 90, -1293
-[01:07:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1982, 90, -1303
-[01:07:17] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: BIRCH_LOG
-[01:07:57] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 0
-[01:07:57] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
-[01:08:09] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[01:08:09] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1998, 105, -1402
-[01:08:09] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
-[01:08:13] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[01:08:13] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2003, 105, -1406
-[01:08:13] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
-[01:08:23] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[01:08:23] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1997, 103, -1414
-[01:08:23] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
-[01:08:32] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[01:08:32] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1987, 95, -1424
-[01:08:32] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
-[01:08:36] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 2
-[01:08:36] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1980, 94, -1420
-[01:08:36] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1984, 95, -1418
-[01:08:36] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
-[01:08:43] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[01:08:43] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1976, 93, -1433
-[01:08:43] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
-[01:08:50] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 2
-[01:08:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1989, 96, -1441
-[01:08:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1993, 97, -1437
-[01:08:50] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
-[01:09:02] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[01:09:02] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2000, 97, -1440
-[01:09:02] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
-[01:09:16] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 4
-[01:09:16] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -429
-[01:09:16] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -430
-[01:09:16] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -429
-[01:09:16] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -430
-[01:09:16] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
-[01:09:17] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[01:09:17] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2008, 98, -1460
-[01:09:17] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
-[01:09:27] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[01:09:27] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1993, 98, -1465
-[01:09:27] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
-[01:09:36] [Server thread/INFO]: Villager Villager['Villager'/50, uuid='797fe432-65f7-40d6-8cd9-5a658d98fb76', l='ServerLevel[world]', x=-1972.49, y=81.00, z=-1276.49, cpos=[-124, -80], tl=607686, v=true] died, message: 'Villager was slain by Zombie'
-[01:09:37] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[01:09:37] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2010, 101, -1480
-[01:09:37] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
-[01:09:43] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[01:09:43] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2016, 100, -1494
-[01:09:43] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
-[01:09:51] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[01:09:51] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2040, 96, -1493
-[01:09:51] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
-[01:10:02] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 2
-[01:10:02] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2039, 95, -1501
-[01:10:02] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2036, 94, -1502
-[01:10:02] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
-[01:10:11] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[01:10:11] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2024, 96, -1499
-[01:10:11] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
-[01:10:24] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[01:10:24] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2034, 94, -1509
-[01:10:24] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
-[01:10:31] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[01:10:31] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2038, 96, -1526
-[01:10:31] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
-[01:10:37] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 0
-[01:10:37] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
-[01:11:26] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[01:11:26] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2058, 97, -1537
-[01:11:26] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
-[01:11:37] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[01:11:37] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2074, 95, -1509
-[01:11:37] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
-[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 23
-[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2077, 99, -1541
-[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2077, 99, -1540
-[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2076, 99, -1541
-[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2076, 99, -1540
-[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2079, 99, -1544
-[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2081, 100, -1541
-[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2082, 100, -1538
-[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2078, 99, -1548
-[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2082, 100, -1547
-[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2082, 99, -1536
-[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2085, 101, -1539
-[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2074, 97, -1548
-[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2086, 101, -1536
-[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2084, 101, -1551
-[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2077, 98, -1552
-[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2079, 98, -1533
-[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2089, 102, -1536
-[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2080, 98, -1553
-[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2091, 103, -1538
-[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2089, 101, -1532
-[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2084, 99, -1529
-[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2075, 97, -1556
-[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2091, 103, -1530
-[01:11:50] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
-[01:13:07] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 4
-[01:13:07] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -430
-[01:13:07] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -160, 72, -430
-[01:13:07] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -160, 72, -429
-[01:13:07] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -429
-[01:13:07] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
-[01:13:13] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 0
-[01:13:13] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
-[01:13:53] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[01:13:53] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2070, 97, -1548
-[01:13:53] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
-[01:14:00] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 2
-[01:14:00] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2082, 99, -1536
-[01:14:00] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2086, 101, -1536
-[01:14:00] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
-[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 13
-[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2091, 102, -1545
-[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2094, 103, -1546
-[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2091, 103, -1548
-[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2095, 101, -1547
-[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2096, 104, -1545
-[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2098, 105, -1549
-[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2099, 106, -1545
-[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2099, 106, -1542
-[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2103, 108, -1544
-[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2098, 107, -1537
-[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2104, 109, -1537
-[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2105, 108, -1538
-[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2102, 110, -1535
-[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
-[01:14:47] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 4
-[01:14:47] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -430
-[01:14:47] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -160, 72, -430
-[01:14:47] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -160, 72, -429
-[01:14:47] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -429
-[01:14:47] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
-[01:14:58] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 4
-[01:14:58] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -420
-[01:14:58] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -419
-[01:14:58] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -158, 72, -420
-[01:14:58] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -158, 72, -419
-[01:14:58] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
-[01:16:01] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1981.5 90 -1256.5
-[01:16:01] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -1981.500000, 90.000000, -1256.500000]
-[01:17:11] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 5
-[01:17:11] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1980, 90, -1296
-[01:17:11] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1983, 90, -1294
-[01:17:11] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1984, 90, -1298
-[01:17:11] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1988, 90, -1293
-[01:17:11] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1988, 90, -1300
-[01:17:11] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: BIRCH_LOG
-[01:21:01] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
-[01:21:01] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1979, 90, -1301
-[01:21:01] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: BIRCH_LOG
-[01:22:20] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 3
-[01:22:20] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1930, 94, -1340
-[01:22:20] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1932, 96, -1344
-[01:22:20] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1936, 95, -1347
-[01:22:20] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: BIRCH_LOG
-[01:22:59] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1981.5 90 -1256.5
-[01:22:59] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -1981.500000, 90.000000, -1256.500000]
-[01:27:05] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 4
-[01:27:05] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1980, 90, -1296
-[01:27:05] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1984, 90, -1298
-[01:27:05] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1979, 90, -1301
-[01:27:05] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1988, 90, -1293
-[01:27:05] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: BIRCH_LOG
-[01:28:08] [Server thread/INFO]: jp7806073 lost connection: Disconnected
-[01:28:08] [Server thread/INFO]: [masturboys] jp7806073 left the game
-[01:29:22] [Server thread/INFO]: Sebas23m lost connection: Disconnected
-[01:29:22] [Server thread/INFO]: [Backyardigans] Sebas23m left the game
+[23:19:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:19:10] [ServerMain/INFO]: Loaded 1290 recipes
+[23:19:10] [ServerMain/INFO]: Loaded 1399 advancements
+[23:19:10] [Server thread/INFO]: Starting minecraft server version 1.21
+[23:19:10] [Server thread/INFO]: Loading properties
+[23:19:10] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[23:19:11] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[23:19:11] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:19:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:19:12] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[23:19:12] [Server thread/INFO]: Default game type: SURVIVAL
+[23:19:12] [Server thread/INFO]: Generating keypair
+[23:19:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:19:12] [Server thread/INFO]: Using epoll channel type
+[23:19:12] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:19:12] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[23:19:16] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
+[23:19:16] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
+[23:19:17] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[23:19:17] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[23:19:18] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
+[23:19:18] [Server thread/INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.3.2.1 b125
+[23:19:18] [Server thread/INFO]: [LevelledMobs] Loading commands
+[23:19:19] [Server thread/INFO]: [ClanMaker] Loading server plugin ClanMaker v1.0
+[23:19:19] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.5
+[23:19:19] [Server thread/INFO]: [UltraPickaxe] Loading server plugin UltraPickaxe v1.2.5
+[23:19:19] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v2.0
+[23:19:19] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.8
+[23:19:19] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.22.3
+[23:19:19] [Server thread/INFO]: [SimpleTimber] Loading server plugin SimpleTimber v2.1.0
+[23:19:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:19:19] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.8
+[23:19:21] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[23:19:21] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[23:19:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:19:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:19:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:19:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:19:21] [Server thread/INFO]: Preparing level "world"
+[23:19:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:19:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:19:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[23:19:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[23:19:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[23:19:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:19:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:19:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.8
+[23:19:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 8c78340
+[23:19:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[23:19:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:19:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[23:19:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[23:19:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:19:23] [Server thread/INFO]: Time elapsed: 1097 ms
+[23:19:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:19:24] [Server thread/INFO]: Time elapsed: 668 ms
+[23:19:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:19:24] [Server thread/INFO]: Time elapsed: 206 ms
+[23:19:24] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
+[23:19:24] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[23:19:24] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
+[23:19:24] [Server thread/INFO]: [LevelledMobs] Enabling LevelledMobs v4.3.2.1 b125
+[23:19:24] [Server thread/INFO]: [LevelledMobs] Enabling commands
+[23:19:24] [Server thread/INFO]: [LevelledMobs] Building reflection cache, use simple names: true
+[23:19:24] [Server thread/INFO]: [LevelledMobs] Using NMS version 1.21 for nametag support
+[23:19:24] [Server thread/INFO]: [LevelledMobs] File Loader: Loading files...
+[23:19:24] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
+[23:19:24] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
+[23:19:24] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
+[23:19:24] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
+[23:19:25] [Server thread/INFO]: [LevelledMobs] Current rules hash: 9b0f48e3273bb9cc29d2891ad33fb3410fec8cf1e77c2092ff670fd38f6d4ff5
+[23:19:25] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
+[23:19:25] [Server thread/INFO]: [LevelledMobs] Listeners: Registering event listeners...
+[23:19:25] [Server thread/INFO]: [LevelledMobs] Running misc procedures
+[23:19:25] [Server thread/INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
+[23:19:25] [Server thread/INFO]: [LevelledMobs] Start-up complete (took 760ms)
+[23:19:25] [Server thread/INFO]: [ClanMaker] Enabling ClanMaker v1.0
+[23:19:25] [Server thread/INFO]: [TAB] Enabling TAB v5.2.5
+[23:19:26] [Server thread/INFO]: [TAB] Enabled in 719ms
+[23:19:26] [Server thread/INFO]: [UltraPickaxe] Enabling UltraPickaxe v1.2.5
+[23:19:27] [Server thread/INFO]: [SetHome] Enabling SetHome v2.0
+[23:19:27] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.22.3
+[23:19:28] [Server thread/INFO]: [SimpleTimber] Enabling SimpleTimber v2.1.0
+[23:19:28] [Server thread/INFO]: [SimpleTimber] Plugin is being enabled...
+[23:19:29] [Server thread/INFO]: [SimpleTimber] Using language file: english.yml
+[23:19:29] [Server thread/INFO]: [SimpleTimber] Loaded 3 configs!
+[23:19:29] [Server thread/INFO]: [SimpleTimber] Registered 1 commands!
+[23:19:29] [Server thread/INFO]: [SimpleTimber] Registered 2 listeners!
+[23:19:29] [Server thread/INFO]: [SimpleTimber] Plugin has been enabled!
+[23:19:29] [Server thread/INFO]: [spark] Starting background profiler...
+[23:19:30] [Server thread/INFO]: Done preparing level "world" (8.310s)
+[23:19:30] [Server thread/INFO]: Running delayed init tasks
+[23:19:30] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[23:19:30] [Server thread/INFO]: Done (31.936s)! For help, type "help"
+[23:19:30] [Server thread/INFO]: Timings Reset
+[23:19:30] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.4.1
+[23:19:30] [Craft Scheduler Thread - 2 - SimpleTimber/INFO]: [SimpleTimber] You are using the latest version of SimpleTimber!
+[23:23:58] [User Authenticator #0/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[23:24:04] [Server thread/INFO]: Backyardigans - Sebas23m has joined the game
+[23:24:04] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Sebas23m's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:24:04] [Server thread/INFO]: Sebas23m[/127.124.233.182:43685] logged in with entity id 44 at ([world]-1975.699999988079, 82.0, -1293.9521670123108)
+[23:28:09] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[23:28:09] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1980, 90, -1296
+[23:28:09] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: BIRCH_LOG
