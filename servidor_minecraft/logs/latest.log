@@ -287,3 +287,56 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [01:13:07] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
 [01:13:13] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 0
 [01:13:13] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
+[01:13:53] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[01:13:53] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2070, 97, -1548
+[01:13:53] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
+[01:14:00] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 2
+[01:14:00] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2082, 99, -1536
+[01:14:00] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2086, 101, -1536
+[01:14:00] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
+[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 13
+[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2091, 102, -1545
+[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2094, 103, -1546
+[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2091, 103, -1548
+[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2095, 101, -1547
+[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2096, 104, -1545
+[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2098, 105, -1549
+[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2099, 106, -1545
+[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2099, 106, -1542
+[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2103, 108, -1544
+[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2098, 107, -1537
+[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2104, 109, -1537
+[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2105, 108, -1538
+[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -2102, 110, -1535
+[01:14:12] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: JUNGLE_LOG
+[01:14:47] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 4
+[01:14:47] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -430
+[01:14:47] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -160, 72, -430
+[01:14:47] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -160, 72, -429
+[01:14:47] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -429
+[01:14:47] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
+[01:14:58] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 4
+[01:14:58] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -420
+[01:14:58] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -419
+[01:14:58] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -158, 72, -420
+[01:14:58] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -158, 72, -419
+[01:14:58] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
+[01:16:01] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1981.5 90 -1256.5
+[01:16:01] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -1981.500000, 90.000000, -1256.500000]
+[01:17:11] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 5
+[01:17:11] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1980, 90, -1296
+[01:17:11] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1983, 90, -1294
+[01:17:11] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1984, 90, -1298
+[01:17:11] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1988, 90, -1293
+[01:17:11] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1988, 90, -1300
+[01:17:11] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: BIRCH_LOG
+[01:21:01] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 1
+[01:21:01] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1979, 90, -1301
+[01:21:01] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: BIRCH_LOG
+[01:22:20] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 3
+[01:22:20] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1930, 94, -1340
+[01:22:20] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1932, 96, -1344
+[01:22:20] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1936, 95, -1347
+[01:22:20] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: BIRCH_LOG
+[01:22:59] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1981.5 90 -1256.5
+[01:22:59] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -1981.500000, 90.000000, -1256.500000]
