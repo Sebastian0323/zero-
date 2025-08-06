@@ -157,3 +157,26 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [16:10:04] [Async Chat Thread - #4/INFO]: [Not Secure] masturboys - jp7806073 > necesito
 [16:10:16] [Async Chat Thread - #4/INFO]: [Not Secure] masturboys - jp7806073 > la cage
 [16:12:00] [Async Chat Thread - #6/INFO]: [Not Secure] Backyardigans - Sebas23m > jajajja
+[16:12:33] [Async Chat Thread - #6/INFO]: [Not Secure] Backyardigans - Sebas23m > te subio mucho
+[16:12:41] [Async Chat Thread - #6/INFO]: [Not Secure] masturboys - jp7806073 > si ho
+[16:12:44] [Async Chat Thread - #6/INFO]: [Not Secure] masturboys - jp7806073 > ho
+[16:13:05] [Async Chat Thread - #6/INFO]: [Not Secure] masturboys - jp7806073 > zombi acá no?
+[16:13:09] [Async Chat Thread - #6/INFO]: [Not Secure] Backyardigans - Sebas23m > yes
+[16:13:29] [Server thread/INFO]: jp7806073 issued server command: /home h
+[16:14:34] [Async Chat Thread - #8/INFO]: [Not Secure] masturboys - jp7806073 > un cubo
+[16:14:41] [Async Chat Thread - #8/INFO]: [Not Secure] masturboys - jp7806073 > con agua
+[16:15:10] [Async Chat Thread - #8/INFO]: [Not Secure] masturboys - jp7806073 > tengo q salir ya vengo bro
+[16:15:19] [Async Chat Thread - #8/INFO]: [Not Secure] Backyardigans - Sebas23m > bueno
+[16:15:23] [Async Chat Thread - #8/INFO]: [Not Secure] Backyardigans - Sebas23m > ya te vas
+[16:15:37] [Async Chat Thread - #8/INFO]: [Not Secure] masturboys - jp7806073 > yes
+[16:16:14] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1981.5 90 -1256.5
+[16:16:14] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -1981.500000, 90.000000, -1256.500000]
+[16:18:34] [Server thread/INFO]: jp7806073 issued server command: /home h
+[16:19:12] [Server thread/INFO]: jp7806073 issued server command: /home h
+[16:20:23] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[16:20:23] [Server thread/INFO]: [masturboys] jp7806073 left the game
+[16:20:41] [Server thread/INFO]: Sebas23m issued server command: /effect give Sebas23m minecraft:glowing infinite
+[16:20:41] [Server thread/INFO]: [[Backyardigans] Sebas23m: Applied effect Glowing to [Backyardigans] Sebas23m]
+[16:20:51] [Server thread/INFO]: Sebas23m issued server command: /effect give Sebas23m minecraft:glowing infinite
+[16:21:17] [Server thread/INFO]: Sebas23m issued server command: /effect give Sebas23m minecraft:glowing infinite 100
+[16:21:17] [Server thread/INFO]: [[Backyardigans] Sebas23m: Applied effect Glowing to [Backyardigans] Sebas23m]
