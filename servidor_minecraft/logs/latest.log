@@ -193,3 +193,9 @@ Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remappe
 [16:27:07] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1979, 90, -1301
 [16:27:07] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1982, 90, -1303
 [16:27:07] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: BIRCH_LOG
+[16:49:38] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1981.5 90 -1256.5
+[16:49:38] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -1981.500000, 90.000000, -1256.500000]
+[16:51:14] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:51:14] [Server thread/INFO]: Sebas23m was blown up by Lvl 7 | Creeper
+[16:51:21] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1981.5 90 -1256.5
+[16:51:21] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -1981.500000, 90.000000, -1256.500000]
