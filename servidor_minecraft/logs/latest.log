@@ -712,3 +712,73 @@ LagFixer - Best Performance Solution!
 [20:22:59] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Sebas23m's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
 [20:22:59] [Server thread/INFO]: Backyardigans - Sebas23m has joined the game
 [20:22:59] [Server thread/INFO]: Sebas23m[/127.197.96.67:40127] logged in with entity id 241 at ([world]-1970.300000011921, 81.0, -1291.699999988079)
+[20:34:59] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[20:34:59] [Server thread/INFO]: [Backyardigans] Sebas23m left the game
+[20:35:23] [Server thread/INFO]: Stopping the server
+[20:35:23] [Server thread/INFO]: Stopping server
+[20:35:23] [Server thread/INFO]: [SimpleTimber] Disabling SimpleTimber v2.1.0
+[20:35:23] [Server thread/INFO]: [SimpleTimber] Plugin has been disabled!
+[20:35:23] [Server thread/INFO]: [SetHome] Disabling SetHome v0.1
+[20:35:23] [Server thread/INFO]: [AxGraves] Disabling AxGraves v1.22.3
+[20:35:23] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.8
+[20:35:23] [Server thread/INFO]: [UltraPickaxe] Disabling UltraPickaxe v1.2.5
+[20:35:23] [Server thread/INFO]: [TAB] Disabling TAB v5.2.5
+[20:35:23] [Server thread/INFO]: [TAB] Disabled in 1ms
+[20:35:23] [Server thread/INFO]: [ClanMaker] Disabling ClanMaker v1.0
+[20:35:23] [Server thread/INFO]: [Elevator] Disabling Elevator v3.14.0
+[20:35:23] [Server thread/INFO]: [[38;5;11m⚡[0m] Disabling LagFixer v1.4.25 [build 118]
+[20:35:23] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Disabling manager...
+[20:35:23] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Disabled manager in 1ms!
+[20:35:23] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Disabling manager...
+[20:35:23] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Disabled manager in 1ms!
+[20:35:23] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Disabling manager...
+[20:35:23] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Disabled manager in 0ms!
+[20:35:23] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Disabling manager...
+[20:35:23] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Disabled manager in 0ms!
+[20:35:23] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Disabling manager...
+[20:35:23] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Disabled manager in 0ms!
+[20:35:23] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Disabling manager...
+[20:35:23] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Disabled manager in 0ms!
+[20:35:23] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Disabling manager...
+[20:35:23] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module RedstoneLimiter in 0ms.
+[20:35:23] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module InstantLeafDecay in 1ms.
+[20:35:23] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module WorldCleaner in 0ms.
+[20:35:23] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module MobAiReducer in 1ms.
+[20:35:23] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module LagMonitor in 0ms.
+[20:35:23] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module EntityLimiter in 0ms.
+[20:35:23] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module AbilityLimiter in 0ms.
+[20:35:23] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Disabled manager in 3ms!
+[20:35:23] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Disabling manager...
+[20:35:23] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Disabled manager in 2ms!
+[20:35:23] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.40
+[20:35:23] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.1
+[20:35:23] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[20:35:23] [Server thread/INFO]: [LevelledMobs] Disabling LevelledMobs v4.3.2.1 b125
+[20:35:23] [Server thread/INFO]: [LevelledMobs] Unregistering commands
+[20:35:23] [Server thread/INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
+[20:35:23] [Server thread/INFO]: [LevelledMobs] Shut-down complete (took 3ms)
+[20:35:23] [Craft Scheduler Thread - 0 - LevelledMobs/INFO]: [LevelledMobs] Nametag update queue Manager has exited
+[20:35:23] [Craft Scheduler Thread - 3 - LevelledMobs/INFO]: [LevelledMobs] Mob processing queue Manager has exited
+[20:35:23] [Server thread/INFO]: Saving players
+[20:35:23] [Server thread/INFO]: Cami23m lost connection: Server closed
+[20:35:23] [Server thread/INFO]: Cami23m left the game
+[20:35:23] [Server thread/INFO]: Saving worlds
+[20:35:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:35:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[20:35:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[20:35:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[20:35:23] [Server thread/INFO]: [ChunkHolderManager] Saved 30 block chunks, 190 entity chunks, 2 poi chunks in world 'world' in 0.11s
+[20:35:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[20:35:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[20:35:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[20:35:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[20:35:23] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[20:35:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[20:35:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[20:35:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[20:35:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[20:35:23] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[20:35:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:35:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:35:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:35:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
