@@ -733,3 +733,19 @@ LagFixer - Best Performance Solution!
 [03:28:35] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jp7806073's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
 [03:28:35] [Server thread/INFO]: masturboys - jp7806073 has joined the game
 [03:28:35] [Server thread/INFO]: jp7806073[/127.16.21.85:56009] logged in with entity id 2372 at ([world]-165.59442868396349, 72.0, -466.35258859661724)
+[03:30:43] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[03:30:43] [Server thread/INFO]: [masturboys] jp7806073 left the game
+[03:30:50] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1981.5 90 -1256.5
+[03:30:50] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -1981.500000, 90.000000, -1256.500000]
+[03:31:33] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1981.5 90 -1256.5
+[03:31:33] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -1981.500000, 90.000000, -1256.500000]
+[03:33:13] [User Authenticator #3/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[03:33:17] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jp7806073's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[03:33:17] [Server thread/INFO]: masturboys - jp7806073 has joined the game
+[03:33:17] [Server thread/INFO]: jp7806073[/127.16.21.85:60577] logged in with entity id 2962 at ([world]-157.0384166052759, 71.9375, -458.65435973445693)
+[03:34:28] [Server thread/INFO]: jp7806073 issued server command: /home h
+[03:34:49] [Server thread/INFO]: jp7806073 issued server command: /sethome h
+[03:35:39] [Async Chat Thread - #0/INFO]: [Not Secure] Backyardigans - Sebas23m > hola
+[03:36:21] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1981.5 90 -1256.5
+[03:36:21] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -1981.500000, 90.000000, -1256.500000]
+[03:37:26] [Server thread/INFO]: jp7806073 issued server command: /home h
