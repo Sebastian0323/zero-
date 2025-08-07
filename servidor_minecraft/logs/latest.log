@@ -799,3 +799,56 @@ LagFixer - Best Performance Solution!
 [18:21:20] [Server thread/INFO]: Cami23m left the game
 [18:21:29] [Server thread/INFO]: jp7806073 lost connection: Disconnected
 [18:21:29] [Server thread/INFO]: [masturboys] jp7806073 left the game
+[18:30:02] [User Authenticator #14/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
+[18:30:05] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Cami23m's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:30:05] [Server thread/INFO]: Cami23m joined the game
+[18:30:05] [Server thread/INFO]: Cami23m[/127.197.96.67:57183] logged in with entity id 5205 at ([world]-1932.9838350847117, 95.0, -1301.3732015576263)
+[18:30:56] [User Authenticator #14/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[18:30:59] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jp7806073's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:30:59] [Server thread/INFO]: masturboys - jp7806073 has joined the game
+[18:30:59] [Server thread/INFO]: jp7806073[/127.156.46.185:45623] logged in with entity id 5242 at ([world]-160.28437911177448, 61.0, -461.77620356328947)
+[18:37:41] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 12
+[18:37:41] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -430
+[18:37:41] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -160, 72, -430
+[18:37:41] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -160, 72, -429
+[18:37:41] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -429
+[18:37:41] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -430
+[18:37:41] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -429
+[18:37:41] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -425
+[18:37:41] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -430
+[18:37:41] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -429
+[18:37:41] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -425
+[18:37:41] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -424
+[18:37:41] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -424
+[18:37:41] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
+[18:39:10] [Async Chat Thread - #0/INFO]: [Not Secure] Backyardigans - Sebas23m > hisebkfc
+[18:39:49] [Server thread/INFO]: Sebas23m issued server command: /plugins
+[18:42:36] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 6
+[18:42:36] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -420
+[18:42:36] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -420
+[18:42:36] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -419
+[18:42:36] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -419
+[18:42:36] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -159, 72, -419
+[18:42:36] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -158, 72, -419
+[18:42:36] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
+[18:43:02] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 8
+[18:43:02] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -430
+[18:43:02] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -429
+[18:43:02] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -430
+[18:43:02] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -429
+[18:43:02] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -425
+[18:43:02] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -165, 72, -424
+[18:43:02] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -425
+[18:43:02] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -164, 72, -424
+[18:43:02] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
+[18:43:44] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 9
+[18:43:44] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1964, 94, -1270
+[18:43:44] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1965, 94, -1269
+[18:43:44] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1964, 94, -1269
+[18:43:44] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1969, 94, -1269
+[18:43:44] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1968, 94, -1269
+[18:43:44] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1973, 94, -1270
+[18:43:44] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1973, 94, -1269
+[18:43:44] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1972, 94, -1270
+[18:43:44] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1972, 94, -1269
+[18:43:44] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
