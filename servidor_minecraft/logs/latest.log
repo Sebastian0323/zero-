@@ -750,3 +750,118 @@ LagFixer - Best Performance Solution!
 [03:36:21] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -1981.500000, 90.000000, -1256.500000]
 [03:37:26] [Server thread/INFO]: jp7806073 issued server command: /home h
 [03:39:26] [Server thread/INFO]: jp7806073 issued server command: /home h
+[03:49:45] [Server thread/INFO]: Sebas23m issued server command: /plugins
+[03:50:00] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
+[03:50:00] [Server thread/INFO]: [Backyardigans] Sebas23m has made the advancement [We Need to Go Deeper]
+[03:50:00] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to [masturboys] jp7806073]
+[03:50:57] [Server thread/INFO]: Sebas23m was slain by Lvl 47 | Enderman
+[03:50:59] [Server thread/ERROR]: Entity threw exception at world:31.5,71.0,0.5
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.ai.goal.WrappedGoal.isRunning()" because "wrappedGoal2" is null
+	at net.minecraft.world.entity.ai.goal.GoalSelector.tick(GoalSelector.java:105) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.Mob.serverAiStep(Mob.java:938) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.LivingEntity.aiStep(LivingEntity.java:3470) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.Mob.aiStep(Mob.java:678) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.monster.Monster.aiStep(Monster.java:44) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.monster.Zombie.aiStep(Zombie.java:273) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3173) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.Mob.tick(Mob.java:445) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.monster.Zombie.tick(Zombie.java:241) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1248) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:1420) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$4(ServerLevel.java:737) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:717) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1806) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[03:51:00] [Server thread/ERROR]: Entity threw exception at world:1.5,13.0,-53.5
+java.lang.NullPointerException: null
+[03:51:08] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
+[03:51:08] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to [masturboys] jp7806073]
+[03:51:34] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -247.5 90 -157.5
+[03:51:34] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -247.500000, 90.000000, -157.500000]
+[03:51:44] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1981.5 90 -1256.5
+[03:51:44] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -1981.500000, 90.000000, -1256.500000]
+[03:53:22] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1981.5 90 -1256.5
+[03:53:22] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -1981.500000, 90.000000, -1256.500000]
+[03:54:52] [Server thread/INFO]: jp7806073 was slain by Lvl 45 | Enderman
+[03:55:04] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
+[03:55:04] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to [masturboys] jp7806073]
+[03:55:20] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[03:55:20] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [masturboys] jp7806073 to [Backyardigans] Sebas23m]
+[03:55:55] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -247.5 90 -157.5
+[03:55:55] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -247.500000, 90.000000, -157.500000]
+[03:56:00] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1981.5 90 -1256.5
+[03:56:00] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -1981.500000, 90.000000, -1256.500000]
+[03:56:29] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[03:56:29] [Server thread/INFO]: [masturboys] jp7806073 left the game
+[03:56:42] [Server thread/INFO]: Stopping the server
+[03:56:42] [Server thread/INFO]: Stopping server
+[03:56:42] [Server thread/INFO]: [SimpleTimber] Disabling SimpleTimber v2.1.0
+[03:56:42] [Server thread/INFO]: [SimpleTimber] Plugin has been disabled!
+[03:56:42] [Server thread/INFO]: [SetHome] Disabling SetHome v0.1
+[03:56:42] [Server thread/INFO]: [AxGraves] Disabling AxGraves v1.22.3
+[03:56:42] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.8
+[03:56:42] [Server thread/INFO]: [UltraPickaxe] Disabling UltraPickaxe v1.2.5
+[03:56:42] [Server thread/INFO]: [TAB] Disabling TAB v5.2.5
+[03:56:42] [Server thread/INFO]: [TAB] Disabled in 1ms
+[03:56:42] [Server thread/INFO]: [ClanMaker] Disabling ClanMaker v1.0
+[03:56:42] [Server thread/INFO]: [[38;5;11m⚡[0m] Disabling LagFixer v1.4.25 [build 118]
+[03:56:42] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Disabling manager...
+[03:56:42] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Disabled manager in 0ms!
+[03:56:42] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Disabling manager...
+[03:56:42] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Disabled manager in 0ms!
+[03:56:42] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Disabling manager...
+[03:56:42] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Disabled manager in 0ms!
+[03:56:42] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Disabling manager...
+[03:56:42] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Disabled manager in 0ms!
+[03:56:42] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Disabling manager...
+[03:56:42] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Disabled manager in 0ms!
+[03:56:42] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Disabling manager...
+[03:56:42] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Disabled manager in 0ms!
+[03:56:42] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Disabling manager...
+[03:56:42] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module RedstoneLimiter in 1ms.
+[03:56:42] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module InstantLeafDecay in 0ms.
+[03:56:42] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module WorldCleaner in 0ms.
+[03:56:42] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module MobAiReducer in 0ms.
+[03:56:42] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module LagMonitor in 0ms.
+[03:56:42] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module EntityLimiter in 0ms.
+[03:56:42] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module AbilityLimiter in 0ms.
+[03:56:42] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Disabled manager in 4ms!
+[03:56:42] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Disabling manager...
+[03:56:42] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Disabled manager in 1ms!
+[03:56:42] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.40
+[03:56:42] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.1
+[03:56:42] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[03:56:42] [Server thread/INFO]: [LevelledMobs] Disabling LevelledMobs v4.3.2.1 b125
+[03:56:42] [Server thread/INFO]: [LevelledMobs] Unregistering commands
+[03:56:42] [Server thread/INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
+[03:56:42] [Server thread/INFO]: [LevelledMobs] Shut-down complete (took 2ms)
+[03:56:42] [Craft Scheduler Thread - 0 - LevelledMobs/INFO]: [LevelledMobs] Nametag update queue Manager has exited
+[03:56:42] [Craft Scheduler Thread - 2 - LevelledMobs/INFO]: [LevelledMobs] Mob processing queue Manager has exited
+[03:56:43] [Server thread/INFO]: Saving players
+[03:56:43] [Server thread/INFO]: Sebas23m lost connection: Server closed
+[03:56:43] [Server thread/INFO]: [Backyardigans] Sebas23m left the game
+[03:56:43] [Server thread/INFO]: Saving worlds
+[03:56:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:56:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[03:56:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[03:56:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[03:56:44] [Server thread/INFO]: [ChunkHolderManager] Saved 807 block chunks, 810 entity chunks, 0 poi chunks in world 'world' in 1.44s
+[03:56:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:56:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[03:56:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[03:56:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[03:56:44] [Server thread/INFO]: [ChunkHolderManager] Saved 53 block chunks, 56 entity chunks, 0 poi chunks in world 'world_nether' in 0.10s
+[03:56:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:56:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[03:56:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[03:56:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[03:56:44] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[03:56:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:56:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:56:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:56:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
