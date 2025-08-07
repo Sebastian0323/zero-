@@ -479,6 +479,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-02 02:35:44 +0000",
+      "minecraft:phantom": "2025-08-07 17:47:35 +0000",
       "minecraft:enderman": "2025-08-06 16:05:31 +0000",
       "minecraft:witch": "2025-08-05 01:21:45 +0000",
       "minecraft:spider": "2025-08-02 18:26:00 +0000",

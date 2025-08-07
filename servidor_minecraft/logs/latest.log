@@ -722,3 +722,16 @@ LagFixer - Best Performance Solution!
 [17:27:31] [Server thread/INFO]: Cami23m left the game
 [17:42:11] [Server thread/INFO]: Sebas23m issued server command: /plugins
 [17:42:23] [Server thread/INFO]: Sebas23m issued server command: /ultrapickaxe give Sebas23m custom 100
+[17:48:33] [Server thread/INFO]: Sebas23m issued server command: /ip
+[17:52:59] [User Authenticator #2/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
+[17:53:03] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Cami23m's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[17:53:03] [Server thread/INFO]: Cami23m joined the game
+[17:53:03] [Server thread/INFO]: Cami23m[/127.197.96.67:40433] logged in with entity id 2087 at ([world]-1932.9838350847117, 95.0, -1301.3732015576263)
+[17:53:12] [Server thread/INFO]: Cami23m lost connection: Disconnected
+[17:53:12] [Server thread/INFO]: Cami23m left the game
+[17:55:44] [User Authenticator #3/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
+[17:55:47] [Server thread/INFO]: Cami23m joined the game
+[17:55:47] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Cami23m's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[17:55:47] [Server thread/INFO]: Cami23m[/127.197.96.67:50413] logged in with entity id 2205 at ([world]-1932.9838350847117, 95.0, -1301.3732015576263)
+[17:55:56] [Server thread/INFO]: Cami23m lost connection: Disconnected
+[17:55:56] [Server thread/INFO]: Cami23m left the game
