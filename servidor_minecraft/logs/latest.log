@@ -852,3 +852,17 @@ LagFixer - Best Performance Solution!
 [18:43:44] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1972, 94, -1270
 [18:43:44] [Server thread/INFO]: [SimpleTimber] [Timber] Sapling-Spot bei: -1972, 94, -1269
 [18:43:44] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: SPRUCE_LOG
+[18:49:13] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[18:49:13] [Server thread/INFO]: [masturboys] jp7806073 left the game
+[18:49:17] [User Authenticator #15/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[18:49:18] [Server thread/INFO]: masturboys - jp7806073 has joined the game
+[18:49:18] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jp7806073's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:49:18] [Server thread/INFO]: jp7806073[/127.156.46.185:51401] logged in with entity id 8695 at ([world_nether]-10.992279424229498, 47.0, -66.5043496349094)
+[18:50:40] [Server thread/INFO]: jp7806073 issued server command: /home h
+[18:51:13] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1981.5 90 -1256.5
+[18:51:13] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -1981.500000, 90.000000, -1256.500000]
+[18:56:18] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1981.5 90 -1256.5
+[18:56:18] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -1981.500000, 90.000000, -1256.500000]
+[18:57:51] [Server thread/INFO]: [SimpleTimber] [Timber] Gefundene Sapling-Spots: 0
+[18:57:51] [Server thread/INFO]: [SimpleTimber] [Timber] Dominanter Log-Typ: CRIMSON_STEM
+[18:57:53] [Server thread/WARN]: [SimpleTimber] [Timber] Kein passender Sapling für CRIMSON_STEM gefunden!
