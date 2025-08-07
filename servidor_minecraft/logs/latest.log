@@ -761,3 +761,25 @@ LagFixer - Best Performance Solution!
 [18:05:57] [Server thread/INFO]: Cami23m[/127.197.96.67:46571] logged in with entity id 3141 at ([world]-1932.9838350847117, 95.0, -1301.3732015576263)
 [18:06:02] [Server thread/INFO]: Cami23m lost connection: Disconnected
 [18:06:02] [Server thread/INFO]: Cami23m left the game
+[18:07:30] [User Authenticator #8/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
+[18:07:33] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Cami23m's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:07:33] [Server thread/INFO]: Cami23m joined the game
+[18:07:33] [Server thread/INFO]: Cami23m[/127.197.96.67:33423] logged in with entity id 3372 at ([world]-1932.9838350847117, 95.0, -1301.3732015576263)
+[18:07:40] [Server thread/INFO]: Cami23m lost connection: Disconnected
+[18:07:40] [Server thread/INFO]: Cami23m left the game
+[18:09:14] [User Authenticator #9/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
+[18:09:17] [Server thread/INFO]: Cami23m joined the game
+[18:09:17] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Cami23m's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:09:17] [Server thread/INFO]: Cami23m[/127.197.96.67:43607] logged in with entity id 3619 at ([world]-1932.9838350847117, 95.0, -1301.3732015576263)
+[18:09:22] [Server thread/INFO]: Cami23m lost connection: Disconnected
+[18:09:22] [Server thread/INFO]: Cami23m left the game
+[18:10:18] [User Authenticator #10/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[18:10:24] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jp7806073's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:10:24] [Server thread/INFO]: masturboys - jp7806073 has joined the game
+[18:10:24] [Server thread/INFO]: jp7806073[/127.156.46.185:34429] logged in with entity id 3826 at ([world]-165.52005636371774, 72.0, -464.1540446910706)
+[18:14:44] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[18:14:44] [Server thread/INFO]: [masturboys] jp7806073 left the game
+[18:15:09] [User Authenticator #11/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[18:15:12] [Server thread/INFO]: masturboys - jp7806073 has joined the game
+[18:15:12] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jp7806073's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:15:12] [Server thread/INFO]: jp7806073[/127.156.46.185:47507] logged in with entity id 4070 at ([world]-170.01004545491548, 72.0, -426.65039648753736)
