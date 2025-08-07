@@ -735,3 +735,29 @@ LagFixer - Best Performance Solution!
 [17:55:47] [Server thread/INFO]: Cami23m[/127.197.96.67:50413] logged in with entity id 2205 at ([world]-1932.9838350847117, 95.0, -1301.3732015576263)
 [17:55:56] [Server thread/INFO]: Cami23m lost connection: Disconnected
 [17:55:56] [Server thread/INFO]: Cami23m left the game
+[17:58:12] [User Authenticator #4/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
+[17:58:17] [Server thread/INFO]: Cami23m joined the game
+[17:58:17] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Cami23m's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[17:58:17] [Server thread/INFO]: Cami23m[/127.197.96.67:34457] logged in with entity id 2331 at ([world]-1932.9838350847117, 95.0, -1301.3732015576263)
+[17:58:24] [Server thread/INFO]: Cami23m lost connection: Disconnected
+[17:58:24] [Server thread/INFO]: Cami23m left the game
+[18:01:44] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -174.0 72 -473.0
+[18:01:44] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -174.000000, 72.000000, -473.000000]
+[18:02:39] [User Authenticator #5/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
+[18:02:42] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Cami23m's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:02:42] [Server thread/INFO]: Cami23m joined the game
+[18:02:42] [Server thread/INFO]: Cami23m[/127.197.96.67:45907] logged in with entity id 2650 at ([world]-1932.9838350847117, 95.0, -1301.3732015576263)
+[18:02:51] [Server thread/INFO]: Cami23m lost connection: Disconnected
+[18:02:51] [Server thread/INFO]: Cami23m left the game
+[18:04:24] [User Authenticator #6/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
+[18:04:26] [Server thread/INFO]: Cami23m joined the game
+[18:04:26] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Cami23m's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:04:26] [Server thread/INFO]: Cami23m[/127.197.96.67:51559] logged in with entity id 2934 at ([world]-1932.9838350847117, 95.0, -1301.3732015576263)
+[18:04:31] [Server thread/INFO]: Cami23m lost connection: Disconnected
+[18:04:31] [Server thread/INFO]: Cami23m left the game
+[18:05:55] [User Authenticator #7/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
+[18:05:57] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Cami23m's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:05:57] [Server thread/INFO]: Cami23m joined the game
+[18:05:57] [Server thread/INFO]: Cami23m[/127.197.96.67:46571] logged in with entity id 3141 at ([world]-1932.9838350847117, 95.0, -1301.3732015576263)
+[18:06:02] [Server thread/INFO]: Cami23m lost connection: Disconnected
+[18:06:02] [Server thread/INFO]: Cami23m left the game
