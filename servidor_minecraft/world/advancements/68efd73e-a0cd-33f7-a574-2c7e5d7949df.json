@@ -13,6 +13,7 @@
       "minecraft:dark_forest": "2025-08-02 02:14:11 +0000",
       "minecraft:forest": "2025-08-02 19:15:44 +0000",
       "minecraft:taiga": "2025-08-02 20:52:06 +0000",
+      "minecraft:sparse_jungle": "2025-08-07 21:33:31 +0000",
       "minecraft:river": "2025-08-02 02:29:21 +0000",
       "minecraft:stony_shore": "2025-08-02 19:16:20 +0000",
       "minecraft:lush_caves": "2025-08-02 02:24:40 +0000",
@@ -2834,18 +2835,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-08-07 19:31:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-08-07 19:31:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_sword": "2025-08-07 19:28:27 +0000"
@@ -2861,6 +2850,30 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_sword": "2025-08-07 19:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 19:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 19:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-07 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-07 19:31:08 +0000"
     },
     "done": true
   },
@@ -2882,21 +2895,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-08-07 19:28:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-08-07 19:31:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-08-07 19:28:32 +0000"
     },
     "done": true
   },
