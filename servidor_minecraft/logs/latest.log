@@ -134,3 +134,8 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [17:23:35] [Server thread/INFO]: Cami23m joined the game
 [17:23:35] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Cami23m's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
 [17:23:35] [Server thread/INFO]: Cami23m[/127.118.127.232:46799] logged in with entity id 1453 at ([world]-1927.300000011921, 105.0, -1299.300000011921)
+[17:35:53] [Server thread/INFO]: Cami23m has made the advancement [We Need to Go Deeper]
+[17:39:43] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -247.5 90 -157.5
+[17:39:43] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -247.500000, 90.000000, -157.500000]
+[17:39:49] [Server thread/INFO]: Sebas23m issued server command: /execute in minecraft:overworld run tp Sebas23m -1981.5 90 -1256.5
+[17:39:49] [Server thread/INFO]: [[Backyardigans] Sebas23m: Teleported [Backyardigans] Sebas23m to -1981.500000, 90.000000, -1256.500000]
