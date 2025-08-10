@@ -1,7 +1,7 @@
-[03:28:53] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[03:28:53] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[03:28:53] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[03:28:54] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remapped/FallingTree-1.21.8-1.21.8.2.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
+[17:09:42] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[17:09:42] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[17:09:42] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[17:09:42] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remapped/FallingTree-1.21.8-1.21.8.2.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
 java.lang.RuntimeException: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remapped/FallingTree-1.21.8-1.21.8.2.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.registerProviders(FileProviderSource.java:86) ~[paper-1.21.jar:1.21-130-b1b5d4c]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:52) ~[paper-1.21.jar:1.21-130-b1b5d4c]
@@ -15,26 +15,26 @@ java.lang.RuntimeException: java.lang.IllegalArgumentException: Directory 'plugi
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
 Caused by: java.lang.IllegalArgumentException: Directory 'plugins/.paper-remapped/FallingTree-1.21.8-1.21.8.2.jar' does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
 	... 10 more
-[03:28:54] [ServerMain/INFO]: [PluginInitializerManager] Initialized 11 plugins
-[03:28:54] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (11):
+[17:09:42] [ServerMain/INFO]: [PluginInitializerManager] Initialized 11 plugins
+[17:09:42] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (11):
  - AxGraves (1.22.3), Chunky (1.4.40), ClanMaker (1.0), Elevator (3.14.0), LevelledMobs (4.3.2.1 b125), SetHome (0.1), SimpleTimber (2.1.0), SkinsRestorer (15.7.8), TAB (5.2.5), ViaVersion (5.4.1), emotecraft (2.4.10)
-[03:28:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:29:00] [ServerMain/INFO]: Loaded 1290 recipes
-[03:29:00] [ServerMain/INFO]: Loaded 1399 advancements
-[03:29:00] [Server thread/INFO]: Starting minecraft server version 1.21
-[03:29:00] [Server thread/INFO]: Loading properties
-[03:29:00] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[03:29:01] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[03:29:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:29:01] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:29:02] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[03:29:02] [Server thread/INFO]: Default game type: SURVIVAL
-[03:29:02] [Server thread/INFO]: Generating keypair
-[03:29:02] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:29:03] [Server thread/INFO]: Using epoll channel type
-[03:29:03] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[03:29:03] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[03:29:03] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/.paper-remapped/emotecraft-2.4.10-bukkit.jar' in 'plugins/.paper-remapped'
+[17:09:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:09:48] [ServerMain/INFO]: Loaded 1290 recipes
+[17:09:48] [ServerMain/INFO]: Loaded 1399 advancements
+[17:09:49] [Server thread/INFO]: Starting minecraft server version 1.21
+[17:09:49] [Server thread/INFO]: Loading properties
+[17:09:49] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[17:09:49] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[17:09:49] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:09:49] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:09:50] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[17:09:50] [Server thread/INFO]: Default game type: SURVIVAL
+[17:09:50] [Server thread/INFO]: Generating keypair
+[17:09:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:09:50] [Server thread/INFO]: Using epoll channel type
+[17:09:50] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[17:09:50] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[17:09:50] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/.paper-remapped/emotecraft-2.4.10-bukkit.jar' in 'plugins/.paper-remapped'
 org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [ProtocolLib]. Please download and install these plugins to run 'emotecraft'.
 	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.jar:1.21-130-b1b5d4c]
 	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.jar:1.21-130-b1b5d4c]
@@ -44,108 +44,89 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215) ~[paper-1.21.jar:1.21-130-b1b5d4c]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[03:29:06] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
-[03:29:06] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
-[03:29:07] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[03:29:07] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[03:29:09] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
-[03:29:09] [Server thread/INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.3.2.1 b125
-[03:29:09] [Server thread/INFO]: [LevelledMobs] Loading commands
-[03:29:09] [Server thread/INFO]: [Elevator] Loading server plugin Elevator v3.14.0
-[03:29:09] [Server thread/INFO]: [ClanMaker] Loading server plugin ClanMaker v1.0
-[03:29:09] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.5
-[03:29:09] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.8
-[03:29:09] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.22.3
-[03:29:09] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v0.1
-[03:29:09] [Server thread/INFO]: [SimpleTimber] Loading server plugin SimpleTimber v2.1.0
-[03:29:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:29:09] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.8
-[03:29:11] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[03:29:12] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[03:29:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:29:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:29:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:29:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:29:12] [Server thread/INFO]: Preparing level "world"
-[03:29:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:29:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[03:29:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[03:29:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[03:29:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[03:29:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[03:29:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:29:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.8
-[03:29:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 8c78340
-[03:29:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[03:29:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:29:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[03:29:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[03:29:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:29:13] [Server thread/INFO]: Time elapsed: 1152 ms
-[03:29:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[03:29:14] [Server thread/INFO]: Time elapsed: 192 ms
-[03:29:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[03:29:14] [Server thread/INFO]: Time elapsed: 142 ms
-[03:29:14] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
-[03:29:14] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
-[03:29:14] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
-[03:29:14] [Server thread/INFO]: [LevelledMobs] Enabling LevelledMobs v4.3.2.1 b125
-[03:29:14] [Server thread/INFO]: [LevelledMobs] Enabling commands
-[03:29:14] [Server thread/INFO]: [LevelledMobs] Building reflection cache, use simple names: true
-[03:29:14] [Server thread/INFO]: [LevelledMobs] Using NMS version 1.21 for nametag support
-[03:29:14] [Server thread/INFO]: [LevelledMobs] File Loader: Loading files...
-[03:29:14] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
-[03:29:14] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
-[03:29:14] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
-[03:29:14] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
-[03:29:15] [Server thread/INFO]: [LevelledMobs] Current rules hash: 9b0f48e3273bb9cc29d2891ad33fb3410fec8cf1e77c2092ff670fd38f6d4ff5
-[03:29:15] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
-[03:29:15] [Server thread/INFO]: [LevelledMobs] Listeners: Registering event listeners...
-[03:29:15] [Server thread/INFO]: [LevelledMobs] Running misc procedures
-[03:29:15] [Server thread/INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
-[03:29:15] [Server thread/INFO]: [LevelledMobs] Start-up complete (took 830ms)
-[03:29:15] [Server thread/INFO]: [Elevator] Enabling Elevator v3.14.0
-[03:29:15] [Server thread/INFO]: [ClanMaker] Enabling ClanMaker v1.0
-[03:29:15] [Server thread/INFO]: [TAB] Enabling TAB v5.2.5
-[03:29:16] [Server thread/INFO]: [TAB] Enabled in 637ms
-[03:29:16] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.22.3
-[03:29:17] [Server thread/INFO]: [SetHome] Enabling SetHome v0.1
-[03:29:17] [Server thread/INFO]: [SimpleTimber] Enabling SimpleTimber v2.1.0
-[03:29:17] [Server thread/INFO]: [SimpleTimber] Plugin is being enabled...
-[03:29:18] [Server thread/INFO]: [SimpleTimber] Using language file: english.yml
-[03:29:18] [Server thread/INFO]: [SimpleTimber] Loaded 3 configs!
-[03:29:18] [Server thread/INFO]: [SimpleTimber] Registered 1 commands!
-[03:29:18] [Server thread/INFO]: [SimpleTimber] Registered 2 listeners!
-[03:29:18] [Server thread/INFO]: [SimpleTimber] Plugin has been enabled!
-[03:29:18] [Server thread/INFO]: [spark] Starting background profiler...
-[03:29:19] [Server thread/INFO]: Done preparing level "world" (6.941s)
-[03:29:19] [Server thread/INFO]: Running delayed init tasks
-[03:29:19] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[03:29:19] [Server thread/INFO]: Done (26.532s)! For help, type "help"
-[03:29:19] [Server thread/INFO]: Timings Reset
-[03:29:19] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.4.1
-[03:29:19] [Craft Scheduler Thread - 2 - SimpleTimber/INFO]: [SimpleTimber] You are using the latest version of SimpleTimber!
-[03:29:22] [Craft Scheduler Thread - 6 - AxGraves/INFO]: AxGraves » There is a new version of AxGraves available! (current: 1.22.3 | latest: 1.22.4)
-[03:37:41] [User Authenticator #0/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
-[03:37:44] [Server thread/INFO]: masturboys - jp7806073 has joined the game
-[03:37:44] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jp7806073's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[03:37:44] [Server thread/INFO]: jp7806073[/127.4.72.56:37829] logged in with entity id 52 at ([world]-1998.729377785359, 105.0, -1399.0024970320335)
-[03:38:32] [Server thread/INFO]: jp7806073 issued server command: /home CJ
-[03:38:38] [Server thread/INFO]: jp7806073 issued server command: /sethome CJ
-[03:38:46] [Server thread/INFO]: jp7806073 issued server command: /home H
-[03:39:23] [Server thread/INFO]: jp7806073 issued server command: /home HJ
-[03:39:28] [Server thread/INFO]: jp7806073 issued server command: /home CU
-[03:39:33] [Server thread/INFO]: jp7806073 issued server command: /home CJ
-[03:41:12] [Server thread/INFO]: jp7806073 issued server command: /home H
-[03:43:16] [Server thread/INFO]: jp7806073 lost connection: Disconnected
-[03:43:16] [Server thread/INFO]: [masturboys] jp7806073 left the game
-[03:54:38] [User Authenticator #1/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
-[03:54:43] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Sebas23m's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[03:54:43] [Server thread/INFO]: Backyardigans - Sebas23m has joined the game
-[03:54:43] [Server thread/INFO]: Sebas23m[/127.118.127.232:38399] logged in with entity id 1700 at ([world]-1974.9549991624963, 90.0, -1300.4858245169005)
-[03:55:23] [Server thread/INFO]: Sebas23m lost connection: Disconnected
-[03:55:23] [Server thread/INFO]: [Backyardigans] Sebas23m left the game
-[03:55:29] [User Authenticator #1/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
-[03:55:31] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Sebas23m's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[03:55:31] [Server thread/INFO]: Backyardigans - Sebas23m has joined the game
-[03:55:31] [Server thread/INFO]: Sebas23m[/127.118.127.232:56733] logged in with entity id 1962 at ([world]-1973.8643138952962, 81.0, -1284.050676782743)
+[17:09:54] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
+[17:09:54] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
+[17:09:55] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[17:09:55] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[17:09:56] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
+[17:09:56] [Server thread/INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.3.2.1 b125
+[17:09:56] [Server thread/INFO]: [LevelledMobs] Loading commands
+[17:09:57] [Server thread/INFO]: [Elevator] Loading server plugin Elevator v3.14.0
+[17:09:57] [Server thread/INFO]: [ClanMaker] Loading server plugin ClanMaker v1.0
+[17:09:57] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.5
+[17:09:57] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.8
+[17:09:57] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.22.3
+[17:09:57] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v0.1
+[17:09:57] [Server thread/INFO]: [SimpleTimber] Loading server plugin SimpleTimber v2.1.0
+[17:09:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:09:57] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.8
+[17:09:58] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[17:09:59] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[17:09:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:09:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:09:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:09:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:09:59] [Server thread/INFO]: Preparing level "world"
+[17:10:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:10:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[17:10:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[17:10:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[17:10:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[17:10:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[17:10:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:10:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.8
+[17:10:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 8c78340
+[17:10:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[17:10:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:10:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[17:10:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[17:10:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:10:01] [Server thread/INFO]: Time elapsed: 1052 ms
+[17:10:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:10:01] [Server thread/INFO]: Time elapsed: 216 ms
+[17:10:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:10:01] [Server thread/INFO]: Time elapsed: 152 ms
+[17:10:01] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
+[17:10:01] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[17:10:01] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
+[17:10:02] [Server thread/INFO]: [LevelledMobs] Enabling LevelledMobs v4.3.2.1 b125
+[17:10:02] [Server thread/INFO]: [LevelledMobs] Enabling commands
+[17:10:02] [Server thread/INFO]: [LevelledMobs] Building reflection cache, use simple names: true
+[17:10:02] [Server thread/INFO]: [LevelledMobs] Using NMS version 1.21 for nametag support
+[17:10:02] [Server thread/INFO]: [LevelledMobs] File Loader: Loading files...
+[17:10:02] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
+[17:10:02] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
+[17:10:02] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
+[17:10:02] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
+[17:10:02] [Server thread/INFO]: [LevelledMobs] Current rules hash: 9b0f48e3273bb9cc29d2891ad33fb3410fec8cf1e77c2092ff670fd38f6d4ff5
+[17:10:02] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
+[17:10:02] [Server thread/INFO]: [LevelledMobs] Listeners: Registering event listeners...
+[17:10:02] [Server thread/INFO]: [LevelledMobs] Running misc procedures
+[17:10:02] [Server thread/INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
+[17:10:02] [Server thread/INFO]: [LevelledMobs] Start-up complete (took 726ms)
+[17:10:02] [Server thread/INFO]: [Elevator] Enabling Elevator v3.14.0
+[17:10:03] [Server thread/INFO]: [ClanMaker] Enabling ClanMaker v1.0
+[17:10:03] [Server thread/INFO]: [TAB] Enabling TAB v5.2.5
+[17:10:03] [Server thread/INFO]: [TAB] Enabled in 682ms
+[17:10:03] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.22.3
+[17:10:04] [Server thread/INFO]: [SetHome] Enabling SetHome v0.1
+[17:10:04] [Server thread/INFO]: [SimpleTimber] Enabling SimpleTimber v2.1.0
+[17:10:04] [Server thread/INFO]: [SimpleTimber] Plugin is being enabled...
+[17:10:05] [Server thread/INFO]: [SimpleTimber] Using language file: english.yml
+[17:10:05] [Server thread/INFO]: [SimpleTimber] Loaded 3 configs!
+[17:10:05] [Server thread/INFO]: [SimpleTimber] Registered 1 commands!
+[17:10:06] [Server thread/INFO]: [SimpleTimber] Registered 2 listeners!
+[17:10:06] [Server thread/INFO]: [SimpleTimber] Plugin has been enabled!
+[17:10:06] [Server thread/INFO]: [spark] Starting background profiler...
+[17:10:06] [Server thread/INFO]: Done preparing level "world" (6.633s)
+[17:10:06] [Server thread/INFO]: Running delayed init tasks
+[17:10:06] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[17:10:06] [Server thread/INFO]: Done (25.214s)! For help, type "help"
+[17:10:06] [Server thread/INFO]: Timings Reset
+[17:10:06] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.4.1
+[17:10:06] [Craft Scheduler Thread - 6 - SimpleTimber/INFO]: [SimpleTimber] You are using the latest version of SimpleTimber!
+[17:10:09] [Craft Scheduler Thread - 2 - AxGraves/INFO]: AxGraves » There is a new version of AxGraves available! (current: 1.22.3 | latest: 1.22.4)
+[17:11:51] [User Authenticator #0/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[17:11:58] [Server thread/INFO]: Backyardigans - Sebas23m has joined the game
+[17:11:58] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Sebas23m's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[17:11:58] [Server thread/INFO]: Sebas23m[/127.118.127.232:44307] logged in with entity id 52 at ([world]-1930.4957328430262, 105.0, -1299.300000011921)
