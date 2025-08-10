@@ -139,3 +139,13 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [03:41:12] [Server thread/INFO]: jp7806073 issued server command: /home H
 [03:43:16] [Server thread/INFO]: jp7806073 lost connection: Disconnected
 [03:43:16] [Server thread/INFO]: [masturboys] jp7806073 left the game
+[03:54:38] [User Authenticator #1/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[03:54:43] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Sebas23m's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[03:54:43] [Server thread/INFO]: Backyardigans - Sebas23m has joined the game
+[03:54:43] [Server thread/INFO]: Sebas23m[/127.118.127.232:38399] logged in with entity id 1700 at ([world]-1974.9549991624963, 90.0, -1300.4858245169005)
+[03:55:23] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[03:55:23] [Server thread/INFO]: [Backyardigans] Sebas23m left the game
+[03:55:29] [User Authenticator #1/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[03:55:31] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Sebas23m's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[03:55:31] [Server thread/INFO]: Backyardigans - Sebas23m has joined the game
+[03:55:31] [Server thread/INFO]: Sebas23m[/127.118.127.232:56733] logged in with entity id 1962 at ([world]-1973.8643138952962, 81.0, -1284.050676782743)
