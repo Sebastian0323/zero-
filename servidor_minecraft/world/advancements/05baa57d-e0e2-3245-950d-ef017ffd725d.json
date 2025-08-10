@@ -480,6 +480,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-02 02:35:44 +0000",
+      "minecraft:piglin": "2025-08-10 17:38:25 +0000",
       "minecraft:phantom": "2025-08-07 17:47:35 +0000",
       "minecraft:enderman": "2025-08-06 16:05:31 +0000",
       "minecraft:witch": "2025-08-05 01:21:45 +0000",
@@ -2496,6 +2497,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-08-10 17:38:33 +0000",
       "minecraft:nether_wastes": "2025-08-07 17:44:26 +0000",
       "minecraft:warped_forest": "2025-08-07 03:50:01 +0000"
     },
