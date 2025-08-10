@@ -133,3 +133,9 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [03:38:32] [Server thread/INFO]: jp7806073 issued server command: /home CJ
 [03:38:38] [Server thread/INFO]: jp7806073 issued server command: /sethome CJ
 [03:38:46] [Server thread/INFO]: jp7806073 issued server command: /home H
+[03:39:23] [Server thread/INFO]: jp7806073 issued server command: /home HJ
+[03:39:28] [Server thread/INFO]: jp7806073 issued server command: /home CU
+[03:39:33] [Server thread/INFO]: jp7806073 issued server command: /home CJ
+[03:41:12] [Server thread/INFO]: jp7806073 issued server command: /home H
+[03:43:16] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[03:43:16] [Server thread/INFO]: [masturboys] jp7806073 left the game
