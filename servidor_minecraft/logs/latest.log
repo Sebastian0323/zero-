@@ -130,3 +130,7 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [17:11:58] [Server thread/INFO]: Backyardigans - Sebas23m has joined the game
 [17:11:58] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Sebas23m's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
 [17:11:58] [Server thread/INFO]: Sebas23m[/127.118.127.232:44307] logged in with entity id 52 at ([world]-1930.4957328430262, 105.0, -1299.300000011921)
+[17:23:31] [User Authenticator #1/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
+[17:23:35] [Server thread/INFO]: Cami23m joined the game
+[17:23:35] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Cami23m's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[17:23:35] [Server thread/INFO]: Cami23m[/127.118.127.232:46799] logged in with entity id 1453 at ([world]-1927.300000011921, 105.0, -1299.300000011921)
